@@ -1,0 +1,6 @@
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\bin\Debug\Homework2.2.exe.config
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\bin\Debug\Homework2.2.exe
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\bin\Debug\Homework2.2.pdb
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\obj\Debug\Homework2.2.csproj.CoreCompileInputs.cache
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\obj\Debug\Homework2.2.exe
+C:\Users\abchris\source\repos\Homework1\Homework2.2\Homework2.2\obj\Debug\Homework2.2.pdb
