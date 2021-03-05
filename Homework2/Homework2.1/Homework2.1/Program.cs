@@ -32,7 +32,7 @@ namespace primeFactor
                 return;
             }
             
-            //x是奇数时寻找质因数并添加
+            //寻找质因数并添加
             for(int i = 2; i <= x; i ++)
             {
                 if (x % i == 0)
