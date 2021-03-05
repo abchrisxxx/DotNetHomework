@@ -11,7 +11,6 @@ namespace matrix
         static bool Fun(int[,] a,int row,int col)
         {
             int flag;
-            bool result = true;
             for(int i = 0; i <= col - row;i++)
             {
                 flag = a[0,i];//基准值
@@ -19,11 +18,11 @@ namespace matrix
                 {
                     if (a[j,i+j] != flag)
                     {
-                        result = false;
+                        return false;
                     }
                 }
             }
-            return result;
+            return true;
         }
         static void Main(string[] args)
         {

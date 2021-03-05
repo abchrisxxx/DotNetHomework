@@ -4,3 +4,9 @@ C:\Users\abchris\source\repos\Homework1\Homework2.3\Homework2.3\bin\Debug\Homewo
 C:\Users\abchris\source\repos\Homework1\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csproj.CoreCompileInputs.cache
 C:\Users\abchris\source\repos\Homework1\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
 C:\Users\abchris\source\repos\Homework1\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe.config
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\bin\Debug\Homework2.3.pdb
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csproj.CoreCompileInputs.cache
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb

@@ -24,28 +24,22 @@ namespace primeFactor
         }
 
         //x是待分解数字，a[]用来保存其质因数，count统计质因数的数量
-        private static void primeFactor(int x,ref int[] a,ref int count)
+        private static void primeFactor(int x,int[] a,ref int count)
         {
             //递归结束条件
             if (x == 1)
             {
                 return;
             }
-            //x是偶数时添加质因数2
-            if (x%2 == 0){
-                a[count] = 2;
-                count++;
-                primeFactor(x / 2,ref a, ref count);//递归调用
-                return;
-            }
+            
             //x是奇数时寻找质因数并添加
-            for(int i = 3; i <= x; i += 2)
+            for(int i = 2; i <= x; i ++)
             {
                 if (x % i == 0)
                 {
                     a[count] = i;
                     count++;
-                    primeFactor(x /i,ref a, ref count);//递归调用
+                    primeFactor(x /i,a,ref  count);//递归调用
                     return;
                 }
                 
@@ -64,7 +58,7 @@ namespace primeFactor
             if (IsNum(s))
             {
                 x = int.Parse(s);
-                primeFactor(x, ref a, ref count);
+                primeFactor(x,  a,ref  count);
                 Console.Write($"{x}=");
                 for(int i = 0; i < count-1; i++)
                 {

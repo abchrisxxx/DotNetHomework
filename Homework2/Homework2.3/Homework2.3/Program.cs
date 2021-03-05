@@ -18,12 +18,9 @@ namespace primeNumber
             a[0] = 0;//筛掉1
             for(int i = 2; i <= 10; i++)
             {
-                for(int j = 2; j <= 100; j++)
-                {
-                    if (j % i == 0&&j!=i)
-                    {
+                for(int j = i*2; j <= 100; j+=i)
+                {   
                         a[j - 1] = 0;//埃氏筛法
-                    }
                 }
             }
             return a;
@@ -31,6 +28,7 @@ namespace primeNumber
         static void Main(string[] args)
         {
             int[]a=fun();
+            
             for(int i = 0; i < a.Length; i++)
             {
                 if (a[i]==1)//a[i]=1则i+1是质数
