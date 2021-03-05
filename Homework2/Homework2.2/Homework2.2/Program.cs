@@ -11,11 +11,11 @@ namespace array
         static int maxNum(int[] a,int count)
         {
             int max = int.MinValue;
-            for(int i = 0; i < count; i++)
+            foreach(int num in a)
             {
-                if (a[i] > max)
+                if (num > max)
                 {
-                    max = a[i];
+                    max = num;
                 }
             }
             return max;
@@ -24,11 +24,11 @@ namespace array
         static int minNum(int[]a,int count)
         {
             int min = int.MaxValue;
-            for (int i = 0; i < count; i++)
+            foreach (int num in a)
             {
-                if (a[i] <min)
+                if (num <min)
                 {
-                    min = a[i];
+                    min = num;
                 }
             }
             return min;
@@ -36,9 +36,9 @@ namespace array
         static int arraySum(int[]a,int count)
         {
             int sum = 0;
-            for (int i = 0; i < count; i++)
+            foreach (int num in a)
             {
-                sum += a[i];
+                sum += num;
             }
             return sum;
         }
