@@ -4,3 +4,10 @@ C:\Users\abchris\source\repos\Homework1\Homework2.4\Homework2.4\bin\Debug\Homewo
 C:\Users\abchris\source\repos\Homework1\Homework2.4\Homework2.4\obj\Debug\Homework2.4.csproj.CoreCompileInputs.cache
 C:\Users\abchris\source\repos\Homework1\Homework2.4\Homework2.4\obj\Debug\Homework2.4.exe
 C:\Users\abchris\source\repos\Homework1\Homework2.4\Homework2.4\obj\Debug\Homework2.4.pdb
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\bin\Debug\Homework2.4.exe.config
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\bin\Debug\Homework2.4.exe
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\bin\Debug\Homework2.4.pdb
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\obj\Debug\Homework2.4.csprojAssemblyReference.cache
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\obj\Debug\Homework2.4.csproj.CoreCompileInputs.cache
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\obj\Debug\Homework2.4.exe
+C:\Users\94799\Downloads\DotNetHomework-main\Homework2\Homework2.4\Homework2.4\obj\Debug\Homework2.4.pdb

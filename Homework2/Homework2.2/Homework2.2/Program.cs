@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework2._2
+namespace array
 {
     class Program
     {
@@ -53,7 +53,7 @@ namespace Homework2._2
             for(int i = 0; i < 100; i++)
             {
                 a[i] = i;
-            }
+            }//初始化数组，以1-100的数组为例
             Console.WriteLine($"The max value of the array is:{ maxNum(a,100)}");
             Console.WriteLine($"The min value of the array is:{ minNum(a, 100)}");
             Console.WriteLine($"The average value of the array is:{ arrayAvg(a, 100)}");
