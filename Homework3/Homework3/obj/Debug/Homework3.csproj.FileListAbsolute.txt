@@ -5,3 +5,10 @@ C:\Users\abchris\source\repos\Homework1\Homework3\Homework3\bin\Debug\Homework3.
 C:\Users\abchris\source\repos\Homework1\Homework3\Homework3\bin\Debug\Homework3.pdb
 C:\Users\abchris\source\repos\Homework1\Homework3\Homework3\obj\Debug\Homework3.exe
 C:\Users\abchris\source\repos\Homework1\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\94799\Desktop\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\94799\Desktop\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\94799\Desktop\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\94799\Desktop\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+C:\Users\94799\Desktop\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\94799\Desktop\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\94799\Desktop\Homework3\Homework3\obj\Debug\Homework3.pdb
