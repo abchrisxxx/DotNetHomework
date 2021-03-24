@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4", "Homework4\Homework4.csproj", "{32A085D6-BF67-46D6-B0F7-16E530E85C4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{16D89AE3-623B-4468-B07B-2F4C97465F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{32A085D6-BF67-46D6-B0F7-16E530E85C4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D89AE3-623B-4468-B07B-2F4C97465F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D89AE3-623B-4468-B07B-2F4C97465F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D89AE3-623B-4468-B07B-2F4C97465F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D89AE3-623B-4468-B07B-2F4C97465F2A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32A085D6-BF67-46D6-B0F7-16E530E85C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32A085D6-BF67-46D6-B0F7-16E530E85C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A085D6-BF67-46D6-B0F7-16E530E85C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
