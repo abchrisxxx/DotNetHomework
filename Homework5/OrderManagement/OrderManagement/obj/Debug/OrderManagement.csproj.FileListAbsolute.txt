@@ -1,0 +1,14 @@
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\abchris\source\repos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\abchris\source\repos\Homework5\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
