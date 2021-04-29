@@ -1,0 +1,593 @@
+﻿
+		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Pragma" content="no-cache"/>
+		<meta name="keywords" content="中国社会科学网-视频频道"/>
+		<meta name="description" content="中国社会科学网-视频频道"/>
+		
+
+		<title>【“三大体系”建设】从全球视野推进世界史研究  -  视频播放页 - 社科视频—中国社会科学网</title>
+		<meta http-equiv="keywords" content="三大体系" />
+		
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/base.css" />
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/paging.css" />
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/player_detail.css" />
+		<script src="
+/Portal/Tpl/templates/default/js/jquery-1.12.4.min.js"></script>
+		<script type="text/javascript" src="
+/Portal/Tpl/templates/player/swfobject.js"></script>		<!-- swf嵌入类 -->
+		<script type="text/javascript" src="
+/Portal/Tpl/templates/player/PlayPlugins.js"></script>
+		<style>
+			.textIndent{ text-indent: 2em; }
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript">
+			var sUserAgent = navigator.userAgent.toLowerCase();  
+			var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";    
+			var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsAndroid = sUserAgent.match(/android/i) == "android"; 
+			var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+			var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";			 
+			if(bIsIphoneOs || bIsAndroid || bIsWM ||bIsUc ) { 
+			 window.location.href='http://stv.cssn.cn/index.php?option=wap,view&id=9103';
+			}	
+	</script>
+		<!-- 头部--start -->
+		<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="renderer" content="webkit|ie-stand|ie-comp">
+		<meta http-equiv="Pragma" content="no-cache"/>
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/base.css" />
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/header.css" />
+		<script src="
+/Portal/Tpl/templates/default/js/jquery-1.11.1.min.js"></script>
+		<style>
+			.nav_active{ background: #153a8b; }
+		</style>
+	</head>
+	<body>
+		
+		<div class="za_nav_container">
+			<div class="headLine">
+						<div class="leftSide left">
+							<a href="http://www.cssn.cn">首页</a><a class="last" href="http://indi.cssn.cn/qt/ydkhd/" target="_blank">客户端</a>
+						</div>    
+						<div class="rightSide right">
+			
+			<script language="JavaScript">
+			//设为首页
+				function SetHome(url){
+					if (document.all) {
+						document.body.style.behavior='url(#default#homepage)';
+						document.body.setHomePage(url);
+					}else{
+						alert("抱歉，您的浏览器不支持自动设为首页，请手动设置!");
+					}
+				}
+			//加入收藏
+					function addFavorite(sURL, sTitle) {
+						sURL = encodeURI(sURL); 
+					try{   
+						window.external.addFavorite(sURL, sTitle);   
+					}catch(e) {   
+						try{   
+							window.sidebar.addPanel(sTitle, sURL, "");   
+						}catch (e) {   
+							alert("抱歉，您的浏览器不支持自动加入收藏，请手动设置!");
+						}   
+					}
+				}
+			</script>
+							
+			<a href="http://phil.cssn.cn/qt/wzdh/" target="_blank">网站导航</a>
+						<a href="javascript:SetHome('http://www.cssn.cn/')" target="_self">设为首页</a>          
+						<a href="http://sscp.cssn.cn/tgxt/zgshkxtg/" target="_blank">报刊投稿</a> 
+						<a href="https://weibo.com/p/1006063898007560/home?from=page_100606&mod=TAB#place" target="_blank">微博平台</span>
+			<!-- <a target="_blank" href="http://weibo.com/u/2201275590" style="line-height:0px;"><img src="/images/xinliangicon.jpg" style="padding-top:4px;"></a>
+			<a target="_blank" href="http://e.t.qq.com/cssn-cn?preview" style="line-height:0px;"><img src="/images/tengxunicon.jpg" style="padding-top:4px;"></a>
+			<a target="_blank" href="http://t.people.com.cn/19801521/profile" style="line-height:0px;"><img src="/images/renrenicon.jpg" style="padding-top:4px;"></a>
+						--></div>
+					</div>
+			<div class="header_top clearfix">
+				<div class="za_logo left">
+					<a href="/index.php" target="_blank" style="width: 174px; height: 69px; display: block;"><img src="
+/Portal/Tpl/templates/default/img/header/logo.gif" /></a>
+				</div>
+				
+
+                   
+									
+                   
+									
+                   
+					  
+				<div class="za_header_ad01 left">
+					<img src="http://stv.cssn.cn/image/cass/2019/5/28/1559033979_983.jpg" alt="首页头部广告"  style="width: 100%; height: 69px;"/>
+				</div>
+									
+
+				<div class="za_header_wap_logo left">
+					<img src="
+/Portal/Tpl/templates/default/img/header/header_ad.gif" alt="首页头部广告"  style="width: 61px; height: 69px;"/>
+				</div>
+				<div class="za_search right">
+					<input placeholder="请输入关键词"  class="left" id="searchWord"/>
+					<div class="za_secrch_btn left">
+					</div>
+				</div>
+			</div>
+			<div class="za_nav_container">
+				<ul>
+					<li><a href="/Portal/Html/option/com_content/ItemId/1/" target="_blank">资讯</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/2/" target="_blank">访谈</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/225/" target="_blank">热点</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/3/" target="_blank">短视频</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/4/" target="_blank">动漫</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/6/" target="_blank">纪事</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/7/" target="_blank">专题</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/8/" target="_blank">映像</a></li>
+					<!-- <li><a href="/index.php?option=com_content&ItemId=9" target="_blank">H5</a></li> -->
+					<li><a href="/Portal/Html/option/com_content/ItemId/10/" target="_blank">音频</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/5/" target="_blank">直播</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/11/" target="_blank">微视</a></li>
+					<li><a href="/Portal/Html/option/com_content/ItemId/286/" target="_blank">H5</a></li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>
+<script>
+	$(".za_secrch_btn").on("click",function(){
+		if($("#searchWord").val() != ""){
+			window.location.href = "http://stv.cssn.cn/index.php?option=default,searchList&searchWord="+encodeURI($("#searchWord").val());
+		}else{
+			alert("请输入需要搜索的关键字");
+		}
+	})
+	/*选中后nav样式 */
+
+</script>		<!-- 头部--end -->
+		<div class="za_container clearfix">
+			<div class="blank35"></div>
+			
+			<!-- 面包屑--start -->
+			
+			<div class="navigation">
+				您的当前位置 ：
+				
+
+
+				 
+				<a href="http://stv.cssn.cn/Portal/Html/option/com_content/ItemId/1" target="_blank">资讯</a> ->
+								
+
+				 
+				<a href="http://stv.cssn.cn/Portal/Html/option/com_content/ItemId/237" target="_blank">三分视点</a> ->
+								
+
+				
+
+				<a href="#" target="">【“三大体系”建设】从全球视野推进世界史研究</a>
+				
+			</div>
+			
+			<!-- 面包屑--end -->
+			<div class="blank30"></div>
+			<div class="za_content_container clearfix">
+				<div class="za_items_cnt left">
+					 
+
+					<div class="za_cnt_container clearfix">
+						<div class="blank20"></div>
+						<h3>【“三大体系”建设】从全球视野推进世界史研究</h3>
+						<h5 style="color: rgba(0,0,0,.58); text-align: center; margin: 10px 0 ; font-size: 18px; "></h5>
+						<div class="blank27"></div>
+						<div class="za_cnt_tip clearfix">
+							<div class="za_cnt_source left">
+								<div class="left">来源 ：<span></span></div>
+							     <div class="left">发布时间 ：<span>2019-07-17 09:18:24</span></div>
+							</div>
+							<div class="za_btn_share right" style="width: 262px;">
+								<div class="left za_share_tips">分享到 : </div>
+								<div class="bshare-custom icon-medium-plus left" style="margin-top: 4px;"><div class="bsPromo bsPromo2"></div>
+								<a title="分享到微信" class="bshare-weixin" href="javascript:void(0);"></a>
+								<a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+								<a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到人人网" class="bshare-renren"></a>
+								<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a></div>
+								<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script>
+								<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+							</div>
+						</div>
+						
+						<div class="za_player_container clearfix" style="margin: 10px auto 0">
+								<SCRIPT language="JavaScript">
+			function getVideoId(num,vodList) {
+					var regx = /<VideoId>[A-Za-z0-9]+<\/VideoId>/g;
+					var array = null;
+					var i = 0;
+					while ((array = regx.exec(vodList)) != null) {
+						if (num == i) {
+							str = array[num].toString();
+							str = str.replace('<VideoId>', ''); 
+							str = str.replace('</VideoId>', '');
+							//alert(str);
+							return str;
+						}
+						i++;
+					}
+					
+					return false;
+				}
+				var xml='<Vod><VideoId>6827</VideoId><duration>231440</duration><vidtype>3</vidtype><displayName>从全球视野推进世界史研究</displayName><ImgInfo><ImgUrl></ImgUrl><intranet></intranet><imageDocLibraryId>0</imageDocLibraryId><relpath></relpath></ImgInfo></Vod>';
+				//alert (xml);
+				var vodId=getVideoId(0,xml);		
+				//alert (vodId);
+				
+			</SCRIPT>
+	        <center>
+			<div id="vodPlayer"></div>
+			</center>			
+		     <script>
+
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        if( bIsIpad ) {
+			
+
+			var playurl = 'http://v.cssn.cn:80/vod/cass/cassvideo/2019/07/17/4D9EFDCA3F784e58AFD47002E69146133.mp4';
+			 document.getElementById('vodPlayer').innerHTML = "<video width='734' height='450' controls='controls' src='"+playurl+"' autoplay></video>";
+            
+        }
+        else if( bIsIphoneOs || bIsAndroid || bIsWM || bIsUc ) {
+            
+
+            var playurl = 'http://v.cssn.cn:80/vod/cass/cassvideo/2019/07/17/4D9EFDCA3F784e58AFD47002E69146133.mp4';
+            document.getElementById('vodPlayer').innerHTML = "<video width='734' height='450' controls='controls' src='"+playurl+"' autoplay></video>";
+            
+        }
+		else {
+            var flashInstalled = ( function() {
+                if(typeof window.ActiveXObject != "undefined"){
+                    return new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+                }else{
+                    return navigator.plugins['Shockwave Flash'];
+                }
+            } )();
+
+            if( flashInstalled ) {var endType ="" || "1113161745";
+                //var endType ="423110053";
+
+                var mmsURL = "http://mms.cssn.cn:8080/mms4.6/";  //播控应用路径，如：http://92.168.0.182:8080/mms4
+                var countURL = "http://mms.cssn.cn:8080/mms4.6/";  //统计路径，如：http://192.1.68.0.182:8080/mms4
+                var installPath = "http://stv.cssn.cn/Portal/Tpl/templates/player/playerProductInstall.swf";  //提示flashplayer版本安装的swf
+
+                var playerPath = "http://stv.cssn.cn/Portal/Tpl/templates/player/vodPlayer_HLS.swf";	//播放器swf路径
+
+                var playerID = "vodPlayer";		//播放器ID
+                var customWidth = "734";		//播放器宽度
+                var customHeight = "450";		//播放器高度
+                var isPreview = "false";		//是否预览模式，默认"false",后台预览时设置为"true"，播放页面为"false"
+                var isAutoPlay = "true";		//是否正常播放，默认"true".
+                var programId = '6593';
+                var paramId=programId+"#PC#"+vodId+"#"+endType+"#";
+                //alert(paramId)
+                var params = escape(paramId);
+                var isPlaylist = "false";	//是否有播放列表，“false”无播放列表，播放完毕后显示推荐视频列表。“true”播放完毕后调用playANewVideo方法
+                var customParams =escape(window.location.href);  //页面调用点播所需参数
+
+                var iconScale = "1.5";	//全屏时，台标的缩放比例
+                var pauseScale = "2";	//全屏时，暂停广告的缩放比例
+
+                var thumbnail = "";	//不自动播放时，页面指定的视频缩略图，没有缩略图，传递空串
+
+                var adPolicyID = "0"; //广告策略ID
+
+                var pp = new PlayPlugins(mmsURL, countURL, installPath);
+                //嵌入点播播放器(播放器swf地址, 播放器ID, 播放器宽度, 播放器高度, 是否预览模式, 是否自动播放, 从对外节目引用组件获得的字符串,  是否有播放列表, 页面调用点播所需参数);
+                //从对外节目引用组件获得的字符串：escape("节目ID#视频版本#视频ID);
+                pp.vodPlayer(playerPath, playerID, customWidth, customHeight,adPolicyID,isPreview, isAutoPlay, params, isPlaylist, customParams, iconScale, pauseScale, thumbnail);
+
+
+                //页面播放列表点击，调用播放器中方法
+                function playVideo(params)
+                {
+                    //播放器提供方法playVidoe(要调用的点播播放器ID, 从对外节目引用组件获得的字符串, 页面调用该点播节目所需参数);
+                    pp.playVideo("vodPlayer", params, "newCustomParams");
+                }
+
+                //拉伸播放器
+                function zoomIn()
+                {
+                    pp.setLayout("vodPlayer", "800", customHeight);
+                }
+                function zoomOut()
+                {
+                    pp.setLayout("vodPlayer", customWidth, customHeight);
+                }
+
+
+                //返回播放器页面地址
+                function localURL()
+                {
+                    return this.location.href;
+                }
+
+                //返回播放器嵌入代码
+                function swfURL()
+                {
+                    return "http://stv.cssn.cn/templates/player/vodPlayer_HLS.swf";
+                }
+            }
+            else {
+                /** 未安装flashplayer **/
+                
+
+                var playurl = 'http://v.cssn.cn:80/vod/cass/cassvideo/2019/07/17/4D9EFDCA3F784e58AFD47002E69146133.mp4';
+                document.getElementById('vodPlayer').innerHTML = "<video width='734' height='450' controls='controls' src='"+playurl+"' autoplay></video>";
+                
+            }
+		}	
+				
+	</script>
+            <!--这里是视频播放end-->
+			<script>
+        
+                    //开关灯（点播、直播组件）
+                    var isOn = "true"; 	//开关灯状态，true为开灯，false为关灯 
+                
+                    function onOffState() { return isOn; }
+                    function turnOnOffLight() 
+                    { 
+                        if(isOn) isOn = false;
+                        else isOn = true;
+                    
+                     if( document.getElementById('turnlight').style.display == 'none'){
+        
+                       document.getElementById('turnlight').style.display = "";
+                           }
+                         else{
+                        
+                        document.getElementById('turnlight').style.display = "none";
+                        
+                           }
+                    };
+            
+                    //点播播放器中点击播放历史(推荐节目列表点击)
+                        function setHistoryPlay(customParams) {window.open (customParams)}
+                    //点播播放器中点击“上一个”、“下一个”按钮（有播放列表时）
+                    function playANewVideo(witch) { a(witch); }
+        
+                    //点播播放组件推荐视频列表
+                    function getRelativeList(customParams)
+                    {
+                        var list = '[' +
+                                    
+
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/07/07/84a146316a094357a904cea8b07966d90.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/228/11430.html"' +
+                                        '},' +				
+                                    
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/07/07/84a146316a094357a904cea8b07966d90.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/254/11402.html"' +
+                                        '},' +				
+                                    
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/07/07/84a146316a094357a904cea8b07966d90.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/237/11399.html"' +
+                                        '},' +				
+                                    
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/06/11/3443b85c0960418fa011fd33b157dc650.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/228/11280.html"' +
+                                        '},' +				
+                                    
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/06/11/3443b85c0960418fa011fd33b157dc650.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/254/11274.html"' +
+                                        '},' +				
+                                    
+
+                                        '{' +
+                                        '	"programName":"【“三大体系”建设】...",' +
+                                        '	"duration":"",' +
+                                        '	"imgURL":"http://stv.cssn.cn/image/testlib/2020/06/11/3443b85c0960418fa011fd33b157dc650.jpg",' +
+                                        '	"customParams":"http://stv.cssn.cn/Portal/Html/ItemId/237/11268.html"' +
+                                        '},' +				
+                                    
+		
+                                    ']';
+                        return list;
+                    }
+                    
+                    //单个节目播放完毕后调用方法（播放后广播完毕后）
+                    function vodPlayerOnComplete()
+                    {
+                        a("vodPlayerOnComplete");
+                    }
+        
+            
+            </script>
+    		<!--视频播放end-->
+						</div>
+					
+	
+						<div class="blank13"></div>
+						<div class="za_player_time" style="display: none;">
+							播放 ：<span id="hits"></span>
+						</div>
+						<div class="blank35"></div>
+					 	<div class="za_player_intro clearfix">
+					 		<h3>视频简介</h3>
+					 		<div class="blank20"></div>
+					 		<!-- <div class="za_player_intro_cnt"> -->
+							<div style="font-size:14px ; color: #292929; line-height: 32px; text-indent: 2em;" class="textIndent">
+					 			在全球化背景下，世界史研究成为学术界广受关注的重点和热点研究领域。中国世界史研究在坚持马克思世界历史理论的指导下，突破“欧洲中心论”单一书写模式和弊端，将全球文明进程看成相互联系和相互影响的整体，努力探索构建全球化时代中国世界史研究新体系。
+					 		</div>
+							<div style="font-size:14px ; color: #292929; line-height: 32px;  text-indent: 2em;" class="textIndent">
+								
+							</div>
+					 	</div>
+					 	<div class="blank60"></div>
+					 </div>
+					
+				</div>
+				<div class="za_cnt_about right">
+					<h3>相关视频</h3>
+					<div class="za_about_list clearfix">
+						
+
+
+						<div class="za_about_list_items clearfix">
+							<div class="za_about_img"><a href="http://stv.cssn.cn/Portal/Html/ItemId/256/9293.html" target="_blank"><img src="http://stv.cssn.cn/image/testlib/2019/8/12/1565594271_573.jpg" style="height:164px;width:292px;"/></a></div>
+							<p><a href="http://stv.cssn.cn/Portal/Html/ItemId/256/9293.html" target="_blank" class="onlyline">学术体系建设稳步前进</a></p>
+						</div>
+						
+
+						<div class="za_about_list_items clearfix">
+							<div class="za_about_img"><a href="http://stv.cssn.cn/Portal/Html/ItemId/255/9257.html" target="_blank"><img src="http://stv.cssn.cn/image/cass/2019/8/6/1565055183_302.jpg" style="height:164px;width:292px;"/></a></div>
+							<p><a href="http://stv.cssn.cn/Portal/Html/ItemId/255/9257.html" target="_blank" class="onlyline">【音频】王延中谈学术体系建设</a></p>
+						</div>
+						
+
+						<div class="za_about_list_items clearfix">
+							<div class="za_about_img"><a href="http://stv.cssn.cn/Portal/Html/ItemId/252/9517.html" target="_blank"><img src="" style="height:164px;width:292px;"/></a></div>
+							<p><a href="http://stv.cssn.cn/Portal/Html/ItemId/252/9517.html" target="_blank" class="onlyline">文论话语建设的反思与探索</a></p>
+						</div>
+						
+
+						<div class="za_about_list_items clearfix">
+							<div class="za_about_img"><a href="http://stv.cssn.cn/Portal/Html/ItemId/256/9292.html" target="_blank"><img src="http://stv.cssn.cn/image/testlib/2019/8/12/1565594003_964.jpg" style="height:164px;width:292px;"/></a></div>
+							<p><a href="http://stv.cssn.cn/Portal/Html/ItemId/256/9292.html" target="_blank" class="onlyline">加快构建中国特色法学学科体系</a></p>
+						</div>
+						
+
+					</div>
+				</div>
+			</div>
+			<div class="blank80"></div>
+		</div>
+		<!-- footer -->
+		<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="renderer" content="webkit|ie-stand|ie-comp">
+		<meta http-equiv="Pragma" content="no-cache"/>
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/base.css" />
+		<link rel="stylesheet" href="
+/Portal/Tpl/templates/default/css/footer.css" />
+	</head>
+	<body>
+		<!-- 相关链接 -->
+			<div class="za_links">
+				<div class="za_link_title">
+					<a href="#" target="">相关链接</a>
+				</div>
+				<div class="za_link_list clearfix">
+					<a href="http://cass.cssn.cn/" target="_blank">中国社会科学院</a>
+					<a href="http://sscp.cssn.cn/" target="_blank">中国社会科学杂志社</a>
+					<a href="http://www.cntv.cn/" target="_blank">CCTV央视网</a>
+					<a href="http://www.brtn.cn/" target="_blank">北京网络广播电视台</a>
+					<a href="http://tv.people.com.cn/" target="_blank">人民网人民电视</a>
+					<a href="http://www.news.cn/video/index.htm" target="_blank">新华视频</a>
+					<a href="http://v.ifeng.com/" target="_blank">凤凰视频</a>
+					<a href="http://www.docuchina.cn/" target="_blank">中国纪录片网</a>
+					<a href="http://i.youku.com/u/UMTQ2NDg5MDMzNg==" target="_blank">优酷视频</a>
+					<a href="http://v.qq.com/" target="_blank">腾讯视频</a>
+				</div>
+			</div>
+		<!-- 相关链接 -->
+		<div class="blank20"></div>
+		
+		<div class="za_footer">
+			<div class="za_footer_container">
+				<div class="za_content">
+					<div class="flinkss" style="text-align:center;">
+						<a href="http://www.cssn.cn/qt/zgskygk/">中国社会科学院概况</a> | <a href="http://www.cssn.cn/qt/zgskyjj/">中国社会科学杂志社简介</a> | <a href="http://www.cssn.cn/qt/gyskw/">关于我们</a> | <a href="http://www.cssn.cn/qt/flgw/">法律顾问</a> | <a href="http://www.cssn.cn/qt/ggfw/">广告服务</a> | <a href="http://www.cssn.cn/qt/wzsm/">网站声明</a> | <a href="http://www.cssn.cn/qt/lxwm/">联系我们</a> |<a href="http://old2013.cssn.cn/">旧版入口</a> | <a href="http://english.cssn.cn/">English</a>
+					</div>
+					<div class="footer_bottom">
+				<p style="margin: 17px 0 20px">电话：010-84177688 ,&nbsp; 84177875&nbsp;&nbsp; <!-- 业务推广：84177878&nbsp;&nbsp;&nbsp;&nbsp;-->E-mail：zgshkxw_cssn@163.com&nbsp;&nbsp;&nbsp;&nbsp;京ICP备11013869号</p>
+				<div class="bottom_mark" style="position: relative;">
+                <div style="width:32px;height:42px;float:left;position: absolute;top: 0; left: 100px;"> <a href="http://www.csstoday.net/Index.html"><img src="
+/Portal/Tpl/templates/default/img/header/fico.gif"> </a></div>
+                <div  class="mark_special">
+					<p class="za_special">中国社会科学网版权所有，未经书面授权禁止使用</p>
+                    <p>Copyright © 2011-2019 by <span style="font-family:'SimSun'; font-size:18px">www.cssn.cn.</span> all rights reserved</p>
+
+                    <!-- 公安局备案代码 -->
+                    <p>
+						<script src="http://s22.cnzz.com/stat.php?id=5545901&amp;web_id=5545901&amp;show=pic" language="JavaScript"></script>
+						<a href="https://www.cnzz.com/stat/website.php?web_id=5545901" target="_blank" title="站长统计"></p>
+			</div>
+
+            </div>
+        </div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>		<!-- footer -->
+	
+
+		 <script type="text/javascript" src="http://stv.cssn.cn/modules/shinyv_StaticPage.php?action=hit_statistics&id=9103"></script>
+			<script>
+			$.getJSON("http://stv.cssn.cn/modules/shinyv_StaticPage.php?action=get_hits&id=9103",function(data){
+				$("#hits").html(data.hits);
+			});
+			</script>
+		
+	</body>
+</html>
+
+
+
+
+
+
+		
+
+
+
+
+		
+
+
+
+

@@ -1,0 +1,1012 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- 云适配脚本 --><script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/505c65ed283d7e9bb6dfecad68078fc9/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
+<base target='_blank'/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+    <title>本网原创-社科关注-中国社会科学网</title>
+    <meta name="Keywords" content="本网原创" />
+    <meta name="description" content="本网原创" />
+    <link type="text/css" rel="stylesheet" href="../../images/style.css" />
+    <link type="text/css" rel="stylesheet" href="../../images/level.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/skw_icon.ico" media="screen" />
+    <script type="text/javascript" src="../../images/jquery.js"></script>
+    <script type="text/javascript" src="../../images/slides.min.jquery.js"></script>
+    <script type="text/javascript" src="../../images/jcarousellite_1.0.1.min.js"></script>
+    <script type="text/javascript" src="../../images/script.js"></script>
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="2">
+<meta name="catalogs" content="19773">
+</head>
+
+
+<body style="behavior:url('csshover.htc')" onload="tab()">
+<!-- 头部.logo开始 -->
+<style>
+.oAprograma {
+    background: url("/images/rapidPublishedWidth.jpg") no-repeat scroll 50% 80% rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    cursor: pointer;
+    display: block;
+    font-size: 18px;
+    line-height: 28px;
+    list-style-image: none;
+    margin-top: 10px;
+    text-align: center;
+}
+.oAprograma:hover {
+    background: url("/images/rapidPublishedWidthhover.jpg") no-repeat scroll 50% 80% rgba(0, 0, 0, 0);
+    line-height: 28px;
+    list-style-image: none;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/*网站头部*/
+.topNav li ,.Itop li { list-style-type:none;}
+.topNav a ,.Itop a { color:#666; text-decoration:none;border:none;}
+.topNav img ,.Itop img { border:0px none;}
+.f-left { float:left;}
+.f-right { float:right;}
+.f-clear { clear:both;}
+
+
+.topNav {height: 42px;border: 1px solid #c9cacb;background-color: #e7e7e7;}
+.topNav .topPos {width: 1000px;margin: 0 auto; height: 100%;}
+.topNav a,.topNav a:visited,.topNav a:link {color: #727171;font-size: 14px;line-height: 40px;font-family: "宋体";padding: 0 2px;}
+.topNav a.logo { !important;}
+.topNav a:hover { !important; text-decoration: underline;}
+.topNav span {color: #727171;font-size: 14px;line-height: 40px;}
+.topNav .con1 {padding-left: 5px;} 
+.topNav .con1 .l1 {margin-left: 15px; padding-left: 15px !important;background: url(/images/nav_bg1.jpg) no-repeat 0 center;}
+.topNav .con2 {margin-left: 30px;overflow: visible;}
+.topNav .con2 a,.topNav .con2 a:visited,.topNav .con2 a:link {font-size: 14px!important;line-height: 25px!important;color: #727171!important;font-family: "微软雅黑"!important;padding: 0!important;}
+.topNav .con2 a:hover {color: #005dab !important;}
+.topNav .con2 ul {display: none; position: absolute; top:24px;left: -1px;z-index: 99; width: 60px;padding-left: 10px;border: 1px solid #DDD;background-color: #FFF;border-top: none;}
+.topNav .con2 .search_ca {position: relative;cursor: pointer; width:60px;height: 25px;border: 1px solid #c9cacb;margin:5px;background: #FFF url(/images/down.jpg) no-repeat 55px center;color: #727171;font-size: 14px;line-height: 25px;padding-left: 10px;float: left;}
+.topNav .con2 .search_con{width:125px;height: 15px;border: 1px solid #c9cacb;margin-top:5px;padding: 5px;line-height: 15px;background: #FFF url(/images/search1.png) no-repeat 3px center;_background:#FFF url(/images/search1.gif) no-repeat 3px center;}
+.topNav .con2 button {border: none;height: 26px;background-color: #005dab;margin:6px;font-size: 14px;color: #FFF;font-family: "宋体";width: 48px;cursor: pointer;}
+.Itop {width: 1000px;margin: 20px auto 0 auto;overflow: hidden;height: 115px;}
+.Itop .date{color: #898989;font-size: 14px;line-height: 25px;font-family: "宋体";text-align: center;}
+.Itop .menu-con{overflow: hidden;height: 100%;width: 705px;}
+.Itop .menu-con .menu-line1{overflow: hidden;padding-left: 300px;float: right;}
+.Itop .menu-con .menu-line2{overflow: hidden; margin-top: 35px;float: right;}
+.Itop .menu-con .menu-line3{overflow: hidden;float: right;}
+.Itop .menu-con ul li {float: left;height: 25px;}
+.Itop .menu-con ul li a,.Itop .menu-con ul li a:link,.Itop .menu-con ul li a:visited {display: block;font-size: 14px;line-height: 15px; color: #005dab;font-family: "微软雅黑";float: left;margin: 5px 0;padding: 1px 8px;}
+.Itop .menu-con ul li a:hover {text-decoration: underline;}
+.Itop .menu-con ul li.liner a{border-right: 1px solid #898989;}
+.Itop .menu-con ul li.sk {background: url(/images/splite.jpg) no-repeat -10px -72px;overflow: hidden;padding-left:36px;}
+.Itop .menu-con ul li.sz {background: url(/images/splite.jpg) no-repeat -11px -15px;padding: 0 1px 0 20px;border-right: none;}
+.Itop .menu-con ul li.pic {background: url(/images/splite.jpg) no-repeat -86px -15px;padding: 0 1px 0 20px;border-right: none;}
+.Itop .menu-con ul li.rss {background: url(/images/splite.jpg) no-repeat -163px -15px;padding: 0 1px 0 20px;border-right: none;}
+.Itop .menu-con .menu-line3 li a:hover {color: #005dab;font-weight: bold;padding-bottom: 2px;}
+.Itop .menu-con ul li.dx {background: url(/images/splite.jpg) no-repeat -250px -15px;padding: 0 0px 0 20px;border-right: none;}
+.Itop .menu-con .menu-line3 a,.Itop .menu-con .menu-line3 a:link,.Itop .menu-con .menu-line3 a:visited{color:#595757;border-right:1px solid #595757; padding: 0 10px;}
+.Itop .menu-con .menu-line3 li.last a{border-right:none;}
+.topNav a:hover{color:#c02076;}
+
+/*内容正文*/
+.f-main-left-Title{height:auto; padding:10px 10px; padding-top:0px}	
+.f-main-left-Title .TitleFont{height:auto; padding:10px 0px; color:#3e3a39; font-size:24px; font-weight:normal}
+
+.f-main-leftMain-content P{color:##333333; margin-bottom:10px; text-indent:0em;  word-wrap:break-word; }
+
+.f-main-left-sire {
+    height: auto!important;
+    min-height: 1952px;
+}
+.class14{color:##333333; clear:both;padding-left:13px;padding-right:13px;padding-top:20px}
+.class16{color:##333333; clear:both;padding-left:13px;padding-right:13px;padding-top:20px}
+.class18{color:##333333; clear:both;padding-left:13px;padding-right:13px;padding-top:20px}
+
+.class14 P{font-size:14px!important;color:##333333; margin-bottom:10px; text-indent:0;word-wrap:break-word; }
+.class16 P{font-size:16px!important;color:##333333; margin-bottom:10px; text-indent:0;word-wrap:break-word; }
+.class18 P{font-size:18px!important;color:##333333; margin-bottom:10px; text-indent:0;word-wrap:break-word;font-family:"宋体"; }
+
+.class14 P font{font-size:14px!important;}
+.class16 P font{font-size:16px!important;}
+.class18 P font{font-size:18px!important;}
+
+.class14 P font strong{font-size:14px!important;}
+.class16 P font strong{font-size:16px!important;}
+.class18 P font strong{font-size:18px!important;}
+
+
+.f-main-leftMain-content img{max-width:660px}
+.f-main-left-Title .TitleFont2{width:590px; height:auto}
+.f-main-left-Title .TitleFont2 a{left: 590px; top:0px}
+
+.TRS_Editor P{line-height:25px!important; }
+.class14 {font-size:14px!important; line-height:25px!important; }
+.class16 {font-size:16px!important; line-height:25px!important; }
+.class18 {font-size:18px!important; line-height:25px!important; }
+
+.f-main-leftMain-content img{max-width:660px}
+.class14 img{max-width:660px}
+.class16 img{max-width:660px}
+.class18 img{max-width:660px}
+#f-main{ margin-top:10px}
+
+.fontkaiti{ font-family:楷体!important; display:none}
+.font_docabstract{}
+.font_docabstract{}
+.font_DOCKEYWORDS{}
+.font_ZZJJ{}
+
+.TitleFontYinTi{ font-size:16px; text-align:center; display:block; font-family:"宋体"; width:100%; margin-top:10px;}
+.TitleFontFu{font-size:14px; font-weight:bold; display:block; text-align:center; font-family:"宋体"; margin-top:6px; margin-bottom:20px;}
+
+.TRS_Editor p embed{width:600px;height:480px}
+
+.TRS_Editor div{font-family:宋体;line-height:25px}
+div.TRS_Editor {font-family:宋体;line-height:25px;font-size:14px}
+
+/*大中小设置*/
+
+.f-main-left-Title #img1 {
+    background: url("/images/da.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/da.jpg");
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+}
+.f-main-left-Title #img1:hover {
+    background: url("/images/da1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/da1.jpg");
+}
+
+.f-main-left-Title #img2 {
+    background: url("/images/zhong.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/zhong.jpg");
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+}
+.f-main-left-Title #img2:hover {
+    background: url("/images/zhong1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/zhong1.jpg");
+}
+
+.f-main-left-Title #img3 {
+    background: url("/images/xiao.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/xiao.jpg");
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+}
+.f-main-left-Title #img3:hover {
+    background: url("/images/xiao1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+background-image: url("/images/xiao1.jpg");
+}
+
+
+.f-main-left-Title #img1{left:620px!important; width:16px!important; height:16px!important; top:0px}
+.f-main-left-Title #img2{left:640px!important; width:16px!important; height:16px!important; top:0px}
+.f-main-left-Title #img3{left:661px!important; width:16px!important; height:16px!important; top:0px}
+
+
+
+
+/*分页*/
+.fenye{color:#015CAB; margin-bottom:50px}
+
+.fenye a{border:#CBCBCB 1px solid; padding:0 5px; color:#CACACA}
+.fenye a.fenye_thispage{border:#CBCBCB 1px solid; background:#DAEFFF; padding:0 5px; color:#C85187}
+.fenye a.fenyepage{color:#015CAB;border:#CA5089 1px solid; padding:0 5px}
+.fenye .fenye_input{border:#CA5089 1px solid; width:40px ;text-align:center; line-height:18px; height:18px; }
+.fenye .fenye_sub{color:#fff; border:#CA5089 1px solid; background:#CA5089; width:45px ;text-align:center; line-height:18px; height:18px; cursor:pointer}
+
+
+
+/*其他*/
+.f-main-leftMain_programa ul li{ height:24px}
+.f-main-leftMain_programa ul li a{ font-size:16px; line-height:24px}
+
+.ImageListView ol li{ position:relative; width:620px}
+
+.ImageListView ol li span{ position:absolute; right:0px; top:0px}
+
+.Itop .menu-con ul li.sz {
+    background: url("/images/tp_top1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background-image:url("/images/tp_top1.png");
+    background-position:3px 6px;
+    border-right: medium none;
+    padding: 0 1px 0 17px;
+}
+
+.Itop .menu-con ul li.pic {
+    background: url("/images/tp_top2.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background-image:url("/images/tp_top2.png");
+    background-position:3px 7px;
+    border-right: medium none;
+    padding: 0 1px 0 20px;
+}
+
+.Itop .menu-con ul li.rss {
+    background: url("/images/tp_top3.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background-image:url("/images/tp_top3.png");
+    background-position:3px 7px;
+    border-right: medium none;
+    padding: 0 1px 0 25px;
+}
+
+.Itop .menu-con ul li.dx {
+    background: url("/images/tp_top4.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background-image:url("/images/tp_top4.png");
+    background-position:3px 6px;
+    border-right: medium none;
+    padding: 0 1px 0 20px;
+}
+
+</style>
+
+
+<div class="topNav f-clear">
+    <div class="topPos">
+        <div class="con1 f-left">
+<!--  
+            <a class='logo' href="" target="_self">登录</a>
+            <span>|</span>
+            <a class='logo' href="#" target="_self">注册</a>          
+--> 
+            <a class="l1" href="/qt/ydkhd/" target="_blank">客 户 端</a> 
+        </div>
+        <div class="con2 f-left">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+	function checkSeach() {
+		var searchfield = document.getElementById('searchfield').innerHTML;
+		//alert(searchfield);
+ 		var word = document.searchform.searchword2.value.replace("'", " ");
+		var wordarr = word.split(" ");
+		var newWord = "";
+		if(wordarr != null && wordarr.length > 1){
+			for(var raym = 0;raym<wordarr.length;raym++){
+				if(raym == 0){
+					newWord += '%'+wordarr[raym]+'%';
+				}else{
+					newWord += ' %'+wordarr[raym]+'%';
+				}
+			}
+		}else{
+			newWord = word;
+		}
+ 		//document.searchform.searchword.value = document.searchform.searchword.value.replace("'", " ");
+		if(searchfield=="&nbsp;标题&nbsp;"){document.getElementById('searchscope').value="DOCTITLE";
+		document.searchform.searchword.value = newWord;
+		
+		return true;}
+		else if(searchfield=="&nbsp;作者&nbsp;"){document.getElementById('searchscope').value="DOCAUTHOR";
+		document.searchform.searchword.value = word;
+		
+		return true;}
+		else if(searchfield=="关键字"){document.getElementById('searchscope').value="DOCKEYWORDS";
+		document.searchform.searchword.value = newWord;
+		
+		return true;}
+		else if(searchfield=="&nbsp;日期&nbsp;"){document.getElementById('searchscope').value="DOCRELTIME";
+		document.searchform.searchword.value = word;
+		
+		return true;}
+		else{return false;}       
+		
+    }
+
+//-->
+</SCRIPT>
+<form name="searchform" method="get" action="http://www.cssn.cn/was5/web/search" onsubmit="return checkSeach();" target="_blank">
+        <input type="hidden" id="channelid" name="channelid" value="254789" />
+        <input type="hidden" name="orderby" value="-CRTIME" />
+        <input type="hidden" name="perpage" value="" />
+        <input type="hidden" name="page" value="1" />
+        <input type="hidden" name="searchword" value="" />
+        <input type="hidden" id="searchscope" name="searchscope" value="DOCTITLE" />
+        <div class="search_ca f-left">
+        <a href="javascript:void(0)" target="_self" id="searchfield">&nbsp;标题&nbsp;</a>
+           <ul>
+                    <li><a href="javascript:void(0)" target="_self">&nbsp;标题&nbsp;</a></li>
+                    <li><a href="javascript:void(0)" target="_self">&nbsp;作者&nbsp;</a></li>
+                    <li><a href="javascript:void(0)" target="_self">关键字</a></li>
+                    <li><a href="javascript:void(0)" target="_self">&nbsp;日期&nbsp;</a></li>
+            </ul>
+        </div>
+        <input type="text" name="searchword2" id="textfield" class="search_con f-left" />
+        <input type="image" src="/images/tijiao-20131206.jpg" width="60" height="25" style="margin-top:5px;margin-left:2px" />
+</form>
+        </div>    
+<SCRIPT LANGUAGE="JavaScript">
+//设为首页
+    function SetHome(url){
+        if (document.all) {
+            document.body.style.behavior='url(#default#homepage)';
+               document.body.setHomePage(url);
+        }else{
+            alert("抱歉，您的浏览器不支持自动设为首页，请手动设置!");
+        }
+    }
+//加入收藏
+        function addFavorite(sURL, sTitle) {
+            sURL = encodeURI(sURL); 
+        try{   
+            window.external.addFavorite(sURL, sTitle);   
+        }catch(e) {   
+            try{   
+                window.sidebar.addPanel(sTitle, sURL, "");   
+            }catch (e) {   
+                alert("抱歉，您的浏览器不支持自动加入收藏，请手动设置!");
+            }   
+        }
+    }
+</script>
+
+        <div class="con3 f-right">
+            <a href="/qt/wzdh/" target="_blank">网站导航</a>
+            <a href="javascript:SetHome('http://www.cssn.cn/')" target="_self">设为首页</a>          
+            <a href="http://sscp.cssn.cn/tgxt/zgshkxtg/" target="_blank">报刊投稿</a> 
+            <span style="font-family: 微软雅黑;color: #C02076;font-size:15px;">微博平台</span>
+<a target="_blank" href="http://weibo.com/u/2201275590"><img src="/images/icon_2014-5-12.png" /></a>
+<!-- <a target="_blank" href="http://e.t.qq.com/cssn-cn?preview"><img src="/images/icon2_2014-5-12.png" /></a> -->
+<a target="_blank" href="http://t.people.com.cn/19801521/profile"><img src="/images/icon3_2014-5-12.png" /></a>
+        </div>
+    </div> 
+</div>
+<div class="Itop">
+        <div class="logo-con f-left">
+        <a href='http://www.cssn.cn'><img src="/images/logo_a.png" style="margin-bottom:5px;" /></a>
+        <p class="date" style=" line-height:14px">
+		
+		<script type="text/javascript">
+				var strdate = new Date();
+				var stryear = strdate.getFullYear();
+				var strmonth = strdate.getMonth() + 1;
+				var strday = strdate.getDate();
+				var strweek = strdate.getDay();
+				var arr_week=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+				document.write (stryear +"年"+ strmonth +"月"+ strday +"日 "+arr_week[strweek]);
+			</script>
+		
+		</p>
+    </div>
+    <div class="menu-con f-right">
+        <ul class="menu-line1">
+            <li class="sk liner"><a href="http://www.cass.cn" style="color:#c02076;border:0" target="_blank">中国社会科学院</a></li>
+            <li class="liner"> <a href="http://casseng.cssn.cn/" >CASS</a></li>
+            <li class="liner"><a href="http://english.cssn.cn" target="_blank">English</a></li>
+            <li><a href="http://french.cssn.cn/" target="_blank">Français</a></li>
+        </ul>   
+        <br class='f-clear' />                  
+              
+        <ul class="menu-line2">
+            <li class="sz"><a href="https://epaper.csstoday.net">微报</a></li>
+            <li class="pic"><a href="http://pic.cssn.cn">图片集</a></li>
+            <li class="rss"><a href="http://stv.cssn.cn">视频集</a></li>
+            <li class="dx"><a href="http://mall.cssn.cn">读者之家</a></li>
+        </ul>
+        <br class='f-clear' />
+        <ul class="menu-line3">
+            <li><a href="http://news.cssn.cn">关  注</a></li>
+            <!-- <li><a href="http://sub.cssn.cn">学  科</a></li> -->
+            <li><a href="http://spec.cssn.cn">专  题</a></li>
+            <li><a href="http://orig.cssn.cn">要  闻</a></li>
+            <li><a href="http://intl.cssn.cn">国  际</a></li>
+            <li><a href="http://scho.cssn.cn">学  人</a></li>
+            <li><a href="http://tt.cssn.cn">智  库</a></li>
+            <li><a href="http://joul.cssn.cn">报  刊</a></li>
+            <li><a href="http://mil.cssn.cn/jsx/">军  事</a></li>
+            <li><a href="http://lcl.cssn.cn/gd/gd_rwhn/">各  地</a></li>
+            <li><a href="http://ex.cssn.cn">独家策划</a></li>
+            <li class="last"><a href="http://db.cssn.cn">数据中心</a></li>
+        </ul>
+        <br class='f-clear' />
+    </div>
+</div>
+<style>
+/*分页*/
+.fenye{color:#015CAB; margin-bottom:50px}
+
+.fenye a{border:#CBCBCB 1px solid; padding:0 5px; color:#CACACA}
+.fenye a.fenye_thispage{border:#CBCBCB 1px solid; background:#DAEFFF; padding:0 5px; color:#C85187}
+.fenye a.fenyepage{color:#015CAB;border:#CA5089 1px solid; padding:0 5px}
+.fenye .fenye_input{border:#CA5089 1px solid; width:40px ;text-align:center; line-height:18px; height:18px; }
+.fenye .fenye_sub{color:#fff; border:#CA5089 1px solid; background:#CA5089; width:45px ;text-align:center; line-height:18px; height:18px; cursor:pointer}
+</style>
+<div class="top-line"></div>
+<div id="f-main" class="clearfix">
+	<div class="f-main-top">&nbsp;<span><a href="../../" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&gt;&nbsp;<a href="../" title="社科关注" class="CurrChnlCls">社科关注</a>&nbsp;&gt;&gt;&nbsp;<a href="./" title="本网原创" class="CurrChnlCls">本网原创</a></span></div>
+  <div class="f-main-left-sire">
+    <div class="f-main-left" style=" height:2248px">
+      <div class="f-main-leftMain-content clear" style="padding-right:0;">
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210429_5330427.shtml">“后疫情时期国际涉华舆情及应对策略”学术研讨会在京举办</a>&nbsp;<span style="font-family:宋体">2021-04-29 12:48</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330362.shtml">发挥制度优势 把握重要战略机遇期</a>&nbsp;<span style="font-family:宋体">2021-04-29 10:10</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330360.shtml">学校理想教育的价值转向</a>&nbsp;<span style="font-family:宋体">2021-04-29 10:07</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330358.shtml">红色文化大众化传播的着力点</a>&nbsp;<span style="font-family:宋体">2021-04-29 10:04</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330353.shtml">反思东欧新马克思主义异化理论</a>&nbsp;<span style="font-family:宋体">2021-04-29 10:01</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210429_5330351.shtml">从“劳动异化”到“世界异化”</a>&nbsp;<span style="font-family:宋体">2021-04-29 09:59</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330348.shtml">西方马克思主义研究的中国立场</a>&nbsp;<span style="font-family:宋体">2021-04-29 09:56</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330291.shtml">发挥基本经济制度优势 构建新发展格局</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:45</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330284.shtml">深刻把握新发展阶段的时代意蕴</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:37</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330283.shtml">深入推进以人为核心的新型城镇化</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:34</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210429_5330279.shtml">马克思主义政治经济学的理论立场</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:21</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330278.shtml">政治经济学批判的“世界市场”范畴与资本全球化</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:20</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330277.shtml">马克思主义政治经济学视域中的“双循环新发展格局”</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:15</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330275.shtml">始终坚定永远跟党走的信念</a>&nbsp;<span style="font-family:宋体">2021-04-29 08:01</span></li>
+			
+            	<li><a  href="./202104/t20210429_5330274.shtml">百年大党的信仰之路</a>&nbsp;<span style="font-family:宋体">2021-04-29 07:55</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210428_5330204.shtml">《旅游绿皮书：2020～2021年中国旅游发展分析与预测》在京发布</a>&nbsp;<span style="font-family:宋体">2021-04-28 15:17</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330122.shtml">探索文化精神传统与诗的创作历程</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:26</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330120.shtml">鲁枢元的生态环境以及精神生态研究</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:24</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330118.shtml">大家雅事：我接受了革命哲学</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:23</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330116.shtml">陆大道区域经济和经济地理理论的创新</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:21</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210428_5330112.shtml">“二重证据法”下的历史地名考释</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:15</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330109.shtml">鲁侯簋年代与“康宫”问题</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:14</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330106.shtml">曾公求编钟并未挑战“康宫原则”</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:09</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330101.shtml">舆情大数据的社会科学应用</a>&nbsp;<span style="font-family:宋体">2021-04-28 11:00</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330097.shtml">计算社会科学的发展理路</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:58</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210428_5330093.shtml">学科交叉与数据驱动下研究范式的转变</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:54</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330092.shtml">立法与德性：柏拉图《法义》研究述评</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:51</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330091.shtml">亚里士多德论立法学</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:49</span></li>
+			
+            	<li><a  href="http://www.cssn.cn/zx/202104/t20210428_5329997.shtml">古典自然法的基本要义</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:38</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330075.shtml">加强党的基层组织建设</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:37</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210428_5330073.shtml">推动农业农村现代化与乡村振兴</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:34</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330069.shtml">让遵义会议精神永放光芒</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:32</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330035.shtml">打造新时代“枫桥经验”全市域升级版</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:05</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330034.shtml">中国国家治理现代化的探索成果</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:03</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330031.shtml">构建巩固拓展生态扶贫成果长效机制</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:02</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210428_5330029.shtml">激发初始知识产权保护的创新效能</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:01</span></li>
+			
+            	<li><a  href="./202104/t20210428_5330027.shtml">数字经济发展变革国际贸易市场</a>&nbsp;<span style="font-family:宋体">2021-04-28 10:00</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329852.shtml">【文艺观澜】与时俱进的中国古典诗词歌曲</a>&nbsp;<span style="font-family:宋体">2021-04-27 14:47</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329697.shtml">【学习明理】不断从“四史”学习教育中汲取智慧力量</a>&nbsp;<span style="font-family:宋体">2021-04-27 09:51</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329655.shtml">社科评论｜江南文化为城市发展画龙点睛</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:32</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210427_5329654.shtml">社科评论｜准确把握《长江保护法》的基本原则</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:29</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329653.shtml">社科评论｜重视科技评价中的五个关系</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:28</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329652.shtml">社科评论｜国家社科基金重在发挥导向作用</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:27</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329651.shtml">敦煌悬泉月令诏条的节律诠释</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:25</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329650.shtml">传统年画：文治教化的视觉载体</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:23</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210427_5329649.shtml">南方史诗的文化精神</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:22</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329648.shtml">社会互动中情绪识别的背景效应</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:20</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329647.shtml">科学社会学研究中的民族志方法</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:19</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329646.shtml">布尔迪厄对科学的反思</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:16</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329643.shtml">康德论宗教与道德的关系</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:11</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210427_5329642.shtml">从“宗教科学”到“宗教学科”</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:07</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329640.shtml">“宗教”与“religion”：宗教学基本概念再认识</a>&nbsp;<span style="font-family:宋体">2021-04-27 08:00</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329639.shtml">孔子“敬鬼神而远之”新释</a>&nbsp;<span style="font-family:宋体">2021-04-27 07:54</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329638.shtml">为师有道：《论语》“昭公娶于吴”事件正解</a>&nbsp;<span style="font-family:宋体">2021-04-27 07:48</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329637.shtml">周秦子学的形态学思考</a>&nbsp;<span style="font-family:宋体">2021-04-27 07:45</span></li>
+			
+            </ol>
+        </div>
+
+      	<div class="ImageListView" style="margin-top:0px">
+       	  <ol>
+		  	
+            	<li><a  href="./202104/t20210427_5329636.shtml">加快构建新时代中国特色社会学</a>&nbsp;<span style="font-family:宋体">2021-04-27 07:43</span></li>
+			
+            	<li><a  href="./202104/t20210427_5329635.shtml">不确定性条件下的信任危机</a>&nbsp;<span style="font-family:宋体">2021-04-27 07:42</span></li>
+			
+            	<li><a  href="./202104/t20210426_5329576.shtml">中国共产党领导力暨建党百年学术研讨会在京举行</a>&nbsp;<span style="font-family:宋体">2021-04-26 12:46</span></li>
+			
+            	<li><a  href="./202104/t20210426_5329495.shtml">卜宪群谈传统国家制度和治理体系与新时代治国理政</a>&nbsp;<span style="font-family:宋体">2021-04-26 12:46</span></li>
+			
+            	<li><a  href="./202104/t20210426_5329321.shtml">剧本旅行与文化传播：《西厢记》的海外译介</a>&nbsp;<span style="font-family:宋体">2021-04-26 09:41</span></li>
+			
+            </ol>
+        </div>
+		
+		
+        <div class="ImageListView ImageListViewpage fenye" style=" text-align:center; ">
+        	
+			
+			<script language="javascript">
+//createPageHTML(5, 0, "index", "shtml");
+var currentPage = 0;//所在页从0开始
+//var headPage = "index"+"."+"shtml";//首页
+//var tailPage = "index_" + (countPage-1) + ".shtml"//尾页
+var prevPage = currentPage-1//上一页
+var nextPage = currentPage+1//下一页
+var countPage = 5//共多少页
+
+//document.write("共"+countPage+"页&nbsp;&nbsp;");
+//设置上一页代码
+if(countPage>1&&currentPage!=0&&currentPage!=1)
+	document.write("<a class='fenyepage' href=\"index.shtml\" target=\"_self\">首页</a>&nbsp;<a class='fenyepage' href=\"index"+"_" + prevPage + "."+"shtml\" target=\"_self\">上一页</a>&nbsp;");
+else if(countPage>1&&currentPage!=0&&currentPage==1)
+	document.write("<a class='fenyepage' href=\"index.shtml\" target=\"_self\">首页</a>&nbsp;<a class='fenyepage' href=\"index.shtml\" target=\"_self\">上一页</a>&nbsp;");
+else
+	document.write("<a class=''>首页</a>&nbsp;<a class=''>上一页</a>&nbsp;");
+	
+//循环
+//var num = 5;
+//for(var i=0+(currentPage-1-(currentPage-1)%num) ; i<=(num+(currentPage-1-(currentPage-1)%num))&&(i<countPage) ; i++){
+
+var num = 6;
+var startPage=currentPage-2;
+if(startPage<0) startPage=0;
+var endpage=startPage+num;
+if(endpage>countPage)endpage=countPage;
+
+startPage=endpage-6;
+if(startPage<0) startPage=0;
+
+for(var i=startPage; i<endpage ; i++){
+
+	if(currentPage==i)
+		document.write("<a class='fenye_thispage'>"+(i+1)+"</a>&nbsp;");
+	else if(i==0){
+		document.write("<a class='fenyepage' href=\"index.shtml\" target=\"_self\">"+1+"</a>&nbsp;");
+	}else 
+		document.write("<a class='fenyepage' href=\"index"+"_" + i + "."+"shtml\" target=\"_self\">"+(i+1)+"</a>&nbsp;");
+}
+
+//设置下一页代码 
+if(countPage>1&&currentPage!=(countPage-1))
+	document.write("<a class='fenyepage' href=\"index"+"_" + nextPage + "."+"shtml\" target=\"_self\">下一页</a>&nbsp;<a class='fenyepage' href=\"index_" + (countPage-1) + ".shtml\" target=\"_self\">尾页</a>&nbsp;");
+else
+	document.write("<a class=''>下一页</a>&nbsp;<a class=''>尾页</a>&nbsp;");
+	
+//跳转页面
+document.write("<span class='fenye_go'>跳转到：</span><input type='text' id='num' value="+(currentPage+1)+" class='fenye_input' />"+
+		             "&nbsp;<input type='text' class='fenye_sub' value='前　往' onClick=javascript:toPage() />");
+		             
+function toPage(){
+	var _num = document.getElementById("num").value;
+	var str = "index"+"_"+(_num-1)+"."+"shtml";
+	var url = location.href.substring(0,location.href.lastIndexOf("/")+1);
+	if(_num<=1||_num==null)
+		location.href = url+"index"+"."+"shtml";
+	else if(_num>countPage)
+		alert("本频道最多"+countPage+"页");
+	else
+		location.href = url+str;
+}	
+</script>
+			
+        </div>
+      </div>
+    </div>
+  </div>  
+     <div class="f-main-right">
+     	<div class="f-main-right-top clear">
+		<form name="searchform_right" method="get" action="http://www.cssn.cn/was5/web/search"  target="_target" style="margin:0;padding:0">
+	<input type="hidden" id="channelid" name="channelid" value="254789" />
+	<input type="hidden" name="orderby" value="-CRTIME" />
+    <input type="hidden" name="perpage" value="" />
+	<input type="hidden" name="page" value="1" />
+	<input type="hidden" id="searchscope" name="searchscope" value="doctitle" />
+        	<input name="searchword" type="text" class="topText" /><input name="searchword" value="新闻搜索" class="topbutton" type="submit" />
+	</form>		
+        </div>
+
+
+
+        <div class="advertisementright clear"><a href="http://www.cssn.cn/qt/ydkhd/"><img src="http://www.cssn.cn/inc/right/201507/W020180105495339770431.jpg" alt="QQ图片20180105134100.jpg"/></a></div>
+
+        <div class="advertisementright clear"><a href="https://www.toutiao.com/search/?keyword=%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%BD%91"><img src="http://www.cssn.cn/inc/right/201804/W020180418657815655326.jpg" alt="jrtt.jpg"/></a></div>
+
+        <div class="advertisementright clear"><a href="http://www.cssn.cn/qt/ydkhd/"><img src="http://www.cssn.cn/inc/right/201507/W020180418666419943069.jpg" alt="wxgzh.jpg"/></a></div>
+
+        <div class="advertisementright clear"><a href="https://weibo.com/u/2201275590?refer_flag=1001030101_"><img src="http://www.cssn.cn/inc/right/201804/W020180419372573304925.jpg" alt="777.jpg"/></a></div>
+
+
+        <div class="advertisementright clear" style="height:154px;"><a href="http://m.cssn.cn"><img src="http://www.cssn.cn/inc/right/201507/W020150724578182731899.jpg" alt="内文页广告3(手机版）.jpg"/></a></div>
+
+
+<script src="http://www.cssn.cn/adintrs/adintrs/data/script/adlocation_70/gglocation_70.js"></script>
+<!--     
+	<div class="advertisementright videoRight clear">
+        	<p  id="tedPage"><div id="tab01"><span class="u_tab_hover"><a href="http://www.cssn.cn/tp/" target="_blank"><strong>热图</strong></a></span> | <span class="u_tab"><a href="http://stv.cssn.cn/" target="_blank"><strong>视频</strong></a></span></div></p>
+			<div id="tabCon01">
+                <ul>
+                 
+                    <li><a href="http://pic.cssn.cn/tp/tp_tpqh/201804/t20180403_3896750.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201804/W020180403421583018027.jpg" alt="QQ截图20180403114114.jpg" width="117" height="87"/></a></br /><a href="http://pic.cssn.cn/tp/tp_tpqh/201804/t20180403_3896750.shtml" target="_blank">北京居庸关花海</a></li>
+                  
+                    <li><a href="http://cul.cssn.cn/wh/tpxw/201709/t20170907_3632815.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201709/W020170907392112100120.jpg" alt="117.jpg" width="117" height="87"/></a></br /><a href="http://cul.cssn.cn/wh/tpxw/201709/t20170907_3632815.shtml" target="_blank">"白露"节气落晨露</a></li>
+                  
+                    <li><a href="http://cul.cssn.cn/wh/tpxw/201708/t20170817_3613427.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201708/W020170817388953422559.jpg" alt="117.jpg" width="117" height="87"/></a></br /><a href="http://cul.cssn.cn/wh/tpxw/201708/t20170817_3613427.shtml" target="_blank">2017上海书展开幕</a></li>
+                  
+                    <li><a href="http://cul.cssn.cn/wh/tpxw/201707/t20170710_3574720.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201707/W020170710436300336247.jpg" alt="117.jpg" width="117" height="87"/></a></br /><a href="http://cul.cssn.cn/wh/tpxw/201707/t20170710_3574720.shtml" target="_blank">鸟瞰新世遗鼓浪屿</a></li>
+                  
+                    <li><a href="http://cul.cssn.cn/wh/tpxw/201707/t20170705_3570160.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201707/W020170705526887230403.jpg" alt="117.jpg" width="117" height="87"/></a></br /><a href="http://cul.cssn.cn/wh/tpxw/201707/t20170705_3570160.shtml" target="_blank">"七七事变"80周年</a></li>
+                  
+                    <li><a href="http://cul.cssn.cn/wh/wh_whrd/201706/t20170607_3543233.shtml" target="_blank"><img src="http://www.cssn.cn/tp/zxrt/201706/W020170607700801965604.jpg" alt="117.jpg" width="117" height="87"/></a></br /><a href="http://cul.cssn.cn/wh/wh_whrd/201706/t20170607_3543233.shtml" target="_blank">2017高考首日</a></li>
+                  
+				  </ul>
+                <ul style="display:none;">
+                 
+                    <li><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9134.html" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201908/W020190806452162397792_117.jpg" alt="19aec8d12bfb49ad8a3e63e551e8ef840.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9134.html" target="_blank">扎实推进国家语言</a></li>
+                  
+                    <li><a href="http://stv.cssn.cn/Portal/Html/ItemId/228/9152.html" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201907/W020190726395313201069_117.jpg" alt="QQ截图20190726105411.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/Portal/Html/ItemId/228/9152.html" target="_blank">扎实推进国家语言</a></li>
+                  
+                    <li><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9103.html" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201907/W020190718358369027145_117.jpg" alt="e59933a986834228ab1d085c6b2cf9390.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9103.html" target="_blank">从全球视野推进世</a></li>
+                  
+                    <li><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9059.html" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201907/W020190715376761079920_117.jpg" alt="833c088c28cf4fd1a72153027a938fec0.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9059.html" target="_blank">哲学社会科学界深</a></li>
+                  
+                    <li><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9013.html" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201907/W020190703503085001612_117.jpg" alt="6cf6fe146d2941bfba64b012c8b04c790.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/Portal/Html/ItemId/237/9013.html" target="_blank">发展以人民为中心</a></li>
+                  
+                    <li><a href="http://stv.cssn.cn/index.php?option=com_content&id=8946" target="_blank"><img src="http://www.cssn.cn/sp/zxsp/201907/W020190701451595596843_117.jpg" alt="72cb76fb37c4470786c604b341a30a5e0.jpg" width="117" height="87"/></a></br /><a href="http://stv.cssn.cn/index.php?option=com_content&id=8946" target="_blank">中国特色社会主义</a></li>
+                  
+				  </ul>
+            </div>	
+        </div>
+-->
+          <!--
+          <div class="advertisementright listRight clear" >
+          	<p><a ><strong>今日热点</strong></a></p>
+           <ul style="list-style-type:circle;">
+             
+            	<li><a href="../../jjx_lljjx_1/lljjx_tpxw/202104/t20210429_5330436.shtml" target="_blank">李克强:中德加强合作 用好用足“快</a></li>
+	    
+            	<li><a href="../../yyx/xsqkdt/202104/t20210429_5330432.shtml" target="_blank">《历史语言学研究》第十四辑目录</a></li>
+	    
+            	<li><a href="../../mkszy/mkszy_mkszyjbyl/202104/t20210429_5330434.shtml" target="_blank">中国共产党百年辉煌与中国现代化</a></li>
+	    
+            	<li><a href="../../zx/bwyc/202104/t20210429_5330427.shtml" target="_blank">“后疫情时期国际涉华舆情及应对策</a></li>
+	    
+            	<li><a href="../../sf/202104/t20210429_5330430.shtml" target="_blank">中国空间站天和核心舱发射任务成功</a></li>
+	    
+            	<li><a href="../../index/index_focus/202104/t20210429_5330429.shtml" target="_blank">习近平代表党中央、国务院和中央军</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/index/index_focus/202104/t20210428_5330190.shtml" target="_blank">习近平：建设新时代中国特色社会主</a></li>
+	    
+            </ul>
+          </div>
+          -->
+ <!--
+          <div class="advertisementright listRight1 clear">
+          	<p><a ><strong>频道精选</strong></a></p>
+           <ul>
+             
+            	<li><a href="http://www.cssn.cn/index/index_focus/202104/t20210428_5330190.shtml" target="_blank">习近平：建设新时代中国特色社会主</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/sf/202104/t20210429_5330430.shtml" target="_blank">中国空间站天和核心舱发射任务成功</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/sf/202104/t20210429_5330421.shtml" target="_blank">李克强与默克尔同出席中德经济技术</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/zx/202104/t20210429_5330333.shtml" target="_blank">续写新时代中国青年运动的精彩篇章</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/zx/202104/t20210429_5330330.shtml" target="_blank">突出学史明理 提升高校党史学习教</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/zx/202104/t20210429_5330300.shtml" target="_blank">自觉抵制历史虚无主义</a></li>
+	    
+            	<li><a href="http://www.cssn.cn/zx/bwyc/202104/t20210429_5330284.shtml" target="_blank">深刻把握新发展阶段的时代意蕴</a></li>
+	    
+            </ul>
+           <ul>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+                <li><a class="xml" href="" target="_blank"></a></li>
+            </ul>
+
+          </div>
+-->
+<!--
+		<script type="text/javascript">
+		window.onload(parseXML1("/topnews/abceffgh/0_today.xml"));
+function parseXML1(str)
+{
+	try //Internet Explorer
+  	{
+  		xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+  	}
+	catch(e)
+  	{
+  		try //Firefox, Mozilla, Opera, etc.
+    	{
+    		xmlDoc=document.implementation.createDocument("","",null);
+    	}
+  	catch(e)
+    {
+    	alert(e.message);
+    	return;
+    }
+	}
+	try 
+		  {
+			  xmlDoc.async=false;
+			  xmlDoc.load(str);
+		  }
+		catch(e) {//兼容谷歌（谷歌解析xml不可用load）
+					var xhr = new XMLHttpRequest(); 
+					xhr.open("GET", str, false); 
+					xhr.send(null); 
+					xmlDoc = xhr.responseXML.documentElement; 
+			}
+		 var x=xmlDoc.getElementsByTagName("article");
+	$(".xml").each(function(index){
+						$(this).attr("href",x[index].getElementsByTagName("url")[0].childNodes[0].nodeValue);
+						var txt = x[index].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+						if(txt.length>=17){
+							txt = txt.substring(0,17);
+							}
+						$(this).text(txt);
+						});
+
+}
+</script>
+-->
+
+          <div class="advertisementright listRight2 clear" >
+          	<p style="height:35px;"><a ><strong>24小时排行</strong></a></p>
+            <ul style="margin:0px; margin-left:9px;">
+
+            	
+            	<li class="label_3"><a href="http://www.cssn.cn/index/index_focus/202104/t20210429_5330429.shtml">习近平代表党中央、国务院和中央军</a></li>
+                
+                
+                <li class="label_5"><a href="http://www.cssn.cn/zx/bwyc/202104/t20210429_5330274.shtml">百年大党的信仰之路</a></li>
+                
+                
+                <li class="label_7"><a href="http://www.cssn.cn/index/index_focus/202104/t20210428_5330190.shtml">习近平在广西考察</a></li>
+                
+                
+                <li class="label_9"><a href="http://www.cssn.cn/index/index_focus/202104/t20210428_5329951.shtml">意识现象学与无意识研究的可能性</a></li>
+                
+                
+                <li class="label_11"><a href="http://news.cssn.cn/zx/bwyc/202104/t20210427_5329635.shtml">不确定性条件下的信任危机</a></li>
+                
+                
+                <li class="label_13"><a href="http://www.cssn.cn/index/index_focus/202104/t20210427_5329641.shtml">以大历史观把握历史发展规律和大势</a></li>
+                
+                
+                <li class="label_15"><a href="http://news.cssn.cn/zx/bwyc/202104/t20210426_5329269.shtml">两办印发《关于建立健全生态产品价</a></li>
+                
+                
+                <li class="label_17"><a href="http://www.cssn.cn/index/index_focus/202104/t20210426_5329518.shtml">中国的包容性财政体制</a></li>
+                
+                
+            </ul>
+          </div>
+          <!--
+          	<script type="text/javascript">
+		window.onload(parseXML2("/topnews/abceffgh/0_today.xml"));
+function parseXML2(str)
+{
+	try //Internet Explorer
+  	{
+  		xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+  	}
+	catch(e)
+  	{
+  		try //Firefox, Mozilla, Opera, etc.
+    	{
+    		xmlDoc=document.implementation.createDocument("","",null);
+    	}
+  	catch(e)
+    {
+    	alert(e.message);
+    	return;
+    }
+	}
+	try 
+		  {
+			  xmlDoc.async=false;
+			  xmlDoc.load(str);
+		  }
+		 catch(e) {//兼容谷歌（谷歌解析xml不可用load）
+					var xhr = new XMLHttpRequest(); 
+					xhr.open("GET", str, false); 
+					xhr.send(null); 
+					xmlDoc = xhr.responseXML.documentElement; 
+			}
+	 var x=xmlDoc.getElementsByTagName("article");
+	$(".xml2").each(function(index){
+						$(this).attr("href",x[index].getElementsByTagName("url")[0].childNodes[0].nodeValue);
+						var txt = x[index].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+						if(txt.length>=17){
+							txt = txt.substring(0,17);
+							}
+						$(this).text(txt);
+						});
+
+}
+</script>
+-->
+<!--
+          <div class="advertisementright listRight1 clear" >
+          	<p><a href="http://bbs.cssn.cn" target="_blank"><strong>人文社区</strong></a></p>
+            <ul>
+            	
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=498476" target="_blank">最高法报告，我们需要什么样的是非观</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=497062" target="_blank">[我与两会]与其热议个税,不如努力工</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=498475" target="_blank">【评论】大学生买房打8折 留得住心吗</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=497051" target="_blank">提高“个税起征点”，你能分多少蛋糕</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=497046" target="_blank">政府工作报告极简版来了，只有800字</a></li>
+			
+                
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=500086" target="_blank">孤竹寻音——农耕与草原的交汇</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=500095" target="_blank">未来，敦煌壁画保护将何去何从</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=500046" target="_blank">2018年春季古籍新书书单发布</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=499812" target="_blank">这部著作填补中国纺织业发展史空白</a></li>
+			
+            	<li><a href="https://bbs.cssn.cn/forum.php?mod=viewthread&tid=499135" target="_blank">商周文学语言的因革及其启示</a></li>
+			
+            </ul>
+          </div>
+-->
+         	
+     </div>
+<script type="text/javascript" src="../../images/10flexs.js"></script>
+</div>
+<!-- 头部.logo结束 -->
+
+<!-- 页面底部开始 -->
+<style>
+
+body {  color:#666; margin:0px auto;}
+.q-foot a { color:#666; text-decoration:none;border:none;font-family:"宋体"}
+.q-foot {width: 1000px; margin: 10px auto 0 auto;}
+.q-foot .flinkss {width: 100%;padding-left-del: 11px;}
+.q-foot .flinkss a,.foot .flinks a:visited,.foot .flinks a:link {color: #3a3a3a;font-size: 14px;padding: 0 7px; font-family:"宋体";}
+.q-foot .flinkss a:hover {text-decoration: underline;color: #005dab;}
+.q-foot .footer_bottom{text-align: center;font-size: 14px;color: #3A3A3A;line-height: 20px;padding-top: 10px}
+.q-foot .footer_bottom .bottom_mark {width: 490px;height: 44px;padding-left: 0px;margin: 10px auto;}
+.q-foot .footer_bottom .mark_special {color: #005DAB;letter-spacing: 6px;}
+.aaaa{background-image: url("../../../images/fico.gif");
+    height: 42px;
+    width: 32px;
+}
+</style>
+
+
+
+<div class="q-foot" style="text-align:center;margin-top:5px">
+    <div class="flinkss">
+    	<a href="/qt/zgskygk/">中国社会科学院概况</a>|<a href="/qt/zgskyjj/">中国社会科学杂志社简介</a>|<a href="/qt/gyskw/">关于我们</a>|<a href="/qt/flgw/">法律顾问</a>|<a href="/qt/ggfw/">广告服务</a>|<a href="/qt/wzsm/">网站声明</a>|<a href="/qt/lxwm/">联系我们</a>
+    </div>
+    <div class="footer_bottom">
+         <p>值班电话：010-65393398 &nbsp;&nbsp;&nbsp;E-mail：zgshkxw_cssn@163.com&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" style="color:#3A3A3A;">京ICP备11013869号</a></p>
+         <div class="bottom_mark">
+          <div style="width:32px;height:42px;float:left;"> <a href="http://www.csstoday.net/Index.html"> <div class="aaaa"></div><!-- <img src="../../images/fico.gif" class="aaaa" /> --></a></div> 
+		 <div style="width:440px;height:42px;margin-left:40px;"> <p class="mark_special">中国社会科学网版权所有，未经书面授权禁止使用</p>
+          <p >Copyright © 2011-2021 by <span style="font-family:'SimSun'; font-size:18px">www.cssn.cn.</span> all rights reserved</p>
+<p><script src="http://s22.cnzz.com/stat.php?id=5545901&web_id=5545901&show=pic" language="JavaScript"></script></p>
+         </div>  
+   </div>
+</div>
+
+
+<div style="height:24px"></div>
+
+
+<div style="display:none">
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=28' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+
+</div>
+<!-- 页面底部结束 -->
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='19773';</script>
+<script language="JavaScript" charset="utf-8" src="http://pv.cssn.cn/phpstat/count/abceffgh/abceffgh.js"></script><noscript><img src="http://pv.cssn.cn/phpstat/count/abceffgh/abceffgh.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</body>
+</html>

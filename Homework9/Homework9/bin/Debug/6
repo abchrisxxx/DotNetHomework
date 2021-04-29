@@ -1,0 +1,540 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="keywords" content="����������ڹ���ѧ��ѧ���ҽ̼�ְ���人��ѧ" />
+	<meta name="description" content="�人��ѧѧ������������ͨ����Ϣ�����裬�淶�������̡��򻯹���������߹���Ч�ʣ�Ϊ���ѧ�����ý������������������" />
+	
+	
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="static/bootstrap-4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/main.css">
+	
+
+    <title>��ҳ - �人��ѧѧ������������</title>
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="static/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript">cfg_={ROOT_URL:"http://zzgl.whu.edu.cn",WEB_NAME:"�人��ѧѧ������������",AJAX_URL:"/web/ajax.asp",salt:"#DKt/a2G@cc",ckprefix:"z2013_",debug:0,pjax:0, version:'1.24'};</script>
+	
+</head>
+<body>
+<div class="top-header">
+    <div class="container">
+        <div class="row top-header-body">
+            <div class="col-md-7 col-sm-12">
+                <span class="login">��¼��ڣ�
+                    <a href="http://my.whu.edu.cn">ѧ����������</a> |
+                    <a href="http://zzapply.whu.edu.cn/wage/login">������Ϣ����</a> |
+                    <a href="../Admin/Login.asp">���߰칫ƽ̨</a>
+                </span>
+            </div>
+            <div class="col-md-5 col-sm-12 d-flex justify-content-end">
+                <span class="date">
+                    2021��4��29��&nbsp;������
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header">
+    <div class="container">
+        <div class="row header-body">
+            <div class="col-md-7 col-sm-12 d-flex align-items-center header-body-left">
+                <img id="header-img1" src="static/img/whu-logo.png">
+                <img id="header-img2" src="static/img/whu-char.png">
+                <span id="header-title">ѧ��������������</span>
+            </div>
+            <div class="col-md-5 col-sm-12 d-flex align-items-center justify-content-center header-body-right">
+                <div id="search-box">
+                    <p>��׼���� ��������</p>
+                    <div class="search-icon-wrapper">
+                        <div class="search"></div>
+                    </div>
+                    <input type="text" id="search_input" placeholder="�����±�������...">
+                    <div id='search-box-button'>
+                        <button id="search_click">����</button>
+                    </div>
+					<ul id="search-result-list"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav  justify-content-between">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.asp">��ҳ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="present.asp">���ĸſ�</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=95">�����϶�</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=91">��ѧ����</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=93">����ѧ��</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=89">�ڹ���ѧ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=90">��������</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Message.asp">�����ʴ�</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="FileList.asp">��������</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="category.asp?c=94">����ר��</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<script type="text/javascript">
+	cfg_.title = "��ҳ - �人��ѧѧ������������";
+	cfg_.time = "1619685048";
+	cfg_.navurl = "��ҳ";
+</script>
+
+<div class="carousel">
+	<div class="container">
+		<div class="row">
+			<div class="bd">
+				<div id="carousel-body" class="carousel slide" data-ride="carousel">
+					<!--<ol class="carousel-indicators">-->
+						<!--<li data-target="#carousel-body" data-slide-to="0" class="active"></li>-->
+						<!--<li data-target="#carousel-body" data-slide-to="1"></li>-->
+						<!--<li data-target="#carousel-body" data-slide-to="2"></li>-->
+					<!--</ol>-->
+					<ol class="carousel-indicators">
+						<li data-target="#carousel-body" data-slide-to="0" class="active"></li>
+						<li data-target="#carousel-body" data-slide-to="1"></li>
+						<li data-target="#carousel-body" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img src="/UploadFile/Lantern/2021416105352.jpg" class="d-block w-100" alt="No pic">
+							<div class="carousel-caption d-none d-md-block">
+								<p><a href="http://zzapply.whu.edu.cn/star">�����조��ǿ֮�ǡ���ѡ�</a></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<img src="/UploadFile/Lantern/2021316172712.jpg" class="d-block w-100" alt="No pic">
+							<div class="carousel-caption d-none d-md-block">
+								<p><a href="ArticleShow.asp?Id=3831"></a></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<img src="/UploadFile/Lantern/2020111312450.jpg" class="d-block w-100" alt="No pic">
+							<div class="carousel-caption d-none d-md-block">
+								<p><a href="ArticleShow.asp?Id=3790"></a></p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<main class="content">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">������̬</span>
+					<a href="category.asp?c=86" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div>
+						<ul class="list-unstyled list">
+							<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3837' target='_blank' title='ӣ����Ӱح����Ϊ��æ[2021/3/24]'><span class='ArticleTitleColor'>ӣ����Ӱح����Ϊ��æ</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3836' target='_blank' title='ӣ��ʹ��ح����վ�ڴ�����[2021/3/24]'><span class='ArticleTitleColor'>ӣ��ʹ��ح����վ�ڴ�����</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3832' target='_blank' title='ӣ����Ӱ | ӣ�����¿������촺����[2021/3/13]'><span class='ArticleTitleColor'>ӣ����Ӱ | ӣ�����¿������촺����</span></a></div><div class='dateTime'>03-13</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3815' target='_blank' title='WHU�����ܶ����£���˵������Ҫһ����ů�ͳɳ�[2021/2/20]'>WHU�����ܶ����£���˵������Ҫһ����ů�ͳɳ�</a></div><div class='dateTime'>02-20</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3811' target='_blank' title='У��ί���������ǫ��ѧԺο�ʼ�ͥ��������ѧ��[2021/1/6]'>У��ί���������ǫ��ѧԺο�ʼ�ͥ��������ѧ��</a></div><div class='dateTime'>01-06</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3810' target='_blank' title='���ʵ�������᣺Ŀ���������[2021/1/1]'>���ʵ�������᣺Ŀ���������</a></div><div class='dateTime'>01-01</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3761' target='_blank' title='�人��ѧ��֯�ٿ�2020��2021ѧ�����������ר���[2020/9/13]'><span class='ArticleTitleColor'>�人��ѧ��֯�ٿ�2020��2021ѧ�����������ר���</span></a></div><div class='dateTime'>09-13</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3760' target='_blank' title='��ɫͨ����ͨ ������������[2020/9/13]'><span class='ArticleTitleColor'>��ɫͨ����ͨ ������������</span></a></div><div class='dateTime'>09-13</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3780' target='_blank' title='����ѵ��ѧ����ҵ��ָ����������������ҵ����ѵ[2020/10/26]'><span class='ArticleTitleColor'>����ѵ��ѧ����ҵ��ָ����������������ҵ����ѵ</span></a></div><div class='dateTime'>10-26</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3588' target='_blank' title='������ר��2020����¯����Ϊ��ͥ��������ѧ��׼����ȫ��λ���ԣ�[2020/7/10]'><span class='ArticleTitleColor'>������ר��2020����¯����Ϊ��ͥ��������ѧ��׼����ȫ��λ���ԣ�</span></a></div><div class='dateTime'>07-10</div></div>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">֪ͨ����</span>
+					<a href="category.asp?c=85" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div>
+						<ul class="list-unstyled list">
+							<div class='articleList'><div class='articleTitle'><span class='sprite recentArticle' title='������3����'></span><span class='setTop'></span><a href='ArticleShow.asp?id=3854' target='_blank' title='2021��ӣ�������ڼ��ڹ���ѧѧ���ͳ굽��֪ͨ[2021/4/28]'><span class='ArticleTitleColor'>2021��ӣ�������ڼ��ڹ���ѧѧ���ͳ굽��֪ͨ</span></a></div><div class='dateTime'>04-28</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3852' target='_blank' title='��������2021���ҵ��������ѧ������ع�����֪ͨ[2021/4/25]'>��������2021���ҵ��������ѧ������ع�����֪ͨ</a></div><div class='dateTime'>04-25</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3851' target='_blank' title='���ڱ���2021��3-4�·ݱ������ڹ���ѧ�ͳ��֪ͨ[2021/4/25]'>���ڱ���2021��3-4�·ݱ������ڹ���ѧ�ͳ��֪ͨ</a></div><div class='dateTime'>04-25</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3850' target='_blank' title='�人��ѧ�������ѧ��ʮ����ǿ֮�ǡ�������ǿ֮�ǡ�������������ʾ[2021/4/22]'><span class='ArticleTitleColor'>�人��ѧ�������ѧ��ʮ����ǿ֮�ǡ�������ǿ֮�ǡ�������������ʾ</span></a></div><div class='dateTime'>04-22</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3849' target='_blank' title='����֪ͨ[2021/4/19]'>����֪ͨ</a></div><div class='dateTime'>04-19</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3846' target='_blank' title='�人��ѧ�������ѧ������ǿ֮�ǡ���ѡ�20ǿ������ʾ[2021/4/13]'>�人��ѧ�������ѧ������ǿ֮�ǡ���ѡ�20ǿ������ʾ</a></div><div class='dateTime'>04-13</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3840' target='_blank' title='�人��ѧ2021��1��-6�¹�����ѧ����֪ͨ[2021/3/31]'>�人��ѧ2021��1��-6�¹�����ѧ����֪ͨ</a></div><div class='dateTime'>03-31</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3833' target='_blank' title='���ڿ�չ�人��ѧ�������ѧ������ǿ֮�ǡ���ѡ���֪ͨ[2021/3/18]'><span class='ArticleTitleColor'>���ڿ�չ�人��ѧ�������ѧ������ǿ֮�ǡ���ѡ���֪ͨ</span></a></div><div class='dateTime'>03-18</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3828' target='_blank' title='2021��1-2�±������ڹ���ѧ�ͳ꼰�����ڰ�������������֪ͨ[2021/3/8]'><span class='ArticleTitleColor'>2021��1-2�±������ڹ���ѧ�ͳ꼰�����ڰ�������������֪ͨ</span></a></div><div class='dateTime'>03-08</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3816' target='_blank' title='���ڱ���2021��1-2�·ݱ������ڹ���ѧ�ͳ��֪ͨ[2021/2/22]'><span class='ArticleTitleColor'>���ڱ���2021��1-2�·ݱ������ڹ���ѧ�ͳ��֪ͨ</span></a></div><div class='dateTime'>02-22</div></div>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">������Ϣ</span>
+					<a href="category.asp?c=92" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div>
+						<ul class="list-unstyled list">
+							<div class='articleList'><div class='articleTitle'><span class='sprite recentArticle' title='������3����'></span><span class='setTop'></span><a href='ArticleShow.asp?id=3855' target='_blank' title='��Ϣ��ѧ�ֹݱ�����������Ƹ[2021/4/29]'>��Ϣ��ѧ�ֹݱ�����������Ƹ</a></div><div class='dateTime'>04-29</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3853' target='_blank' title='����Ƹ����δ����У�ڸ�λ�������幤������[2021/4/26]'><span class='ArticleTitleColor'>����Ƹ����δ����У�ڸ�λ�������幤������</span></a></div><div class='dateTime'>04-26</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3762' target='_blank' title='����Ƹ����δ����У�ڸ�λ����ƴ���[2021/4/25]'>����Ƹ����δ����У�ڸ�λ����ƴ���</a></div><div class='dateTime'>04-25</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3835' target='_blank' title='����Ƹ��У�ڸ�λ�����ڼ��ţ�[2021/4/7]'><span class='ArticleTitleColor'>����Ƹ��У�ڸ�λ�����ڼ��ţ�</span></a></div><div class='dateTime'>04-07</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3839' target='_blank' title='����Ƹ����δ����У�ڸ�λ��ѧ��ʵ���Ұ�ȫЭ��Ա��[2021/3/24]'><span class='ArticleTitleColor'>����Ƹ����δ����У�ڸ�λ��ѧ��ʵ���Ұ�ȫЭ��Ա��</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3838' target='_blank' title='����Ƹ����δ����У�ڸ�λ��ͼ��ݣ�[2021/3/24]'><span class='ArticleTitleColor'>����Ƹ����δ����У�ڸ�λ��ͼ��ݣ�</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3826' target='_blank' title='����Ƹ����δ����У�ڸ�λ��ѧ������������ģ�[2021/3/24]'><span class='ArticleTitleColor'>����Ƹ����δ����У�ڸ�λ��ѧ������������ģ�</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3827' target='_blank' title='����Ƹ����δ����У�ڸ�λ�������ݣ�[2021/3/24]'><span class='ArticleTitleColor'>����Ƹ����δ����У�ڸ�λ�������ݣ�</span></a></div><div class='dateTime'>03-24</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3805' target='_blank' title='�߽�Ta�� | ��10�ڣ�������ѯ��Щ�¶�[2020/12/23]'>�߽�Ta�� | ��10�ڣ�������ѯ��Щ�¶�</a></div><div class='dateTime'>12-23</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3802' target='_blank' title='�߽�Ta�� | ��9�ڣ���һ���ġ��豸�������[2020/12/13]'>�߽�Ta�� | ��9�ڣ���һ���ġ��豸�������</a></div><div class='dateTime'>12-13</div></div>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">�����ƶ�</span>
+					<a href="category.asp?c=88" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div>
+						<ul class="list-unstyled list">
+							<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3752' target='_blank' title='�人��ѧ������������ѧ��������а취[2020/9/7]'>�人��ѧ������������ѧ��������а취</a></div><div class='dateTime'>09-07</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3587' target='_blank' title='�人��ѧ��ͥ��������ѧ���϶�ʵʩ�취[2020/7/8]'>�人��ѧ��ͥ��������ѧ���϶�ʵʩ�취</a></div><div class='dateTime'>07-08</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3569' target='_blank' title='����ӡ���人��ѧ��������ƶ������ͥѧ����׼�����Ĺ������а취��֪ͨ[2019/2/18]'>����ӡ���人��ѧ��������ƶ������ͥѧ����׼�����Ĺ������а취��֪ͨ</a></div><div class='dateTime'>02-18</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3568' target='_blank' title='����ӡ���人��ѧ�����ѧ�����취���޶��壩��֪ͨ[2019/2/18]'>����ӡ���人��ѧ�����ѧ�����취���޶��壩��֪ͨ</a></div><div class='dateTime'>02-18</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3496' target='_blank' title='����ӡ�����人��ѧ�������ڹ���ѧ����ʵʩ�취���޶�������֪ͨ[2019/2/18]'>����ӡ�����人��ѧ�������ڹ���ѧ����ʵʩ�취���޶�������֪ͨ</a></div><div class='dateTime'>02-18</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3340' target='_blank' title='���ҿ���������ѧ����ҵ������Ƭ[2018/4/23]'>���ҿ���������ѧ����ҵ������Ƭ</a></div><div class='dateTime'>04-23</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3226' target='_blank' title='����ӡ�����人��ѧ������ѧ�������ʵʩ�취����֪ͨ[2017/6/1]'>����ӡ�����人��ѧ������ѧ�������ʵʩ�취����֪ͨ</a></div><div class='dateTime'>06-01</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3137' target='_blank' title='������ʵ�����ڰ�����������Ŀ��֪ͨ[2017/5/19]'><span class='ArticleTitleColor'>������ʵ�����ڰ�����������Ŀ��֪ͨ</span></a></div><div class='dateTime'>05-19</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=2742' target='_blank' title='������ ������ �й��������� �����������ƹ�����ѧ�������ߵ��������̲�[2015]7��[2015/9/15]'>������ ������ �й��������� �����������ƹ�����ѧ�������ߵ��������̲�[2015]7��</a></div><div class='dateTime'>09-15</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=2584' target='_blank' title='����ӡ�����人��ѧ��ҵ��ѧ�Ѻ͹�����ѧ�������ʵʩ�취����֪ͨ[2014/9/7]'>����ӡ�����人��ѧ��ҵ��ѧ�Ѻ͹�����ѧ�������ʵʩ�취����֪ͨ</a></div><div class='dateTime'>09-07</div></div>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">����ָ��</span>
+					<a href="category.asp?c=87" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div>
+						<ul class="list-unstyled list">
+							<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3753' target='_blank' title='�϶�����Ҫ֪������Щ��[2020/9/7]'><span class='ArticleTitleColor'>�϶�����Ҫ֪������Щ��</span></a></div><div class='dateTime'>09-07</div></div>
+<div class='articleList'><div class='articleTitle'><span class='setTop'></span><a href='ArticleShow.asp?id=3592' target='_blank' title='һͼ��������ͥ��������ѧ���϶�����[2020/9/4]'><span class='ArticleTitleColor'>һͼ��������ͥ��������ѧ���϶�����</span></a></div><div class='dateTime'>09-04</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3658' target='_blank' title='�������Ϣ�Ż����Ƹ�����Ϣ[2020/7/10]'>�������Ϣ�Ż����Ƹ�����Ϣ</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3660' target='_blank' title='�人��ѧ�������ڹ���ѧ��λ�ͳ걨������[2020/7/10]'>�人��ѧ�������ڹ���ѧ��λ�ͳ걨������</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=2888' target='_blank' title='�人��ѧ�������ڹ���ѧѧ�������˻��˶Լ����˲�ѯ����[2020/7/10]'>�人��ѧ�������ڹ���ѧѧ�������˻��˶Լ����˲�ѯ����</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3021' target='_blank' title='�人��ѧ�������ڹ���ѧ��λ������֪���ù���λ���ã�[2020/7/10]'>�人��ѧ�������ڹ���ѧ��λ������֪���ù���λ���ã�</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3650' target='_blank' title='���ȷ���Լ��Ƿ�ΪѧУ�ڿ��ͥ��������ѧ��[2020/7/10]'>���ȷ���Լ��Ƿ�ΪѧУ�ڿ��ͥ��������ѧ��</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3022' target='_blank' title='�������ڹ���ѧ��λ�������̣�ѧ�����ã�[2020/7/10]'>�������ڹ���ѧ��λ�������̣�ѧ�����ã�</a></div><div class='dateTime'>07-10</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3651' target='_blank' title='�人��ѧ��ͥ��������ѧ���϶�����ָ��[2020/7/6]'>�人��ѧ��ͥ��������ѧ���϶�����ָ��</a></div><div class='dateTime'>07-06</div></div>
+<div class='articleList'><div class='articleTitle'><a href='ArticleShow.asp?id=3654' target='_blank' title='��ε������人��ѧ��ͥ��������ѧ���϶�������[2019/10/17]'>��ε������人��ѧ��ͥ��������ѧ���϶�������</a></div><div class='dateTime'>10-17</div></div>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<p class="content-header">
+					<span class="title">ר����Ƶ</span>
+					<a href="category.asp?c=96" target="_blank" class="link">
+						MORE>
+					</a>
+				</p>
+				<div class="content-split-line"></div>
+				<div class="content-body">
+					<div class="main-video">
+						<div class="video-wrapper" onclick="window.location.href='ArticleShow.asp?Id=3645'">
+							<div class="play-icon-wrapper">
+								<div class="play"></div>
+							</div>
+							<img src="/UploadFile/VideoPic/20191013122718.jpg">
+						</div>
+
+					</div>
+					<div class="prepare-video">
+						<div class="video-wrapper-prepare" onclick="window.location.href='ArticleShow.asp?Id=3667'">
+							<img src="/UploadFile/VideoPic/2019112710732.png">
+						</div>
+						<div class="video-wrapper-prepare" onclick="window.location.href='ArticleShow.asp?Id=3647'">
+							<img src="/UploadFile/VideoPic/2019112710535.png">
+						</div>
+						<div class="video-wrapper-prepare" onclick="window.location.href='ArticleShow.asp?Id=3644'">
+							<img src="/UploadFile/VideoPic/2019101312140.jpg">
+						</div>
+						<div class="video-wrapper-prepare" onclick="window.location.href='ArticleShow.asp?Id=3643'">
+							<img src="/UploadFile/VideoPic/20191013114718.jpg">
+						</div>
+						
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+	
+	<footer class="footer">
+		<div class="container footer-body">
+			<div class="row justify-content-center">
+				<div class="col-sm-4 col-md-4 text-center friend-item friend-link">
+					<h5>��������</h5>
+					<div class="row text-left">
+						<div class="col-sm-8 col-md-6 line-item"><a href="http://www.moe.gov.cn/" target="_blank">�л����񹲺͹�������</a></div>
+						<div class=" col-sm-12 col-md-6 line-item"><a href="http://www.xszz.cee.edu.cn/" target="_blank">ȫ��ѧ��������������</a></div>
+						<div class=" col-sm-12 col-md-6 line-item"><a href="http://www.hbe.gov.cn" target="_blank">����ʡ������</a></div>
+						<div class=" col-sm-12 col-md-6 line-item"><a href="http://zzpt.e21.edu.cn" target="_blank">����ʡ��ѧ��</a></div>
+						<div class=" col-sm-12 col-md-6 line-item"><a href="http://bwyxzz.emis.edu.cn/index.jsp" target="_blank">ȫ������������Ϣϵͳ</a></div>
+						<div class=" col-sm-12 col-md-6 line-item"><a href="http://www.whu.edu.cn/" target="_blank">�人��ѧ</a></div>
+						<!--<div class="col-6 line-item"><a href="http://jwb.whu.edu.cn/" target="_blank">������Ժ</a></div>-->
+						<!--<div class="col-6 line-item"><a href="http://xgb.whu.edu.cn" target="_blank">��ίѧ��������</a></div>-->
+						<!--<div class="col-6 line-item"><a href="http://ygb.whu.edu.cn/" target="_blank">��ί�о���������</a></div>-->
+					</div>
+
+				</div>
+
+				<div class="col-sm-8 col-md-4 text-center friend-item">
+					<h5>��ϵ����</h5>
+					<div class="line-item"><span>�����绰��027-68752867 68755287 68753507</span></div>
+					<!--<div class="line-item"><span>�������棺027-68756597</span></div>-->
+					<div class="line-item"><span>�������䣺zzzx@whu.edu.cn qgzx@whu.edu.cn</span></div>
+					<div class="line-item"><span>�ء���ַ���人��ѧ������Ժ��¥��¥</span></div>
+				</div>
+				<div class="col-sm-12 col-md-4 col-lg-4 friend-item  text-center friend-qr">
+					<h5>�ٷ�΢��</h5>
+					<img src="static/img/qr-code-1.jpg">
+					<img src="static/img/qr-code-2.jpg">
+				</div>
+			</div>
+			<div class="row">
+				<p class="copyright">�人��ѧѧ��������������&copy;��Ȩ���С�����֧��:�人��ѧ�ڹ���ѧ�����ܶӡ���ǰ�汾: 1.24(2019)</p>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Optional JavaScript -->
+	<script src="static/popper.min.js"></script>
+	<script src="static/bootstrap-4.3.1/js/bootstrap.min.js"></script>
+
+	
+	
+	<!-- /end #wrap -->
+	<!--  <script src="static/pjax.js?1.24" type="text/javascript"></script>-->
+	<!--  <script src="static/main.js?1.24" type="text/javascript"></script>-->
+	<script type="text/javascript">
+		// GO TOP @ 2013-08-23 13:29:44
+		GoTop = function() {
+
+			this.config = {
+				pageWidth			:1140,			// ҳ����
+				nodeId				:'_go-top_',	// Go Top �ڵ�� ID
+				nodeWidth			:49,			// Go Top �ڵ���
+				distanceToBottom	:185,			// Go Top �ڵ��ϱߵ�ҳ��ײ��ľ���
+				distanceToPage		:25,			// Go Top �ڵ���ߵ�ҳ���ұߵľ���
+				hideRegionHeight	:130,			// ���ؽڵ�����ĸ߶� (�������ҳ�涥����ʼ)
+				text				:'��'			// Go Top ���ı�����
+			};
+
+			this.cache = {
+				topLinkThread		:null		// ��ʾ Go Top �ڵ���̱߳��� (���� IE6)
+			}
+		};
+
+		GoTop.prototype = {
+
+			init: function(config) {
+				this.config = config || this.config;
+				var _self = this;
+
+				// ������Ļ, �޸Ľڵ�λ�ú���ʾ״̬
+				jQuery(window).scroll(function() {
+					_self._scrollScreen({_self:_self});
+				});
+
+				// �ı���Ļ�ߴ�, �޸Ľڵ�λ��
+				jQuery(window).resize(function() {
+					_self._resizeWindow({_self:_self});
+				});
+
+				// ��ҳ���в���ڵ�
+				_self._insertNode({_self:_self});
+			},
+
+			/**
+			 * ��ҳ���в���ڵ�
+			 */
+			_insertNode: function(args) {
+				var _self = args._self;
+
+				// ����ڵ㲢�󶨽ڵ��¼�, ���ڵ㱻���, �� 0.4 ���ʱ�������ҳ�涥��
+				var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="#">' + _self.config.text + '</a>');
+				topLink.click(function() {
+					var go_top_use_time = $(document).height()>2000 ? 400 : 250;
+					jQuery('html,body').animate({scrollTop: 0}, go_top_use_time);
+					return false;
+				}).appendTo(jQuery('body'));
+
+				// �ڵ㵽��Ļ�ұߵľ���
+				var right = _self._getDistanceToBottom({_self:_self});
+
+				// IE6 (��֧�� position:fixed) ����ʽ
+				if(/MSIE 6/i.test(navigator.userAgent)) {
+					topLink.css({
+						'display': 'none',
+						'position': 'absolute',
+						'right': right + 'px'
+					});
+
+				// �������������ʽ
+				} else {
+					topLink.css({
+						'display': 'none',
+						'position': 'fixed',
+						'right': right + 'px',
+						'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
+					});
+				}
+			},
+
+			/**
+			 * �޸Ľڵ�λ�ú���ʾ״̬
+			 */
+			_scrollScreen: function(args) {
+				var _self = args._self;
+
+				// ���ڵ������������, ���ؽڵ�
+				var topLink = jQuery('#' + _self.config.nodeId);
+				if(jQuery(document).scrollTop() <= _self.config.hideRegionHeight) {
+					clearTimeout(_self.cache.topLinkThread);
+					topLink.hide();
+					return;
+				}
+
+				// ����������֮��, IE6 ���޸Ľڵ���ҳ���е�λ��, ����ʾ�ڵ�
+				if(/MSIE 6/i.test(navigator.userAgent)) {
+					clearTimeout(_self.cache.topLinkThread);
+					topLink.hide();
+
+					_self.cache.topLinkThread = setTimeout(function() {
+						var top = jQuery(document).scrollTop() + jQuery(window).height() - _self.config.distanceToBottom;
+						topLink.css({'top': top + 'px'}).fadeIn();
+					}, 400);
+
+				// ����������֮��, �����������ʾ�ڵ�
+				} else {
+					topLink.fadeIn();
+				}
+			},
+
+			/**
+			 * �޸Ľڵ�λ��
+			 */
+			_resizeWindow: function(args) {
+				var _self = args._self;
+
+				var topLink = jQuery('#' + _self.config.nodeId);
+
+				// �ڵ㵽��Ļ�ұߵľ���
+				var right = _self._getDistanceToBottom({_self:_self});
+
+				// �ڵ㵽��Ļ�����ľ���
+				var top = jQuery(window).height() - _self.config.distanceToBottom;
+				// IE6 ��ʹ�õ�ҳ�涥���ľ���ȡ��
+				if(/MSIE 6/i.test(navigator.userAgent)) {
+					top += jQuery(document).scrollTop();
+				}
+
+				// �ض���ڵ�λ��
+				topLink.css({
+					'right': right + 'px',
+					'top': top + 'px'
+				});
+			},
+
+			/**
+			 * ��ȡ�ڵ㵽��Ļ�ұߵľ���
+			 */
+			_getDistanceToBottom: function(args) {
+				var _self = args._self;
+
+				// �ڵ㵽��Ļ�ұߵľ��� = (��Ļ��� - ҳ���� + 1 "�˴� 1px ��������ƫ��" ) / 2 - �ڵ��� - �ڵ���ߵ�ҳ���ұߵĿ�� (20px), ������ұ߾�����Ļ�߽粻С�� 10px
+				var right = parseInt((jQuery(window).width() - _self.config.pageWidth + 1)/2 - _self.config.nodeWidth - _self.config.distanceToPage, 10);
+				if(right < 10) {
+					right = 10;
+				}
+
+				return right;
+			}
+		};
+		// go top ��� @ 2013-08-26 20:08:35
+		if($(window).width()>1024) (new GoTop()).init();
+	</script>
+	
+	<script src="static/js/crypt.js?1.24" type="text/javascript"></script>
+	
+	<script type="text/javascript" src="static/dcsearch/main.js"></script>
+	
+	<!--���ؾɰ棬������ɾ�� -->
+	<div onclick="window.location.href='/web_old/index.asp'" style="position:fixed;right: 116px;top: 618px;width: 49px;height: 41px;background: #ccc;border-radius: 5px;font-size: smaller;text-align: center;color: #eee;cursor: pointer;opacity:0.9" id="back_to_old">
+		����<br />�ɰ�
+	</div>
+
+</body>
+</html>

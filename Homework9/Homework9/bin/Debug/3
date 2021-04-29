@@ -1,0 +1,593 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD>
+
+<TITLE>武大新闻网</TITLE><META Name="keywords" Content="武大新闻网" />
+
+
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META name="keyword" content="">
+<META name="description" content="习近平视察武汉大学鄂州杂交水稻研究基地"><LINK href="dfiles/11299/skin/news/css/main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="dfiles/11299/skin/news/js/jquery.js"></script>
+<script type="text/javascript" src="dfiles/11299/skin/news/js/myjs.js"></script>
+</LINK>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230747f47545350574703080005 -->
+<link rel="stylesheet" type="text/css" href="list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1015,'/list.jsp',-1,1245613553)</script>
+</HEAD>
+<BODY><!-- 页头 -->
+<DIV class="maxwidth" id="page_top">
+<DIV class="logo"></DIV>
+<DIV class="clear"></DIV>
+<DIV class="daohang kuang1 l">
+<DIV class="left"></DIV>
+<DIV class="body" style="width: 838px">
+<DIV class="daohanglist">
+<UL><LI><A href="index.htm">网站首页</A></LI><li><a href="wdyw.htm" title="武大要闻">武大要闻</a></li><li><a href="mtwd.htm" title="媒体武大">媒体武大</a></li><li><a href="ztbd.htm" title="专题报道">专题报道</a></li><li><a href="ljrw.htm" title="珞珈人物">珞珈人物</a></li><li><a href="gjjl.htm" title="国际交流">国际交流</a></li><li><a href="bfxy.htm" title="缤纷校园">缤纷校园</a></li><li><a href="xyzs.htm" title="校友之声">校友之声</a></li><li><a href="ljlt.htm" title="珞珈论坛">珞珈论坛</a></li><li><a href="xwrx.htm" title="新闻热线">新闻热线</a></li><li><a href="ttxw.htm" title="头条新闻">头条新闻</a></li><li><a href="zhxw.htm" title="综合新闻">综合新闻</a></li><li><a href="ljyx.htm" title="珞珈影像">珞珈影像</a></li><li><a href="kydt.htm" title="学术动态">学术动态</a></li><li><a href="djpx.htm" title="点击排行">点击排行</a></li><li><a href="ljfk.htm" title="珞珈副刊">珞珈副刊</a></li><li><a href="xsgc.htm" title="校史钩沉">校史钩沉</a></li><li><a href="lgxd.htm" title="来稿选登">来稿选登</a></li><div class="clear"></div></UL></DIV></DIV>
+<DIV class="right"></DIV></DIV>
+<DIV class="sj kuang1 r">
+<DIV class="left"></DIV>
+<DIV class="body" id="calander" style="width: 116px"><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar46795EnDateString;
+
+var c_Calendar46795WeekDayString;
+
+//阴历
+var c_Calendar46795CnDateString;
+//节气
+var c_Calendar46795JQString;
+//年
+var c_Calendar46795YearString;
+//月
+var c_Calendar46795MonthString;
+//日
+var c_Calendar46795DayString;
+//周
+var c_Calendar46795WeekString;
+function RunGLNL46795()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar46795CnDateString=sc.getCnDateString();
+    c_Calendar46795WeekDayString=sc.getCalendarWeekString();
+    c_Calendar46795JQString=sc.getJQString();
+    c_Calendar46795EnDateString=sc.getEnDateString();
+    c_Calendar46795YearString=sc.getYearString();
+    c_Calendar46795MonthString=sc.getMonthString();
+    c_Calendar46795DayString=sc.getDayString();
+    c_Calendar46795WeekString=sc.getWeekString();
+}
+RunGLNL46795();
+document.write('<div id="c_lunar46795"   class="fontstyle46795"  >');       
+document.write(c_Calendar46795EnDateString);
+document.write("<br>"+c_Calendar46795WeekDayString);
+document.write("<br>"+c_Calendar46795CnDateString);
+
+
+document.write("</div>");
+
+</script>
+</DIV>
+<DIV class="right"></DIV></DIV>
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV>
+<DIV class="links">
+<DIV class="quicklink" style="float: left"><a href="http://www.whu.edu.cn/" target="_blank" style="padding-right: 12px; background: url(/skin/news/images/biao.gif) no-repeat right 50%">
+                    武大主页</a>
+                <div class="line l">
+                </div>
+                <a href="http://whu.ihwrm.com/" target="_blank">武大校报</a>
+                <div class="line l">
+                </div>
+                <a href="wdsp.htm">武大视频</a>
+                <div class="line l">
+                </div>
+                <a href="http://t.sina.com.cn/wuhandaxue" target="_blank">武大微博</a>
+                <div class="line l">
+                </div>
+                <a href="http://bbs.whu.edu.cn/" target="_blank">珞珈山水</a>
+                <div class="line l">
+                </div>
+                <a href="ztwz.htm" target="_blank">专题网站</a></DIV>
+<DIV style="float: right;margin-right: 10px"></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV>
+<DIV class="maxwidth" style="margin: 0px auto">
+<DIV class="locals kuang2">
+<DIV class="left"></DIV>
+<DIV class="body">
+<DIV class="text">  
+<table cellspacing="0" cellpadding="0"><tr><td nowrap>位置导航>>   
+<a href="index.htm"><span>首页</span></a><span>>></span><a href="kydt.htm"><span>学术动态</span></a></td></tr></table></DIV></DIV>
+<DIV class="right"></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV>
+<DIV class="maxwidth" id="page_main"><!--这里是广告1-->
+<DIV style="height: 70px;width: 970px;display: none"></DIV>
+<DIV class="clear" style="overflow: hidden;height: 10px"></DIV>
+<DIV class="page_index_left">
+<DIV class="kuang7 l" style="width: 750px">
+<DIV class="title">
+<DIV class="left"></DIV>
+<DIV class="right"></DIV>
+<DIV class="text"><span class="windowstyle6659">
+学术动态</span></DIV></DIV>
+<DIV class="list" style="padding-bottom: 0px;padding-top: 0px;padding-left: 20px;min-height: 900px;padding-right: 20px">
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><div>
+    <UL>    
+    <li class="listtitle">
+        <div class="infotitle" style="text-align:center;">标题</div>
+        <div class="clicknum">点击数</div>
+        <div class="infodate">日期</div>
+    </li>
+            <li id="lineu5_0"> 
+        <div class="infotitle"><a href="info/1015/64196.htm" title="【学术前沿动态】多时相遥感应用领域论文分析" class="gray">【学术前沿动态】多时相遥感应用领域论文分析</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64196" name="dynclicks_u5_64196"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-29&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_0" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_1"> 
+        <div class="infotitle"><a href="info/1015/64173.htm" title="【珞珈讲坛】常进院士谈暗物质探测与“悟空号”卫星" class="gray">【珞珈讲坛】常进院士谈暗物质探测与“悟空号”卫星</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64173" name="dynclicks_u5_64173"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-26&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_1" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_2"> 
+        <div class="infotitle"><a href="info/1015/64170.htm" title="专家学者聚焦法学虚拟仿真一流课程建设" class="gray">专家学者聚焦法学虚拟仿真一流课程建设</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64170" name="dynclicks_u5_64170"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-26&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_2" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_3"> 
+        <div class="infotitle"><a href="info/1015/64169.htm" title="武大与旁遮普大学红莲水稻联合研究中心罗田基地揭牌" class="gray">武大与旁遮普大学红莲水稻联合研究中心罗田基地揭牌</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64169" name="dynclicks_u5_64169"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-26&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_3" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_4"> 
+        <div class="infotitle"><a href="info/1015/64165.htm" title="王连荣课题组揭示细菌基因组磷硫酰化修饰的单分子水平分布特征" class="gray">王连荣课题组揭示细菌基因组磷硫酰化修饰的单分子水平分...</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64165" name="dynclicks_u5_64165"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-26&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_4" style="height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_5"> 
+        <div class="infotitle"><a href="info/1015/64118.htm" title="我校主办第九届全国网络与信息安全防护峰会" class="gray">我校主办第九届全国网络与信息安全防护峰会</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64118" name="dynclicks_u5_64118"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-22&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_5" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_6"> 
+        <div class="infotitle"><a href="info/1015/64105.htm" title="我校4项科技成果获高等学校科学研究优秀成果奖" class="gray">我校4项科技成果获高等学校科学研究优秀成果奖</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64105" name="dynclicks_u5_64105"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-22&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_6" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_7"> 
+        <div class="infotitle"><a href="info/1015/64097.htm" title="百余名学者共议世界经济热点问题和一流学科建设" class="gray">百余名学者共议世界经济热点问题和一流学科建设</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64097" name="dynclicks_u5_64097"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-20&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_7" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_8"> 
+        <div class="infotitle"><a href="info/1015/64078.htm" title="78位青年学者共话低维物理事业蓝图" class="gray">78位青年学者共话低维物理事业蓝图</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64078" name="dynclicks_u5_64078"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-19&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_8" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_9"> 
+        <div class="infotitle"><a href="info/1015/64077.htm" title="我校本科生研究成果首次被ACM SIGIR录用" class="gray">我校本科生研究成果首次被ACM SIGIR录用</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64077" name="dynclicks_u5_64077"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-19&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_9" style="height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_10"> 
+        <div class="infotitle"><a href="info/1015/64036.htm" title="秦天宝教授助力《生物安全法》贯彻实施" class="gray">秦天宝教授助力《生物安全法》贯彻实施</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64036" name="dynclicks_u5_64036"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-15&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_10" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_11"> 
+        <div class="infotitle"><a href="info/1015/64024.htm" title="专家学者齐聚武大研讨医疗大数据与健康经济学" class="gray">专家学者齐聚武大研讨医疗大数据与健康经济学</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64024" name="dynclicks_u5_64024"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-14&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_11" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_12"> 
+        <div class="infotitle"><a href="info/1015/64009.htm" title="【珞珈讲坛】苏国辉院士谈抗抑郁非药物的研发" class="gray">【珞珈讲坛】苏国辉院士谈抗抑郁非药物的研发</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64009" name="dynclicks_u5_64009"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-13&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_12" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_13"> 
+        <div class="infotitle"><a href="info/1015/64008.htm" title="第五届珞珈樱花论坛聚焦“医疗·医保·医药”协同改革" class="gray">第五届珞珈樱花论坛聚焦“医疗·医保·医药”协同改革</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64008" name="dynclicks_u5_64008"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-13&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_13" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_14"> 
+        <div class="infotitle"><a href="info/1015/64005.htm" title="刘玮研究员受聘珞珈讲座教授" class="gray">刘玮研究员受聘珞珈讲座教授</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64005" name="dynclicks_u5_64005"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-13&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_14" style="height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_15"> 
+        <div class="infotitle"><a href="info/1015/64004.htm" title="跨学科专家学者研讨“人工智能+人文社会科学”" class="gray">跨学科专家学者研讨“人工智能+人文社会科学”</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64004" name="dynclicks_u5_64004"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-13&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_15" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_16"> 
+        <div class="infotitle"><a href="info/1015/64003.htm" title="首届珞珈国际税法高端论坛在汉召开" class="gray">首届珞珈国际税法高端论坛在汉召开</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_64003" name="dynclicks_u5_64003"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-13&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_16" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_17"> 
+        <div class="infotitle"><a href="info/1015/63994.htm" title="【检察日报】《中国行政检察发展报告》正式发布" class="gray">【检察日报】《中国行政检察发展报告》正式发布</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63994" name="dynclicks_u5_63994"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-12&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_17" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_18"> 
+        <div class="infotitle"><a href="info/1015/63992.htm" title="武汉市市长程用文来校调研湖北珞珈实验室" class="gray">武汉市市长程用文来校调研湖北珞珈实验室</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63992" name="dynclicks_u5_63992"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-12&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_18" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_19"> 
+        <div class="infotitle"><a href="info/1015/63997.htm" title="【新华网】第一届中国大健康法制及政策论坛成功举办" class="gray">【新华网】第一届中国大健康法制及政策论坛成功举办</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63997" name="dynclicks_u5_63997"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-12&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_19" style="height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_20"> 
+        <div class="infotitle"><a href="info/1015/63967.htm" title="我校三名学者入选外交部国际法咨询委员会" class="gray">我校三名学者入选外交部国际法咨询委员会</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63967" name="dynclicks_u5_63967"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-09&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_20" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_21"> 
+        <div class="infotitle"><a href="info/1015/63954.htm" title="【学术前沿动态】新冠专题跟踪报道" class="gray">【学术前沿动态】新冠专题跟踪报道</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63954" name="dynclicks_u5_63954"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-09&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_21" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_22"> 
+        <div class="infotitle"><a href="info/1015/63952.htm" title="校领导调研田野考古实践教学工作" class="gray">校领导调研田野考古实践教学工作</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63952" name="dynclicks_u5_63952"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-08&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_22" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_23"> 
+        <div class="infotitle"><a href="info/1015/63950.htm" title="【珞珈读书会】韦异才：在沉思中重拾勇气" class="gray">【珞珈读书会】韦异才：在沉思中重拾勇气</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63950" name="dynclicks_u5_63950"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-08&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_23" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+        <li id="lineu5_24"> 
+        <div class="infotitle"><a href="info/1015/63949.htm" title="我校教师李加元在激光视觉导航领域取得新进展" class="gray">我校教师李加元在激光视觉导航领域取得新进展</a></div>
+        <div class="clicknum">
+                   <span id="dynclicks_u5_63949" name="dynclicks_u5_63949"></span>
+</div>
+        <div class="infodate">&nbsp;2021-04-08&nbsp;
+
+</div> 
+        </li>
+        <hr id="duannumu5_24" style="display:none;height:1px;border:none;border-top:1px dashed #CCCCCC;">
+    </UL>
+    <div align="center"><INPUT TYPE="hidden" NAME="actiontype" VALUE=""><input type="hidden" name="_scode_" value="1619684946276"><input type="hidden" name="urltype" value="tree.TreeTempUrl"><input type="hidden" name="wbtreeid" value="1015"><input type="hidden" name="outFlag" value="false">
+<style type="text/css">
+.headStyle38shoz4qg9, .headStyle38shoz4qg9 td, .headStyle38shoz4qg9 div {font-size: 12px;font-family:宋体; color: #000000; margin-left: auto; margin-right: auto; line-height:14px;}
+.defaultButtonStyle {font-size: 12px;font-family:宋体; height:20px;color: #000000;BORDER: #AFD5F5 1px solid; margin: 0px;padding: 0px; FILTER:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#BDDBF7);  CURSOR: pointer; line-height:14px;background:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#BDDBF7));background: -moz-linear-gradient( top,#ffffff,#BDDBF7);background:-ms-linear-gradient(top,#ffffff 0%,#bddbf7 100%);}
+.defaultinputStyle {font-size: 12px;font-family:宋体; height:20px; border:1px solid #AFD5F5; line-height:14px;}
+.colHeader {font-size: 12px;font-family:宋体; line-height:14px;}
+.headStyle38shoz4qg9 a, .pageList .this-page {font-size: 12px;font-family:宋体; display:inline-block; height:14px; padding: 2px 4px; border: solid 1px #AFD5F5; background: #fff; text-decoration: none; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle38shoz4qg9 a:visited {font-size: 12px;font-family:宋体; color: #000000; text-decoration: none; line-height:14px;}
+.headStyle38shoz4qg9 .PrevDisabled {font-size: 12px;font-family:宋体; display:inline-block;height:14px;  margin-right: 3px; padding: 2px 4px; background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle38shoz4qg9 .SelectList {font-size: 12px;font-family:宋体;line-height:14px;}
+.headStyle38shoz4qg9 .Prev { font-size: 12px;font-family:宋体; margin-right: 3px; padding: 2px 4px;line-height:14px;}
+.headStyle38shoz4qg9 .break {font-size: 12px;font-family:宋体; border: none; text-decoration: none; line-height:14px;}
+.headStyle38shoz4qg9 .NextDisabled { font-size: 12px;font-family:宋体;display:inline-block; height:14px; margin-left: 2px; padding: 2px 4px;background: #fff;color:#ccc;border: solid 1px #AFD5F5; line-height:14px;}
+.headStyle38shoz4qg9 .Next { font-size: 12px;font-family:宋体; margin-left: 2px; padding: 2px 4px;line-height:14px;}
+.headStyle38shoz4qg9 .this-page {font-size: 12px;font-family:宋体;display:inline-block;height:14px;padding: 2px 4px; border: solid 1px #AFD5F5; background: #E1F0FD; font-weight: bold; color:black; MARGIN-RIGHT: 1px;line-height:14px;}
+.headStyle38shoz4qg9 a:hover {font-size: 12px;font-family:宋体;color: black; background: #EFF7FE; border-color: #AFD5F5; text-decoration: none;line-height:14px;}
+.headStyle38shoz4qg9 a:link {font-size: 12px;font-family:宋体;color: #000000; text-decoration: none;line-height:14px;}
+.headStyle38shoz4qg9 a:active { font-size: 12px;font-family:宋体;color: black; text-decoration: none; background: #EFF7FE; line-height:14px;}
+</style><script language="javascript" src="/system/resource/js/gotopage.js"></script><script type="text/javascript">function a6632_gopage_fun(){_simple_list_gotopage_fun(80,'a6632GOPAGE',2)}</script><table cellspacing="0" cellpadding="0" border="0"><TR><td colspan="0"><table cellspacing="0" class="headStyle38shoz4qg9" width="100%" cellpadding="1"><tr valign="middle"><TD nowrap align="left" width="1%" id="fanye6632">共1980条&nbsp;&nbsp;1/80&nbsp;</td><td nowrap align="left"><div><span class="PrevDisabled">首页</span><span class="PrevDisabled">上页</span><a href="kydt/79.htm" class="Next">下页</a><a href="kydt/1.htm" class="Next">尾页</a>&nbsp;&nbsp;<input align="absmiddle" type="button" class="defaultButtonStyle" id="gotopagebut" name="a6632Find" value="转到" onclick="javascript:a6632_gopage_fun()"><INPUT size="2" align="absmiddle" class="defaultInputStyle" NAME="a6632GOPAGE" id="a6632GOPAGE" VALUE="" style="margin-left:1px;margin-right:1px">页</div></td></tr></table></table></div>
+</div>
+<script>_showDynClickBatch(['dynclicks_u5_64196','dynclicks_u5_64173','dynclicks_u5_64170','dynclicks_u5_64169','dynclicks_u5_64165','dynclicks_u5_64118','dynclicks_u5_64105','dynclicks_u5_64097','dynclicks_u5_64078','dynclicks_u5_64077','dynclicks_u5_64036','dynclicks_u5_64024','dynclicks_u5_64009','dynclicks_u5_64008','dynclicks_u5_64005','dynclicks_u5_64004','dynclicks_u5_64003','dynclicks_u5_63994','dynclicks_u5_63992','dynclicks_u5_63997','dynclicks_u5_63967','dynclicks_u5_63954','dynclicks_u5_63952','dynclicks_u5_63950','dynclicks_u5_63949'],[64196,64173,64170,64169,64165,64118,64105,64097,64078,64077,64036,64024,64009,64008,64005,64004,64003,63994,63992,63997,63967,63954,63952,63950,63949],"wbnews", 1245613553)</script>
+
+<DIV class="clear" style="height: 20px"></DIV>
+<DIV class="clear" style="height: 20px"></DIV></DIV></DIV></DIV>
+<DIV class="page_right"><!--武大视频--> <div class="kuang6" style="margin: 0px auto; width: 194px;">
+    <div class="title">
+        <div class="text l">
+            武大视频
+        </div>
+        <div class="more r"><a href="wdsp.htm"><img src="dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a></div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden;"></div>
+    <div class="list" style="height: 270px;">
+        <ul>
+            <li>
+                <a class="biao5" title="2021新年献词：2021于变局中开新局" href="info/1021/63226.htm" target="_blank">
+                2021新年献词：2021于变局中…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="2020新年献词：以新的姿态向前进发" href="info/1021/61709.htm" target="_blank">
+                2020新年献词：以新的姿态向…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210423 教育部副部长郑富芝来校调研" href="info/1021/64136.htm" target="_blank">
+                【武大新闻】20210423 教育…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210423 校党委理论学习中心组学习聚焦新民主主义革命时期专题" href="info/1021/64135.htm" target="_blank">
+                【武大新闻】20210423 校党…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210423 学术委员会为学校“十四五”规划建言献策" href="info/1021/64134.htm" target="_blank">
+                【武大新闻】20210423 学术…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210423 学校举行中层干部系列培训班" href="info/1021/64133.htm" target="_blank">
+                【武大新闻】20210423 学校…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210423 巴基斯坦驻华大使莫因·哈克来校访问" href="info/1021/64132.htm" target="_blank">
+                【武大新闻】20210423 巴基…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210416 学校召开党史学习教育专题报告会" href="info/1021/64056.htm" target="_blank">
+                【武大新闻】20210416 学校…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210416 武汉大学党史学习教育宣讲团成立" href="info/1021/64055.htm" target="_blank">
+                【武大新闻】20210416 武汉…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】我校承办外交部中非联合研究交流计划指导委员会扩大会议" href="info/1021/64054.htm" target="_blank">
+                【武大新闻】我校承办外交部…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210416 学校召开党史学习教育二级单位联络员工作会议" href="info/1021/64053.htm" target="_blank">
+                【武大新闻】20210416 学校…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210416 离退休教职工为学校“十四五”规划建言献策" href="info/1021/64052.htm" target="_blank">
+                【武大新闻】20210416 离退…
+                </a>
+            </li> 
+            <li>
+                <a class="biao5" title="【武大新闻】20210416 学校召开党史学习教育领导小组工作会" href="info/1021/64051.htm" target="_blank">
+                【武大新闻】20210416 学校…
+                </a>
+            </li> 
+        </ul>
+    </div>
+</div><script>_showDynClickBatch(['dynclicks_u6_63226','dynclicks_u6_61709','dynclicks_u6_64136','dynclicks_u6_64135','dynclicks_u6_64134','dynclicks_u6_64133','dynclicks_u6_64132','dynclicks_u6_64056','dynclicks_u6_64055','dynclicks_u6_64054','dynclicks_u6_64053','dynclicks_u6_64052','dynclicks_u6_64051'],[63226,61709,64136,64135,64134,64133,64132,64056,64055,64054,64053,64052,64051],"wbnews", 1245613553)</script>
+
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV><!--专题网站-->    <div class="kuang6" sizcache="0" sizset="71" style="margin: 0px auto; width: 194px">
+    <div class="title" sizcache="0" sizset="71">
+        <div class="text l">
+            专题网站</div>
+        <div class="more r" sizcache="0" sizset="71">
+            <a href="ztwz.htm">
+                <img src="dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a>
+        </div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden">
+    </div>
+    <div sizcache="0" sizset="72" style="margin: 0px auto; width: 170px; height: 144px">
+            <a href="http://sub.whu.edu.cn/18da/" target="_blank">
+                <img src="1.jpg" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+            <a href="http://cxzy.whu.edu.cn/" target="_blank">
+                <img src="2.jpg" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+            <a href="http://sub.whu.edu.cn/ycl/" target="_blank">
+                <img src="3.gif" width="170" height="40">
+            </a>
+        <div class="clear" style="height: 10px; overflow: hidden">
+        </div>
+    </div>
+</div>
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV><!--新闻热线--><div class="kuang6" sizcache="0" sizset="75" style="margin: 0px auto; width: 194px">
+    <div class="title" sizcache="0" sizset="75">
+        <div class="text l">
+            新闻热线</div>
+        <div class="more r" sizcache="0" sizset="75">
+            <a href="xwrx.htm">
+                <img src="dfiles/11299/skin/news/images/more.gif" width="30" height="5"></a></div>
+    </div>
+    <div class="clear" style="height: 10px; overflow: hidden">
+    </div>
+    <div class="list" sizcache="0" sizset="76" style="height: 160px">
+        <ul sizcache="0" sizset="76">
+            <li sizcache="0" sizset="76"><a class="gray" title="记者联系方式及定点联系单位" href="info/1010/30679.htm" target="_blank">记者联系方式及定点联系单位</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="武汉大学报社2017年度表彰名单" href="info/1010/50354.htm" target="_blank">武汉大学报社2017年度表彰名单</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="武汉大学2016-2017学年度“天壕珞珈新闻奖”获奖名单" href="info/1010/50353.htm" target="_blank">武汉大学2016-2017学年度“天</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="2014-2015年度武汉大学优秀学生记者名单" href="info/1010/43826.htm" target="_blank">2014-2015年度武汉大学优秀学</a></li>
+            <li sizcache="0" sizset="76"><a class="gray" title="第二届“天壕珞珈新闻奖”获奖名单" href="info/1010/43730.htm" target="_blank">第二届“天壕珞珈新闻奖”获奖</a></li>
+        </ul>
+    </div>
+</div><script>_showDynClickBatch(['dynclicks_u8_30679','dynclicks_u8_50354','dynclicks_u8_50353','dynclicks_u8_43826','dynclicks_u8_43730'],[30679,50354,50353,43826,43730],"wbnews", 1245613553)</script>
+
+<DIV class="clear" style="overflow: hidden;height: 5px"></DIV><!--发稿统计--><!---结束-->
+<DIV class="kuang6" style="height: 210px;width: 194px;margin: 0px auto">
+<DIV class="title">
+<DIV class="text l">发稿统计</DIV>
+<DIV class="more r"><A href="tongji.jsp?urltype=tree.TreeTempUrl&wbtreeid=1020"><IMG width="30" height="5" src="dfiles/11299/skin/news/images/more.gif"></A></DIV></DIV>
+<DIV class="clear" style="overflow: hidden;height: 10px"></DIV>
+<DIV>
+<UL class="fgtj">
+
+
+<UL class="fgtj">
+<LI class="listtitle">
+<DIV class="item1">排名</DIV>
+<DIV class="item2">用稿数</DIV>
+<DIV class="item3">稿件来源</DIV></LI>
+
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_1.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">20</DIV>
+<DIV class="item3"><a title="本科生院">本科生院</a></DIV>
+</LI>
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_2.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">12</DIV>
+<DIV class="item3"><a title="历史学院">历史学院</a></DIV>
+</LI>
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_3.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">11</DIV>
+<DIV class="item3"><a title="科学技术发展研究院">科学技术发展...</a></DIV>
+</LI>
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_4.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">10</DIV>
+<DIV class="item3"><a title="团委">团委</a></DIV>
+</LI>
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_5.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">9</DIV>
+<DIV class="item3"><a title="图书馆">图书馆</a></DIV>
+</LI>
+
+<LI>
+<DIV class="item1" style="background: url(dfiles/11299/skin/news/images/num_6.gif) no-repeat center 50%">&nbsp;</DIV>
+<DIV class="item2">9</DIV>
+<DIV class="item3"><a title="国际交流部">国际交流部</a></DIV>
+</LI>
+
+</UL></UL></DIV></DIV></DIV>
+<DIV class="clear" style="overflow: hidden;height: 10px"></DIV></DIV><!-- 页脚 -->
+<DIV class="clear"></DIV>
+<DIV class="maxwidth" id="page_down">
+<DIV class="line_h" style="width: 100%;margin: 5px auto"></DIV><P>&nbsp;电子邮箱：wdxw@whu.edu.cn 新闻热线：027-68754665&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P>
+<P>通讯地址：湖北省武汉市武昌珞珈山 传真：68752632 邮编：430072</P></DIV>
+
+</BODY></HTML>

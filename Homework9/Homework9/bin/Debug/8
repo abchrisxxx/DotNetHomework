@@ -1,0 +1,597 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- 云适配脚本 -->
+<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/6bf733c8bd1030830beec1cec12d00ca/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+<title>中国的包容性财政体制-中国社会科学网</title>
+<meta name="Keywords" content="" />
+<meta name="description" content="" />
+<meta name="baidu-site-verification" content="d2eTvy3SqO" />
+<script type="text/javascript" src="../../../images/mobile_v2020.js"></script>
+
+<link class="stylefile" type="text/css" rel="stylesheet" href="../../../images/style_v2020.css" />
+<link class="stylefile" type="text/css" rel="stylesheet" href="../../../images/level_v2020.css" />
+<link class="mobileStyle" type="text/css" rel="stylesheet" href="../../../images/style_mobile.css" />
+<link class="mobileStyle" type="text/css" rel="stylesheet" href="../../../images/level_mobile_v2020.css" />
+
+<link rel="shortcut icon" type="image/x-icon" href="/images/skw_icon.ico" media="screen" />
+<script type="text/javascript" src="../../../images/jquery.js"></script>
+<script type="text/javascript" src="../../../images/slides.min.jquery.js"></script>
+<script type="text/javascript" src="../../../images/jcarousellite_1.0.1.min.js"></script>
+<script type="text/javascript" src="../../../images/script.js"></script>
+<base target="_blank"/>
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="12990">
+<meta name="contentid" content="5329518">
+<meta name="publishdate" content="2021-04-26">
+<meta name="author" content="孙龙">
+<meta name="source" content="《中国社会科学》2021年第3期">
+
+<script type="text/javascript">
+	var isPC = IsPC(); //获取是否为PC端
+	if (isPC) {
+		//如果是PC端加载PC的js和css
+		$(".mobileStyle").remove();
+	} else {
+		//如果是移动端加载移动端的js和css
+		$(".stylefile").remove();
+	}
+</script>
+</head>
+
+<body style="behavior:url('csshover.htc')" onload="tab()">
+<!--qqq-->
+<!-- 头部.logo开始 -->
+  <div class="topNav f-clear">
+	<div class="topPos">
+		<div class="con1 f-left">
+			<!--
+                        <a class='logo' href="" target="_self">登录</a>
+                        <span>|</span>
+                        <a class='logo' href="#" target="_self">注册</a>
+            -->
+			<a class="l1" href="/qt/ydkhd/" target="_blank">客 户 端</a>
+		</div>
+		<div class="con2 f-left">
+			<SCRIPT LANGUAGE="JavaScript">
+				<!--
+				function checkSeach() {
+					var searchfield = document.getElementById('searchfield').innerHTML;
+					//alert(searchfield);
+					var word = document.searchform.searchword2.value.replace("'", " ");
+					var wordarr = word.split(" ");
+					var newWord = "";
+					if(wordarr != null && wordarr.length > 1){
+						for(var raym = 0;raym<wordarr.length;raym++){
+							if(raym == 0){
+								newWord += '%'+wordarr[raym]+'%';
+							}else{
+								newWord += ' %'+wordarr[raym]+'%';
+							}
+						}
+					}else{
+						newWord = word;
+					}
+					//document.searchform.searchword.value = document.searchform.searchword.value.replace("'", " ");
+					if(searchfield=="&nbsp;标题&nbsp;"){document.getElementById('searchscope').value="DOCTITLE";
+						document.searchform.searchword.value = newWord;
+
+						return true;}
+					else if(searchfield=="&nbsp;作者&nbsp;"){document.getElementById('searchscope').value="DOCAUTHOR";
+						document.searchform.searchword.value = word;
+
+						return true;}
+					else if(searchfield=="关键字"){document.getElementById('searchscope').value="DOCKEYWORDS";
+						document.searchform.searchword.value = newWord;
+
+						return true;}
+					else if(searchfield=="&nbsp;日期&nbsp;"){document.getElementById('searchscope').value="DOCRELTIME";
+						document.searchform.searchword.value = word;
+
+						return true;}
+					else{return false;}
+
+				}
+
+				//-->
+			</SCRIPT>
+			<form name="searchform" method="get" action="http://www.cssn.cn/was5/web/search" onsubmit="return checkSeach();" target="_blank">
+				<input type="hidden" id="channelid" name="channelid" value="254789" />
+				<input type="hidden" name="orderby" value="-CRTIME" />
+				<input type="hidden" name="perpage" value="" />
+				<input type="hidden" name="page" value="1" />
+				<input type="hidden" name="searchword" value="" />
+				<input type="hidden" id="searchscope" name="searchscope" value="DOCTITLE" />
+				<div class="search_ca f-left">
+					<a href="javascript:void(0)" target="_self" id="searchfield">&nbsp;标题&nbsp;</a>
+					<ul>
+						<li><a href="javascript:void(0)" target="_self">&nbsp;标题&nbsp;</a></li>
+						<li><a href="javascript:void(0)" target="_self">&nbsp;作者&nbsp;</a></li>
+						<li><a href="javascript:void(0)" target="_self">关键字</a></li>
+						<li><a href="javascript:void(0)" target="_self">&nbsp;日期&nbsp;</a></li>
+					</ul>
+				</div>
+				<input type="text" name="searchword2" id="textfield" class="search_con f-left" />
+				<input type="image" src="/images/tijiao-20131206.jpg" width="60" height="25" style="margin-top:5px;margin-left:2px" />
+			</form>
+		</div>
+		<SCRIPT LANGUAGE="JavaScript">
+			//设为首页
+			function SetHome(url){
+				if (document.all) {
+					document.body.style.behavior='url(#default#homepage)';
+					document.body.setHomePage(url);
+				}else{
+					alert("抱歉，您的浏览器不支持自动设为首页，请手动设置!");
+				}
+			}
+			//加入收藏
+			function addFavorite(sURL, sTitle) {
+				sURL = encodeURI(sURL);
+				try{
+					window.external.addFavorite(sURL, sTitle);
+				}catch(e) {
+					try{
+						window.sidebar.addPanel(sTitle, sURL, "");
+					}catch (e) {
+						alert("抱歉，您的浏览器不支持自动加入收藏，请手动设置!");
+					}
+				}
+			}
+		</script>
+
+		<div class="con3 f-right">
+			<a href="/qt/wzdh/" target="_blank">网站导航</a>
+			<a href="javascript:SetHome('http://www.cssn.cn/')" target="_self">设为首页</a>
+			<a href="http://sscp.cssn.cn/tgxt/zgshkxtg/" target="_blank">报刊投稿</a>
+			<span style="font-family: 微软雅黑;color: #C02076;font-size:15px;">微博平台</span>
+			<a target="_blank" href="http://weibo.com/u/2201275590"><img src="/images/icon_2014-5-12.png" /></a>
+			<!-- <a target="_blank" href="http://e.t.qq.com/cssn-cn?preview"><img src="/images/icon2_2014-5-12.png" /></a> -->
+			<a target="_blank" href="http://t.people.com.cn/19801521/profile"><img src="/images/icon3_2014-5-12.png" /></a>
+		</div>
+	</div>
+</div>
+<div class="Itop mobileNone">
+	<div class="logo-con f-left">
+		<a href='http://www.cssn.cn'><img src="/images/logo_a.png" style="margin-bottom:5px;" /></a>
+		<p class="date" style=" line-height:14px">
+
+			<script type="text/javascript">
+				var strdate = new Date();
+				var stryear = strdate.getFullYear();
+				var strmonth = strdate.getMonth() + 1;
+				var strday = strdate.getDate();
+				var strweek = strdate.getDay();
+				var arr_week=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+				document.write (stryear +"年"+ strmonth +"月"+ strday +"日 "+arr_week[strweek]);
+			</script>
+
+		</p>
+	</div>
+	<div class="menu-con f-right">
+		<ul class="menu-line1">
+			<li class="sk liner"><a href="http://www.cass.cn" style="color:#c02076;border:0" target="_blank">中国社会科学院</a></li>
+			<li class="liner"> <a href="http://casseng.cssn.cn/" >CASS</a></li>
+			<li class="liner"><a href="http://english.cssn.cn" target="_blank">English</a></li>
+			<li><a href="http://french.cssn.cn/" target="_blank">Français</a></li>
+		</ul>
+		<br class='f-clear' />
+		
+		<ul class="menu-line2">
+			<li class="sz"><a href="https://epaper.csstoday.net">微报</a></li>
+			<li class="pic"><a href="http://pic.cssn.cn">图片集</a></li>
+			<li class="rss"><a href="http://stv.cssn.cn">视频集</a></li>
+			<li class="dx"><a href="http://mall.cssn.cn">读者之家</a></li>
+		</ul>
+		<br class='f-clear' />
+		<ul class="menu-line3">
+			<li><a href="http://news.cssn.cn">关  注</a></li>
+			<!-- <li><a href="http://sub.cssn.cn">学  科</a></li> -->
+			<li><a href="http://spec.cssn.cn">专  题</a></li>
+			<li><a href="http://orig.cssn.cn">要  闻</a></li>
+			<li><a href="http://intl.cssn.cn">国  际</a></li>
+			<li><a href="http://scho.cssn.cn">学  人</a></li>
+			<li><a href="http://tt.cssn.cn">智  库</a></li>
+			<li><a href="http://joul.cssn.cn">报  刊</a></li>
+			<li><a href="http://mil.cssn.cn/jsx/">军  事</a></li>
+			<li><a href="http://lcl.cssn.cn/gd/gd_rwhn/">各  地</a></li>
+			<li><a href="http://ex.cssn.cn">独家策划</a></li>
+			<li class="last"><a href="http://db.cssn.cn">数据中心</a></li>
+		</ul>
+		<br class='f-clear' />
+	</div>
+</div>
+<div class="Itop pcNone">
+	<div class="logo-con f-left">
+		<a href='http://www.cssn.cn'><img src="/images/logo_a.png" /></a>
+		<p class="date">
+
+			<script type="text/javascript">
+				var strdate = new Date();
+				var stryear = strdate.getFullYear();
+				var strmonth = strdate.getMonth() + 1;
+				var strday = strdate.getDate();
+				var strweek = strdate.getDay();
+				var arr_week=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+				document.write (stryear +"年"+ strmonth +"月"+ strday +"日 "+arr_week[strweek]);
+			</script>
+
+		</p>
+	</div>
+	<div class="menu-con f-right">
+		<ul class="menu-line1">
+			<li class="sk liner"><a href="http://www.cass.cn" style="color:#c02076;border:0" target="_blank">中国社会科学院</a></li>
+			<li class="liner"> <a href="http://casseng.cssn.cn/" >CASS</a></li>
+			<li class="liner"><a href="http://english.cssn.cn" target="_blank">English</a></li>
+			<li><a href="http://french.cssn.cn/" target="_blank">Français</a></li>
+		</ul>
+	</div>
+	<div class="menu-con f-right">
+		
+		<ul class="menu-line2">
+			<li class="sz"><a href="https://epaper.csstoday.net">微报</a></li>
+			<li class="pic"><a href="http://pic.cssn.cn">图片集</a></li>
+			<li class="rss"><a href="http://stv.cssn.cn">视频集</a></li>
+			<li class="dx"><a href="http://mall.cssn.cn">读者之家</a></li>
+		</ul>
+		<ul class="menu-line3">
+			<li><a href="http://news.cssn.cn">关  注</a></li>
+			<!-- <li><a href="http://sub.cssn.cn">学  科</a></li> -->
+			<li><a href="http://spec.cssn.cn">专  题</a></li>
+			<li><a href="http://orig.cssn.cn">要  闻</a></li>
+			<li><a href="http://intl.cssn.cn">国  际</a></li>
+			<li><a href="http://scho.cssn.cn">学  人</a></li>
+			<li><a href="http://tt.cssn.cn">智  库</a></li>
+			<li><a href="http://joul.cssn.cn">报  刊</a></li>
+			<li><a href="http://mil.cssn.cn/jsx/">军  事</a></li>
+			<li><a href="http://lcl.cssn.cn/gd/gd_rwhn/">各  地</a></li>
+			<li><a href="http://ex.cssn.cn">独家策划</a></li>
+			<li class="last"><a href="http://db.cssn.cn">数据中心</a></li>
+		</ul>
+	</div>
+</div>
+<style>
+/*分页*/
+.fenye{color:#015CAB; margin-bottom:50px}
+
+.fenye a{border:#CBCBCB 1px solid; padding:0 5px; color:#CACACA}
+.fenye a.fenye_thispage{border:#CBCBCB 1px solid; background:#DAEFFF; padding:0 5px; color:#C85187}
+.fenye a.fenyepage{color:#015CAB;border:#CA5089 1px solid; padding:0 5px}
+.fenye .fenye_input{border:#CA5089 1px solid; width:40px ;text-align:center; line-height:18px; height:18px; }
+.fenye .fenye_sub{color:#fff; border:#CA5089 1px solid; background:#CA5089; width:45px ;text-align:center; line-height:18px; height:18px; cursor:pointer}
+</style>
+
+<div class="top-line"></div>
+<div id="f-main" class="clearfix">
+	<div class="f-main-top">&nbsp;<span><a href="../../../" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&gt;&nbsp;<a href="../" title="头条新闻" class="CurrChnlCls">头条新闻</a></span></div>
+  <div class="f-main-left-sire" id="con_left">
+    <div class="f-main-left">
+    	<div class="f-main-left-Title">
+ 
+		 
+   	  <span class="TitleFont">中国的包容性财政体制</span>
+	  
+
+   <span class="TitleFontFu">——基于非规范性收入的考察</span>
+ 
+	  
+	 
+	  <div class="TitleFont2 mobileNone" style='font-size:12px'>2021年04月26日 12:46　来源：《中国社会科学》2021年第3期　作者：吕炜 王伟同
+	  <a style="top:0px" >字号</a><a style="width:16px; height:16px; top:0px" id="img1" href="javascript:doZoom(18)"  target="_self"></a><a style="width:16px; height:16px;" id="img2" href="javascript:doZoom(16)" target="_self"></a><a style="width:16px; height:16px; top:0px" id="img3" href="javascript:doZoom(14)"  target="_self"></a></div>
+
+		<div class="TitleFont2 pcNone">2021年04月26日 12:46<br> 来源：《中国社会科学》2021年第3期  作者：吕炜 王伟同
+			</div>
+	  
+	  </div>
+<script>
+function CopyURL(){
+var myHerf=top.location.href;
+//var title=document.title;
+if(window.clipboardData){
+var tempCurLink=myHerf;
+var ok=window.clipboardData.setData("Text",tempCurLink);
+if(ok) alert("链接地址复制完成！");
+}else{alert("对不起，目前此功能只支持IE，请直接复制地址栏的地址！");}
+}
+
+ function AXzhz(hideme)
+ {
+  var AX=document.all(hideme);
+  AX.style.display=AX.style.display=="none"?"":"none";
+ }
+ function BXzhz(hideme)
+ {
+  var BX=document.all(hideme);
+  BX.style.display=BX.style.display=="none"?"":"none";
+ }
+
+	function addToBookmark(){
+                var href="";
+                var title="";
+		var url = "./t20210426_5329518.shtml";
+		document.location.href = url;
+	}
+</script>
+      <div  class="f-main-leftMain-Title mobileNone" style="height:auto">
+      	<div class="col_keyword"></div>
+      	<div class="f-main-leftMain-Title1 col_print">
+        	<span><a href="javascript:window.print();" target="_self">打印</a>  <a href="javascript:void(0)" onclick="CopyURL();" target="_self">推荐</a></span>
+         </div>
+      </div>
+ 		<div class="f-main-leftMain-content clear" id='Zoom'>
+		<p class="fontkaiti"><b class="font_docabstract">内容摘要：</b></p>
+		<p class="fontkaiti"><b class="font_DOCKEYWORDS">关键词：</b></p>
+		<p class="fontkaiti"><b class="font_ZZJJ">作者简介：</b></p>
+ 		<div class="f-main-leftMain-content2">
+		<div class=TRS_Editor><p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>摘要</strong>：中国经济增长奇迹是一个有待解释的理论命题。合理解释地方财政非规范行为与中央和地方激励相容之间的逻辑悖论，是深刻理解中国经济改革逻辑的关键。基于地方自主财力长期依赖非规范性财政收入的特征事实，一个包含中央和地方双重行为视角的包容性财政体制分析框架，可以阐释改革进程中长期存在的以非规范性收入为载体的隐性分权合约，刻画在中央财政容忍和地方财政自主的行为动机下中央和地方财政互动的制度空间和动态过程，阐明非规范性收入、中央和地方激励相容与经济增长及市场化改革之间的逻辑一致性。在包容性财政体制分析框架下，普遍内生于中国工业化和城市化进程中的非规范性收入，不仅弥补了正式预算制度下地方事权、支出责任与财力间的不适应，而且在保障体制平稳运行的同时实现了地方行为与经济增长目标的激励相容。包容性财政体制分析框架，兼顾了地方活力与中央驾驭能力，是中国能够兼顾经济快速增长和市场化改革双重目标的重要制度逻辑。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>关键词</strong>：包容性财政体制 激励相容 中央和地方关系 财政分权 非规范性收入</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>作者简介：</strong>吕炜，东北财经大学经济与社会发展研究院教授；王伟同，东北财经大学经济与社会发展研究院研究员。（大连116025）</font><font style="font-size: 12pt; line-height: 150%">　</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>引言</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　中国改革开放取得的发展成就令世人瞩目，这意味着过去40余年间中国的改革一定“做对了什么”，或者说探索出了一条可自洽、可调适的制度体系，以产生持续的激励机制进而实现了中国的改革与发展。对此学术界比较主流的认知是，将其归因于地方政府发展经济的积极性被有效激发，实现了“为增长而竞争”，而地方政府行为动机则归因于财政分权的经济激励和政治晋升的政治激励。但在中央集中统一领导的体制下地方政府的积极性并非天然存在，而是源自一系列中央层面的制度安排和机制设计。党的十九届四中全会把“健全充分发挥中央和地方两个积极性体制机制”作为推进国家治理体系和治理能力现代化的重要内容，意味着中央和地方两个积极性本质上是一个有机的整体，地方积极性的调动离不开中央积极性的发挥。事实上，在新中国成立之初国家领导人就意识到了调动中央和地方两个积极性的重要性。毛泽东同志在《论十大关系》中就指出应当在巩固中央统一领导的前提下，扩大一点地方的权力，给地方更多的独立性。由此开启了不同于苏联模式的社会主义建设道路的探索，并于1958年、1970年在高度集中的计划经济体制下进行了两次大规模的放权试验。遗憾的是，在计划经济时期的摸索过程中，中央和地方关系始终在“一收就死、一放就乱”的困境中挣扎。改革开放以来，中国经济增长奇迹显然是合理发挥了中央和地方两个积极性的结果，40多年的发展历程总体上呈现出了中央和地方关系激励相容的动态演进过程。由此引出的一个重要的理论思考是：在如此长的市场化过程中，究竟是什么样的制度设计和体制安排有效支撑了中央和地方两个积极性的持续有效发挥，进而形成了兼顾中央统筹驾驭与地方活力激发的中国发展模式。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　中国市场化改革在一定意义上是政府向市场放权、中央政府向地方政府放权的过程，地方政府在其中确实发挥了至关重要且显而易见的作用。财政分权、政治晋升、地方竞争等关于中国发展的重要理论，从地方政府的视角讨论地方竞争为什么会带来一个好的制度，无疑具有其内在合理性。但中央政府在改革发展中的重要作用不应被忽视，其对地方政府的经济激励和基于中央目标而设计的政治激励，不仅是激励地方竞争的体制根源，也始终服从和服务于国家总体改革和发展目标。地方政府的单视角考察更多看到的是地方经济行为及其经济结果，无法全面审视中央和地方关系中激励相容的动态过程，由此得出的认识显然只是反映了整个分析框架和实践过程中一个局部的事实。客观上，发挥中央和地方两个积极性并取得经济绩效，除了财政分权的经济激励和政治晋升的政治激励所带来的地方开展竞争的行为动机外，仍需要两个重要的制度条件，一是中央政府赋予了地方政府什么样的手段和权力来实现其发展的积极性，并且这种方式能够在改革过程的不同阶段得到一致性的解释，特别是关于1994年分税制前后的重大体制性变化的解释。显然已有的基于分权合约稳定性前提下的财政分权理论难以对此给出一致的解释。二是在转轨体制下的动态过程中，中央政府在一个改革的长过程中如何通过赋权与纠偏的制度设计，确保地方政府的竞争不偏离总体改革目标并带来一个好的制度的渐进实现。政治晋升激励似乎也很难诠释其中的动态过程。忽视上述两个制度条件，就会忽视中央政府在改革发展中的作用，从而难以系统审视中央和地方关系，也难以全面阐释兼顾改革与增长的中国发展模式的内在规律。针对这两个制度条件的考察，需要基于中央和地方双重视角观察中央和地方财政关系中的动态过程，而这恰恰是研究中国实践过程能够取得预期绩效必不可少的立足点和分析框架。如果缺乏一个整体的、一以贯之的框架来解释改革的过程与阶段，我们就难以从实践中提炼出中国改革成功的制度优势究竟是什么。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　财政作为国家治理的基础和重要支柱，中央和地方财政关系在中央和地方两个积极性的发挥上具有决定性作用，是理解中央和地方激励相容过程与中国经济发展奇迹的关键。但一种经验的观察是，改革开放以来中国的中央和地方财政体制框架看上去似乎并不完美，甚至由于长期存在非规范性收入问题且中央和地方体制的频繁变动而常常为人所诟病。从预算制度的角度来说，所谓非规范性收入是指游离于预算之外的预算外收入和制度外收入；从功能性上来说，非规范性收入则是内生于改革发展过程中的，客观上为地方政府更好实现增长目标起到一定积极作用的财政资金，其不规范性来自其收入方式和渠道而不是支出用途，也应视作财政资金范畴，是中央和地方财政关系考察中不可或缺的内容。改革开放以来非规范性收入迅速增长，其总规模一度与预算内收入规模旗鼓相当而成为“第二财政”。非规范性收入在改革的不同时期经历了企业留利、行政收费、土地出让、地方债等多种形式，但始终没有被完全取缔。这意味着非规范性收入的存在有着深刻的制度背景，由此引出的一个关键问题是，这种不规范且频繁变动的中央和地方财政体制是如何实现中央和地方激励相容、调动中央和地方两个积极性并推动经济发展的。在揭示这一悖论的过程中，地方政府的非规范性收入及其演变进程可能是一条很好的观察线索，有助于串联和解答上述逻辑悖论中的疑问。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　我们将这种包含了中央和地方的财政互动行为的财政体制归纳为包容性财政体制。在包容性财政体制下，中央政府会对地方政府非规范性收入给予有条件容忍，地方政府会追逐以非规范性收入为代表的自主可控财力，这种中央和地方行为逻辑可能是中国财政分权体制的真正内核。中央财政容忍和地方财政自主构成了包容性财政体制下的中央和地方基本行为逻辑。但中央政府会审慎把握非规范性收入扩张所带来的负面风险和影响，逐步对其进行规范或取缔，保障地方行为激励相容于中央改革目标。相较于预算内收入的正式制度调整而言，非规范性收入具有较强的制度弹性，有助于更加灵活地调适地方事权与支出责任之间的矛盾，为中央和地方在财政体制设计上提供正式制度之外的弹性空间，也为改革进程提供试错和容错的制度缓冲。包含中央和地方双重视角的包容性财政体制是具有中国特色的中央和地方财政关系和财政激励体制，是理解中央和地方两个积极性存在的重要制度基础，有效兼顾了中央驾驭能力和地方活力，是揭示中央和地方行为逻辑的重要线索，有助于为中国经济改革发展总结可自洽、可验证的理论框架。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>一、包容性财政体制的内涵</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　理解中国的中央和地方政府间财政关系，需要与新中国财政70多年特别是改革开放40多年的中央和地方财政改革主线相衔接，并在制度演进上寻求规律和动力基础。这是从财政作为国家治理基础和重要支柱的根本要求出发，讲好中国财政故事的重大理论任务。其中的关键是理解什么样的制度设计有效调动了中央和地方两个积极性、实现了中央和地方激励相容并持续推动了中国经济快速发展。本文提出的包容性财政体制分析框架，以非规范性收入为线索，探究了财政体制频繁变动与中央和地方激励相容的制度条件，有助于更好揭示中国中央和地方两个积极性得以存在的制度基础。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　（一）现有理论的不足</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　主流文献普遍将中国经济的成就归因于地方政府竞争，合理的制度设计有效激发了地方发展积极性并带来了经济快速增长。其中财政分权理论解释了地方政府为增长而竞争的动机，其强调分权促成了地方竞争的条件并带来了“趋好的竞争”。在此基础上，政治晋升理论进一步对个体官员的动机和行为激励给出了解释，认为政治上的晋升激励比财政收入激励更为根本，地方官员为晋升而展开竞争是中国经济高速增长的关键。上述理论推动了学术界对中国经济发展模式的认知，但也存在诸多争论。财政分权理论所强调的地方为经济增长而竞争并没有形成共识。更有学者认为分权不仅不会促进经济增长且还会滋生腐败，而偏离了最优程度的分权反而可能对经济增长不利，甚至财政分权在促进经济增长的同时也带来了市场分割与重复建设。这些不同的实证结果可能是由不同的研究特征所导致，但二者关系仍有待进一步考察。与之类似，政治晋升理论在实证研究上也始终没有形成共识，不少研究认为经济增长与官员政治晋升之间并不存在显著的联系。这表明财政分权和政治晋升理论虽然在一定程度上解释了中国地方政府的行为逻辑和经济表现，但仍存在理论与实践不吻合的现象。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　首先，中国真正且持续稳定的财政分权来自预算制度之外，而非预算制度内的分权。理论上关于财政分权的刻画与中国实践中的财政分权存在偏差，从预算内财政分权的角度出发难以为改革的不同阶段提供一个一致性的解释。财政分权的本意是赋予地方财政更多自主性，而实践中这种自主性在地方预算内支出上是几乎看不到的。事实上，中国的财政分权模式远比理论上所阐释的更加复杂，已有文献关于中国是高度财政分权国家的判断主要源于对支出层面的观察。改革开放以来地方支出比例始终呈现上升趋势，从1978年的52.6%上升到近年来85%以上，支出责任表现出高度地方化的特征。但地方支出责任比重高并不意味着分权的程度高，预算内资金主要用于满足公共性支出，中央对其支出有着严格而具体的限定，地方实质上无法真正掌握其支出用途，甚至不少地方还需要另觅资金来弥补公共领域的支出缺口。因此这种看似高度的分权只是地方承担更多最终支出责任的一种表现，并不是理论上真正的财政分权，也无法体现财政分权理论所阐述的原理。也正是由于地方预算资金主要用于“人吃马喂”的公共服务而较少参与到经济建设中，决定了基于预算内收支度量的财政分权与经济增长的实证研究结论并不稳健。事实上，中国实践中真正意义的财政分权来源于预算制度之外，这种自主财力在改革开放以来始终存在于地方政府财政体制之中，只是具体表现形式随着发展阶段的变迁而有所不同。这种非规范性收入长期在中国宽口径财政收入中占有很高比重，并主要由地方政府所掌控，其构成了中国真实的财政分权形态并由此对地方政府产生激励。如果非规范性收入获取方式能够与经济增长的目标相容，这种制度外的分权就会产生地方政府追求自主财力与经济增长的激励相容，从而实现中央和地方两个积极性的发挥。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　其次，规范的财政分权理论要求财政体制存在“有效承诺效应”，但中国的中央和地方财政体制并不稳定。无论是财政包干制时期中央和地方财政关系的频繁调整，还是财政集权化的分税制改革以后，都出现了中央打破承诺上收财权的情况，从而使得财政分权理论无法在不同体制阶段一致性地解释中国经济增长实践。事实上，中国财政分权体制频繁变动的背后存在着两个基本稳定的事实，一是事权和支出责任的不断下沉，带来了持续性的地方财政压力及其行为决策；二是地方政府始终保持了非规范性收入的获取渠道，无论是包干制时期的企业留利还是分税制后的土地财政以及地方发债。尽管这种非规范性收入获取方式会随着体制阶段的变化而变化，但本质上地方政府始终稳定地掌握着正式预算制度外的自主财政权利，从这种角度看财政分权实质上并没有频繁变动，其分权合约的“有效承诺”更多隐藏或默认于正式财政制度之外的非正式制度安排之中，这是理解中国式财政分权与经济增长关系的重要视角。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　最后，中央政府始终是中央和地方互动过程中的重要一方，而财政分权和政治晋升理论忽视了中央政府的作用或者将其视作外生变量，使其难以系统地诠释财政体制变动过程中的中央和地方互动行为逻辑及其经济绩效。财政分权作为一种实现中央和地方激励相容的委托代理关系，其行为主体必然应当包括中央政府，因为所有的分权方式及其调整均是中央政府为激励地方政府实现其目标而设定的合约关系。已有文献利用地方债发还方式的调整，证明了中央政府会根据地方政府行为选择及政策效果，而相应改变分权的方式进而保障分权的效果。这意味着中央政府除了根据需要而调整预算内的中央和地方分权程度，也始终在对地方政府非规范性收入获取行为进行容忍和纠偏。很难想象中央政府在调整中央和地方财政关系过程中，没有考虑到地方政府的非规范性财政行为，更为合理的解释是中央政府更多将其视作了中央和地方财政关系调整的重要变量。事实上，中央政府也正是通过对地方非规范性收入的容忍，才缓解了地方政府在预算制度内的事权、支出责任与财力之间的矛盾，使之成为正式预算制度之外中央和地方政府互动关系中的重要制度变量。只有将中央政府的行为逻辑置于中央和地方财政关系框架之中，才能更清晰地观察改革长期过程中中央和地方财政分权的演化过程，并揭示中国式分权能够持续带来经济增长的内在机制。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　由于财政分权和政治晋升理论在解释中国经济增长方面存在上述局限，有必要重新审视中央和地方激励相容的制度设计，探究两个积极性持续存在的真实来源。相较于财政分权与政治晋升理论的争论，学术界更为普遍的共识是，地方政府对具有更大自主权的非规范性收入的追逐与其实现增长的方式有着紧密且稳定的关系，无论是包干制时期以“经营企业”为特征的地方保护主义经济增长模式,还是分税制后以“经营土地”为特征的土地发展主义经济增长模式,非规范性收入都产生于地方政府追求预算外收入的过程之中，这些研究将我们引向了一个非常独特的中国现象，那就是地方预算外收入的存在和经济增长的关系。本文所提出的包容性财政体制正是基于非规范性收入的线索来观察中央和地方财政互动过程及其带来的经济绩效。在包容性财政体制下，地方政府以非规范性收入作为促进经济发展的手段，又通过这种经济的增长获取更多非规范性收入，从而形成了偏向于地方自主财力最大化的经济增长模式。只要这种非规范性收入的获取方式能够与经济增长的目标相容就可能会被中央政府所默许。但当这种自主财力的增长，更多通过对既有财力的挤占、增加税费负担或者累积系统性风险来实现时，其与中央政府的经济增长目标就会出现冲突，进而会被中央政府纠偏或取缔，但地方政府寻求新的契合增长目标的非规范性收入空间和努力仍然存在，这可能才是中国改革过程中中央和地方财政关系中的真实故事。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　（二）包容性财政体制的基本内涵</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　基于已有理论与中国实践之间存在的不匹配问题，本文认为中国的中央和地方财政体制中存在一种建构于正式中央和地方财政制度之上的非正式财政制度安排，并将其称为包容性财政体制框架。包容性财政体制可以定义为能够有效调动地方积极性、更好贯彻落实中央战略意图的富有灵活性的财政体制。这种财政体制以非规范性收入为载体，以中央财政容忍和地方财力自主为行为逻辑，构建了有利于实现中央和地方激励相容的弹性制度空间，形成了兼顾中央统筹驾驭和地方活力激发的中央和地方财政制度安排。财政体制作为一种制度安排，一般应具有一定的“刚性”，但在中国经济转轨过程中，中央和地方财政关系不断动态调整需要一定程度的灵活性和弹性空间，中央为充分调动地方发展积极性，有条件地容忍了地方不规范财政行为或提供了一种不规范的过渡性制度安排。因此这一时期财政体制表现出了很大程度的灵活性，也正是这种灵活性，才体现出了“容忍”“包容”的体制特征，从而形成了具有包容性特征的财政体制。包容性财政体制下中央和地方财政间的赋权与纠偏正是为这种动态体制调整提供了正式财政制度之外的试错和容错空间，较好地保障了中央和地方两个积极性的发挥。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　1.包容性财政体制与中央和地方政府行为动机</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　包容性财政体制是中国改革开放以来一以贯之实行的一种中央和地方财政关系和财政激励体系。中央和地方激励相容要求中央改革和发展意图能够得到地方的贯彻和落实，同时地方政府也有意愿和能力在中央设定的目标下展开竞争，形成一种可以激励地方政府“买账”（buy-in）的制度设计。其中制度的难题在于，改革开放特别是1994年分税制后，收入逐步向中央集中，虽然通过转移支付再给地方，但支出责任进一步下沉，地方收支平衡的压力不断加大。因此地方政府在满足下放的公共事权与以经济绩效为考核标准的政治激励的双重压力下，对自主财力的支出需求开始大幅扩张，正式财政分权制度下始终难以满足地方支出需要，导致了地方事权、支出责任与财力的长期不匹配，也由此引出了地方政府通过非规范性财政行为的方式获取财政资金以满足支出需要的局面。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　基于这样一种现实的考察，“中央财政容忍—地方财政自主”的包容性财政体制能够较好地揭示中国中央和地方激励相容的过程。从中央政府层面看，中央政府为有效激励地方政府发展经济，通过容忍地方政府的非规范性财政行为，为地方政府的财政活动提供了正式预算制度以外的自主财政空间。这本质上是中央政府在激励地方政府履行事权的过程中，鉴于正式制度难以有效兼容地方事权与财力之间矛盾的基础上，对地方财政平稳运行提供的一种非正式制度安排。但需要强调的是，中央财政容忍的对象是能够兼容于特定阶段经济增长目标的非规范性收入，这导致了地方政府追求自主财力与经济增长的激励相容，从而实现了中央和地方两个积极性的发挥。从地方政府层面看，作为利益行为主体其在经济与政治双重激励下，有动机增强其内生于经济增长模式的自主财力获取能力，这也是财政分权理论的题中应有之义。通过获取自主财力其拥有了更好的经济权利发展经济，同时这种经济增长过程也会强化其内生于增长过程的自主财力获取能力，从而形成了对地方政府获取自主财力和发展经济的双向激励。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　在包容性财政体制下，地方政府开展竞争的重要领域是正式预算制度外的非规范性收入。因此中国真实财政分权与经济增长之间的故事，更可能是地方政府通过对这些非规范性财政空间的竞争以扩大自主财力，进而依靠这种自主财力实现了公共事权和经济绩效领域的竞争。这种正式制度之外的中央容忍与地方自主行为，在预算内制度无法匹配事权与支出责任的情况下提供了制度外的弹性空间，保障了地方事权的履行能力。尽管非规范性收入更多被赋予了较为负面的评价，但其事实上缓解了正式制度内中央和地方财政事权、支出责任与财力之间的冲突，对财政体制运行和推动经济发展起到了至关重要的作用，因此有必要对非规范性收入进行更加辩证的认识和思考。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　2.包容性财政体制的运行逻辑</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　首先，包容性财政体制框架为地方政府竞争提供了以非规范性收入为载体的弹性制度空间，让地方政府竞争得以持续开展。改革开放以来，中国中央和地方财政关系开始了较为明显的放权过程，但其内涵远不止预算内的财政权利。中国政府所释放的权和利，既包括改革初始时既有权和利的再分配，更涵盖了改革过程中地方通过发展经济获得的各种新增的权和利，这些新增的权和利往往是从计划体制下要素的市场化过程中产生的。地方政府凭借对所掌控资源的开发和利用权利，获得了预算制度以外的超额自主财政收益，支撑了地方政府发展经济内在激励的实现。中央政府在制度外对地方政府非规范性财政活动的容忍，恰恰赋予了地方政府开展竞争的制度空间，没有这种财政容忍的空间也就没有了地方政府开展经济竞争的手段和方式，地方政府发展积极性就难以有效调动。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　其次，包容性财政体制下中央政府通过对非规范性财政行为容忍边界的掌控，兼顾了地方活力与中央驾驭能力，保障了快速增长和市场化改革的同步推进。相较于推动分税制改革过程中所面临的种种阻力，中央在非规范性收入领域的改革则更为灵活和顺畅，这应当部分归因于非规范性收入的非正式性以及部分不合法性，地方政府在这些领域缺乏抵制改革的正当理由。这事实上为中央在非规范领域进行制度微调以掌控体制运行创造了制度空间和制度条件，这也是中国式分权体制具有试错和容错性的重要原因。伴随着中央对这些新增权利的规范与约束，不断扩大规范制度范围内的财政边界，使得地方政府行为方式也逐步符合市场化要求。这种约束和规范本身就是中国市场化改革的重要内容和实施方式，无论是取消企业留利、分税制改革、取缔或限制非税收入，以及针对土地财政的管理行为均是中央政府对地方政府行为的规范，也构成了中国市场化改革的重要内容。这也解释了中国改革道路为什么能够在保持对地方政府有效激励的同时也实现了市场化改革。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　最后，包容性财政体制框架是一个市场化改革进程中，既一以贯之又动态调整的制度体系，非规范性收入会根据特定市场化阶段而呈现不同形态，这其中蕴含了中央对地方赋权与纠偏的互动过程。在不同市场化发展阶段，地方政府手中掌握权利的可变现程度和变现方式存在显著差异。在市场化改革初期，由于市场的范围较小导致政府权利变现的方式更加趋于行政化，非规范性收入更多采用企业留利以及行政收费的方式获取。当市场边界逐步拓展，政府权利可变现的空间也随之扩大。随着城市化和资本市场的发展，土地出让、土地抵押变现方式逐渐成为其获取自主财力的主要方式，使地方政府得以通过土地和金融市场撬动更大的自主财力。但这种非规范性收入获取方式的改变并没有逾越包容性财政体制的基本规律，只是市场约束条件变化下的不同表现形式。在包容性财政体制下，地方政府有动力积极选择最有效的自主财力增长方式，并会根据外部条件与政策变化去寻求适应合理制度空间下的新手段，而这种非规范性收入形式的转换内生于中国市场化进程之中，也决定了中国不同时期的经济发展模式与动力机制。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　总的来看，包容性财政体制是一个中央和地方行为逻辑与市场化改革相统一的动态体系。在此体系下，中央是改革发展的设计者和调适者，地方是实践者、拓荒者和试验者。只要中国市场化改革进程没有完成，仍存在着计划领域要素的市场化需求，即地方政府还可以开拓出新的自主财力实现方式，这种中央和地方财政互动关系就有其存在的合理性和必要性，也构成了中国市场化改革进程中中央和地方政府行为逻辑的核心支配力量。过去40余年的改革进程中，这些非规范性收入常常为人诟病，但也可能正是这些看似不完美的体制安排带来了经济持续增长、体制持续完善。从总体趋势上看，随着财政体制的逐步完善，这些获取非规范性收入的空间在市场化进程中也会变得越来越少。已有的研究还较少涉及这一问题，或者主要从负面角度来评价和认识非规范性收入，或者将非规范性收入与规范性收入混在一起，用西方分权理论来加以解释。这样做无法公正全面地认识和评价非规范性收入对于中国改革发展的真正意义，也无法准确客观地描述和解释中国道路的特征和中国经验的价值。本文试图解释和研究的正是不同改革阶段这些非规范性收入的表现形式及其变化，以及这种变化如何作用于中央和地方政府间的互动行为，并如何作用于增长和改革。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　二、包容性财政体制下非规范性收入的演进逻辑</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　包容性财政体制的合理性和适用性需要在历史的长视角下进行验证，本文以非规范性收入的演进逻辑为线索，通过梳理不同阶段中央和地方政府在非规范性收入上的互动过程，总结其背后的行为动机与逻辑，为包容性财政体制提供历史事实论据。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%"><strong>　　（一）让利与纠偏：财政包干制下针对地方企业留利的中央与地方互动</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　为了激活被传统经济体制所桎梏的地方经济活力，中国改革开放初期开始试行财政包干制，基本思路是中央对各省级财政单位的财政收支进行包干，地方增收的部分按一定比例留下自用，多收多支、少收少支，自求平衡。出于自身利益的驱动，地方政府开始寻求避免与中央分享收入的渠道。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>1.藏富于企：乡镇企业的兴起与市场的分割</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　改革开放初期放权让利的政策背景下，企业利润留成和利税改革有效激发了企业的生产积极性，同时包干制按照属地和隶属关系征收流转税和企业所得税的做法，将地方政府和所属企业紧密联系起来。地方政府有能力通过收缴利润和管理费、集资、摊派、强制性赞助等方式，将所属企业留利转换成地方政府的可控财力。这使得企业留利额开始迅速提高，所占国民收入份额也由1978年的0.9%迅速提升至1987年的6%左右。这种地方政府向企业谋取预算外资源的方式被学者称作“逆向软预算约束”。地方企业留利行为实质上内生于发展和经营企业为特征的工业化发展过程，地方政府在通过企业留利的方式增强了其自主财力的同时，也通过经营企业的积极性推动了经济的发展，兼容了中央迫切需要发展经济的目标，实现了包容性财政体制下的中央和地方激励相容，这是改革初期中央和地方两个积极性得以充分发挥的制度基础。因此在改革开放初期，中央政府对于地方政府大力发展乡镇企业的行为采取了包容和鼓励的态度，这使得乡镇企业数量在这一时期出现了快速增长。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　在财政包干制下，地方政府大多怀有“藏富于企业”的倾向，普遍有意让企业多留利润，然后再通过收费摊派等手段满足本级财力的需要，从而最大化地方预算外收入。为此地方政府有意识地封锁地区市场、保护本地企业的销售市场，这无疑阻碍了国内市场整合的过程。更为重要的是，财政包干制度的大面积推行逐步改变了国家财政的增长格局和中央财政在国家财政中的地位，集中表现为两个比重的下降。这使得中央财政出现困难，不得不向地方讨要以维持运转，有学者认为这种局面已经到了所谓的“分权的底线”，逐步触碰并超过了中央财政所能容忍的限度。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　2.规范企业留利：中央政府的困境与纠偏</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　财政包干制度下，由于中央财政能力被削弱导致中央权威受到挑战，中央决定以分税制改革化解两个比重持续下降的局面。分税制要求按税收来划分各级政府的预算收入，即按税种分税而不是按企业隶属关系划分收入，这几乎掐断了之前地方政府通过所属企业追求预算外收入的途径。因此，导致地方政府预算外收入大幅下降，也削弱了地方政府发展乡镇企业的积极性。地方政府以企业留利为主要方式的预算外收入被中央政府所取缔，标志着市场化改革初期阶段的完成。应当说以放权让利为目标的财政包干制很好地完成了改革初期目标，而这一制度得以良好运行的关键是地方政府通过企业留利的方式获取了改革红利，不仅有效激励了地方政府发展经济的内在动力，也为其提供了用于经济建设的重要财力。企业留利作为地方政府预算外收入的产生和消亡过程，是改革开放以来中央和地方首次在非规范性收入领域的放权与纠偏行为，较好且较完整地诠释了中央和地方财政的互动过程。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　（二）行政与市场：分税制后地方获取自主财力的两种方式</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　分税制改革关闭了地方政府通过企业留利方式获取自主财力的制度空间，地方预算外收入的短期大幅下降，导致了地方政府可控财力下降。在政治和经济的双重激励下，地方政府有继续寻找其他自主财力的内生动力。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　1.地方政府权利的行政化变现：行政事业性收费的增长与消减</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　分税制改革后，随着中央政府对地方企业留利行为的规范，且在统计口径上企业和主管部门资金不再纳入预算外资金管理，行政事业收费逐步成为预算外收入的主要构成，其所占比重迅速由1992年的20%上升至1993年的90%。行政事业收费能够替代企业留利成为地方政府获取自主财力的主要方式，原因在于行政事业收费基本不纳入地方预算，而是由各地区和部门自立规章，直接成为各地区和部门“小金库”，实质上成了非规范性的地方政府收入来源。由于税收需要跟中央和各级财政共享，地方政府也有动力将预算内的税收转化为预算外的收费，使得行政事业性收费成为这一时期支撑地方政府运转的一种选择。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　地方政府通过行政收费获取自主财力的方式，由于无法兼容经济增长的目标，同时严重侵蚀了正式预算制度的运行，因此是一种无法内生于经济增长模式的非规范性收入形式。中央对其采取了较低的容忍态度，迅速出台相关措施，对行政事业领域的乱收费现象进行了规范和清理。1993—1996年先后将养路费等近百项政府性收费纳入财政预算管理，不再作为预算外资金管理。1998年“费改税”进一步规范和治理了政府部门乱收费问题。这些政策的相继出台使得行政事业收费快速增长的势头得到了有效遏制，其在预算外收入中占比也出现下降。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　2.地方政府资源的市场化变现：土地财政的出现与泛滥</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　随着行政事业收费被逐步规范，地方政府不得不寻求更为持续稳定且相对充足的自主财力来源。在此背景下，地方政府开始以土地征用、开发和出让作为地方财政和经济增长的主要来源。以土地出让金和房地产相关税收为主的土地财政，由此开始成为地方政府获取自主财力的主要方式。土地财政的出现有着深刻的经济制度背景。1989年国有土地使用权有偿出让收入制度确立，并做出了40%上交中央财政、60%留归地方财政的收入分配决定，为地方政府追求土地出让收入提供了制度上的可能性。1993年中央进一步放宽地方政府自主空间，将与土地有关的税收和国有土地有偿使用收入全部归地方所有，这一制度设计使地方放开了手脚，提高了地方政府在征收土地收入上的积极性。而1998年《中华人民共和国土地管理法》修订通过，地方政府出让国有土地成为可能。自1998年起，国有土地出让面积保持了增长趋势，地方政府也因此获取了大量土地出让收入。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　由于土地出让收入属于地方政府自主可控收入，可灵活使用且较少受到上级政府和人大系统的监督，使得经营土地获取预算外收入远比税收收入更易受到地方政府青睐。除了土地出让的直接收入外，经营土地也带动了地方主体税种营业税收入的快速增长，这更强化了地方政府通过经营土地的方式增强自主可控财力的内在激励。土地财政的出现，源于地方政府在中央土地制度框架下的基层创新，是地方政府利用所掌控土地资源进行的市场化变现。虽然土地财政在运行过程中存在明显的非规范性，但其客观上缓解了地方政府在发展经济过程中的资金约束，为地方政府提供了在特定阶段下开展经济竞争和释放发展冲动的财政空间，并保障中国形成了良好的基础设施。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　从负面影响看，随着土地财政成为地方获取非规范性收入的重要形式，由于高房价有利于获取高额的土地出让收入，地方政府有进一步推动和维持房价上涨的内在激励，导致土地违法和腐败行为不断出现并带来了房价的高涨。而高企的房价抬高了工商业成本，由此导致的“去工业化”削弱了经济竞争力，成为经济持续增长的潜在隐患。为此中央开始规范地方政府的土地出让规模和行为。2002年开始，中央先后出台《招标拍卖挂牌出让国有土地使用权规定》和《协议出让国有土地使用权规定》，对商住用地和工业用地的出让方式做出明确规范，但依然给工业用地留下了协议出让的口子，这在一定程度上表明中央对于地方政府以较低的价格协议出让土地和吸引资本流入的行为持默许态度，承认其在推动经济发展中的作用。为应对地方政府违规经营土地的冲动，中央政府2007年进一步将土地出让收支全额纳入了地方基金预算，实行“收支两条线”管理的政策规范设计。但由于土地收入内生于这一时期的经济增长模式，兼容了地方追逐土地收入的行为激励与中央经济增长的目标，在没有可替代的地方自主财力情况下，土地财政难以有效退出经济舞台，这是包容性财政体制与中国特殊增长模式所决定的。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>3.从行政到市场：非规范性收入获取途径的转变</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　从地方政府非规范性收入的获取方式看，改革初期的企业留利和分税制后的行政事业收费，本质上都属于地方政府利用行政手段从企业和个人收取的非税收入，其征收双方并不是平等的交易行为，具有较强的行政权力变现的特征。而随后出现的土地财政则与房地产市场、招商引资以及城市化建设等紧密相关，与之联系的土地出让收入和相关税费的交易双方则倾向于市场化的交易行为。这是因为随着市场化进程的推进，土地市场和资本市场逐步扩大，为地方政府将手中资源进行市场化变现提供了可能。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　从地方政府非规范性收入获取方式的转变过程看，虽然每一阶段的非规范性收入都存在或多或少的不合理或不规范性，但事实上无论是企业留利、行政事业收费还是土地财政，都客观适应了当时的改革发展环境，在当时历史条件下为调动地方发展积极性注入了动力，并为改革发展提供了有效的财力保障。尽管中央政府会及时对存在的问题进行纠偏，但允许地方政府探索自主财力的制度空间从来没有被彻底关闭。中央始终赋予了地方政府极大的经济自主权利，地方政府仍然可以继续寻找新制度环境下的自主财力增长模式。在这种反复的赋权与纠偏过程中，看似每个阶段地方政府都存在形式各异的非规范性收入，但本质上却有效推动了特定时期的经济发展和建设需要。同时随着对传统非规范性收入获取方式的取缔，新的方式也更加适应市场化的发展环境，从而在这一过程中地方政府的行为也愈发市场化和规范化。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　（三）债务与风险：地方自主财力债务化背景下中央和地方的互动</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　包容性财政体制的运行从来都是有成本的，这种成本在市场化发展的初期，由于市场规模较小且非规范性收入相对有限，因此并没有带来显性的风险与危机。但随着市场化改革的深入尤其是资本市场和金融市场的发展，政府手中的资源能够参与市场交换的部分越来越多，地方政府在寻求自主财力的体制激励下，开始探索将政府资源与资本市场相结合的方式获取自主财力。这种通过资本市场融资方式获取的自主财力，放大并提前变现了地方政府现时收益，更大限度地助力了地方政府的发展激励，但同时也急剧放大了包容性财政体制运行的成本和风险。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　土地作为地方政府拥有的最大资产，在直接出让受到用地指标限制的情况下，地方政府开始通过设立融资平台的方式，将土地抵押给银行及通过发行城投债进行借债融资，并在2008年金融危机后成为地方政府撬动资本市场获取城市建设资金的关键渠道。土地资源与金融市场的结合是地方政府在多重融资约束下的创新性探索。融资平台的出现和发展标志着资本和金融市场开始成为地方政府获取非规范性收入的重要渠道。但融资平台累积的巨额债务最终需要由地方政府来承担，给经济运行带来了极大的系统性风险。地方融资平台的潜在风险显然超出了中央政府的容忍限度，为此中央政府连续出台了系列政策以规范地方政府融资行为。但中央政府也没有完全关闭地方债务融资的渠道，而是在2014年修订的《中华人民共和国预算法》中赋予了地方政府发行债券的权力。这赋予了地方政府依法适度举债的融资权限，使得地方发债行为得到逐步规范。在发债模式受到限制以及土地出让收入减少的背景下，地方政府迫切需要寻找新的可替代的自主财力获取渠道。在这种背景下，政府和社会资本合作模式（PPP）开始登上中央和地方互动的舞台，也必然会带来中央和地方关系中新一轮的赋权与纠偏过程。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　上述基于中国改革与发展实践的分析表明，中国作为一个拥有独特政治体制的巨大经济体，其改革和发展实践蕴含着中国道路的独特探索，直接用成熟的西方经济理论难以全面解释。从规范的理论和制度来看，地方政府的企业留利、土地财政、融资平台等非规范性融资行为，可能会导致市场分割、资源错配、高房价及系统性风险。但从现实的实践发展看，恰恰是地方政府在特定阶段的种种非规范性财政行为，使得地方政府发展经济的内在激励得到了有效释放，并助力了中国经济的长期增长，同时也内嵌于中国经济的增长模式之中。因此，应当从包容性财政体制视角下辩证地看待非规范性财政行为，其本质上是财政分权框架下地方政府为开展竞争而进行的“基层创新”。如何在未来的中央和地方关系中继续给予地方财政激励的制度空间，是能否继续发挥中央和地方两个积极性的关键因素，也是继续保持中国增长模式的关键制度要件。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　三、包容性财政体制的制度根源</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　鉴于包容性财政体制在过去发挥了较好的中央和地方激励相容作用，在没有更好的体制替代的情况下，可以预见未来一个时期维持具有弹性的中央和地方包容性财政框架仍是次优的体制选择。这使得深刻剖析包容性财政体制的制度根源，探究维持中央和地方激励相容的体制基础，从而更好发挥包容性财政体制的正面激励，成为未来中央和地方财政体制机制设计中需要重点考虑的内容。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　（一）包容性财政体制源自中央和地方财政权责失衡</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　中央和地方财政体制绝不仅是经济的范畴，探究包容性财政体制的制度根源，需要从事权、财权、财力和支出责任四者关系中去寻找答案。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　事权、财权、财力和支出责任四者关系的逻辑起点是事权问题，其决定了哪些事情需要由哪级政府来负责，这就是中央和地方间的事权划分问题，事权归属谁就由谁来负责完成该项政府责任。政府要做事情就必须要有财力来保障，政府的财力来自政府征收税费以及发行债务的权利，即政府的财权。但由于事权与财权划分的逻辑和标准是不同的，事权更多基于不同层级政府的信息、效率及事权外部性等因素决定，而财权则更多基于税种属性及其征收效率决定。因此事权与财权往往难以匹配，必须通过政府间的收入转移以及发债的方式加以平衡，而平衡后各级政府所掌握的用于做事的资金就是政府财力，这也就引出了财权与财力之间的差别，进而导致了事权与财力之间需要如何匹配的问题。支出责任是在事权确定的前提下，由哪个层级政府和部门进行财政支出并最终履行其事权的责任，反映了政府为承担事权责任而进行相应支出的行政过程，各级政府支出责任必须与其承担的事权相适应。因此各级政府和部门为履行其事权责任，需要获得相应的财力以满足其支出责任，而所需财力与其财权之间的差额，则需要通过转移支付和发债的方式加以平衡。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　政府责任所确定的事权是财政收支行为及财政体制运行的基础，履行事权的责任和义务决定了各级政府的支出责任。在正式制度框架下，地方没有足够财力满足其支出责任需要的情况下，地方政府必然会在制度外寻求非规范性财政收入以满足其支出责任。由于地方支出责任的履行程度会作为上级政府的考核对象，地方政府会有足够的政治和经济动机去寻求非规范性收入。显然中国改革过程中，长期存在着正式预算制度内的地方事权、支出责任与财力的不匹配问题，是导致包容性财政体制出现的根本原因。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　<strong>（二）包容性财政体制内生于中国经济转轨过程</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　地方政府事权、支出责任与财力的不匹配是包容性财政体制形成的重要制度背景，其深层原因是支出责任的不断下沉与权责划分的不明确。在中国事权责任始终没有被很好地确定和加以规范，政府间的事权责任划分也比较模糊，这均导致了无法形成比较稳定的财力与之相匹配。一是中央和地方事权划分存在过度下沉的问题，一些义务教育、养老保障等更具地区外部性的支出责任更多由地方政府承担。这种过度下沉的支出责任对中央和地方间的财力调整提出了更高要求，也更容易产生中央和地方财力的纵向失衡。二是共同事权过多，导致事权划分较为模糊，使得相应的支出责任划分也更为复杂。目前政府共同事权的范围相当广泛，但总体看，我国的事权划分存在着准确性不高、法制性不强和稳定性不好的问题，加大了地方支出责任的不确定性。三是委托事权也加剧了地方支出责任的规模和不确定性，其中部分委托事权是以无经费式指令方式交由地方政府，比如中央政府调增公务员工资水平以及退休人员养老金上涨等，均削弱了地方政府的预算自主权。此外地方政府还承担了大量维护社会稳定等支出责任，这更加重了地方事权和支出责任进而加剧了地方财力的不足。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　更重要的原因，是在中国经济转轨过程中，以经济建设为中心的发展目标和分权化的经济体制，决定了地方政府被赋予了发展经济的职能，也成为地方政府重要的事权与支出责任，使得地方对自主财力产生了几乎无限的需求，也从根本上造成了地方事权、支出责任与财力间难以调和的内在矛盾。在这种背景下，非规范性收入高度自主的特征满足了地方发展经济的动机，成为实现该支出责任的主要财力。这些非规范性收入从无到有和从小到大，无法事先在财权意义上对其进行界定和规范，需要经历一个从非规范到逐渐规范的过程，这也正是中国财政体制不规范性的重要体现。但这种非规范性收入从产生到被规范的过程，恰好满足了地方创造收入发展经济的动机，也客观上带来了中国经济的快速增长。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　以上仅是基于静态视角下的地方政府事权与支出责任考察，而当我们将这样一组关系置于从计划到市场的转轨过程中时，财政体制的内在冲突会变得更加复杂和严峻。在改革与发展进程中，财政绝不仅仅是公共服务的提供者，更承担了推动改革与发展的工具性职能，如何有效激励地方政府和微观经济主体是财政制度设计的关键。在体制转轨过程中如何划分事权和确定支出责任，以及如何通过政府间收入转移为支出提供相应的财力保障，都始终处于随体制演进而不断调整的过程中。包容性财政体制为转轨过程中事权、财权、财力、支出责任四者关系的协调提供了最大的制度弹性，其中非规范性收入为化解内在冲突、保障体制运行且服务国家目标提供了制度空间。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　因此直观地看，非规范性收入的产生与地方收入自主权不足有关，是财权和财力方面的问题。但实质上收入自主权的不足本质上反映的是支出层面的巨大需求，并最终需要通过非规范的方式加以弥补。事权是政府职能的基础性安排，转轨过程中政府市场关系、政府职能、行政体制等本身就是改革的对象，也从根本上导致了事权不稳定、不规范。不规范的事权与支出责任必然会从支出侧传导到收入侧，使得非规范性收入的出现几乎是这个过程中不可避免的。因此问题的关键不在于非规范性收入是否出现，而在于非规范性收入是否伴随着市场化进程合理地出现，是否能够内生于特定阶段下的经济增长模式并成为服务增长和改革目标的工具，并在体制演进过程中呈现出逐步规范的趋势。这显然是我们从非规范性收入视角考察中国转轨和增长奇迹时应该秉持的原则。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　<strong>　结论及展望</strong></font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　如何合理解释地方财政非规范行为与中央和地方激励相容之间的逻辑悖论，是深刻理解中国经济改革逻辑的关键。本文认为支撑两个积极性充分发挥的制度基础，是中国构建了包容性财政体制。中央和地方两个积极性的有效发挥取决于中央和地方事权、财权、财力和支出责任四者关系的协调统一。但中国的转轨体制背景决定了政府事权边界的不确定性和多样性，公共事权的过度下沉以及叠加的地方经济发展职能，使得地方事权没有得到清晰的界定，导致与之相匹配的支出责任被放大。在正式预算制度无法满足地方履行其事权所需财力的情况下，催生出了地方政府通过非规范方式在制度外寻求自主财力的积极性，从而构建了叠加于正式制度之上的包容性财政体制安排。本文将这种中央和地方财政关系称为包容性财政体制。这种包容性财政体制运行的载体是不同形式的非规范性收入，其在有效激发地方追逐自主财力的同时兼容于特定阶段的经济增长模式，实现了中央和地方财政的激励相容。中央对地方非规范性财政行为的赋权和包容，是整个包容性财政体制运行的核心要件，也是中央政府对改革发展进程设计、驾驭和推动的具体表现。在包容性财政体制下，不变的是体制运行的制度空间长期存在，变化的是非规范性收入的具体表现形式，这种变化取决于市场经济发展过程所处的阶段和条件。而中央政府对地方非规范性财政行为的及时纠偏和矫正，反映了中央政府对制度边界的合理掌握，也由此演绎了中央和地方财政的互动过程。包容性财政体制兼顾了地方活力与中央驾驭能力，为发挥中央和地方两个积极性提供了制度保障，是中国能够兼顾经济快速增长和市场化改革双重目标的重要制度逻辑。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　包容性财政体制提供了一个更好观察中国改革发展进程的线索和分析框架，作为其重要载体的非规范性收入内生于改革发展进程，反映了在不同阶段为兼顾改革、发展、稳定而体现的制度弹性，并随着改革进程而不断规范和完善。相较于西方体制而言，这种安排体现了自洽于特定阶段的适应性，也内含着中国国情和特定阶段的发展目标。非规范性收入并不是一种贬斥含义的道德或价值评价。从长远看，无论是基于实践的探索，还是基于理论的创新，包容性财政体制作为国家治理工具所具有的契合国家需要的特征，所体现的对中央和地方两个积极性的激励，都应该是现代财政制度建设的重要内容，也是中国特色财政理论建设的重要内容。这决定了我们仍需要从包容性财政体制框架出发，来设计和推动渐进式改革的步骤和策略，以保障现阶段财政体制和经济增长模式的稳定运行。</font></p>
+<p align="left"><font style="font-size: 12pt; line-height: 150%">　　在上述逻辑基础上，本文可能的政策含义如下。首先，合理规范地方政府事权与支出责任是应对地方财力困境的根本，过度的事权与支出责任必然导致地方不择手段扩张自主财力，这是导致经济系统性风险的制度根源。其次，在既定经济增长方式和地方政府激励模式下，地方政府必然具有追逐非规范性收入弥补财力不足的动机，包容性财政体制下的合理制度空间应当保留，允许地方政府以合理方式探索自主财力的增长方式。再次，在利用包容性财政体制维持体制平稳运行的基础上，应当逐步规范地方非规范财政行为，并将地方自主财力逐步纳入正式财政制度，以逐步增强制度运行的规范性和合法性，降低地方政府非规范性财政行为的负面风险。最后，正式制度难以调适事权、支出责任与财力之间的矛盾，其中重要症结在于地方政府长期缺乏稳定充足的主体税种，使得地方政府制度内的财政收入长期不足，因此构建以地方主体税种为基础、以非规范性收入为重要补充的地方稳定充足的收入来源是包容性财政体制下的必然选择。（注释略）</font></p></div>
+ 		</div>
+<style>
+.zzjj {font-family: 宋体;}
+.zzjj p {font-size:16px;}
+.zzjj p span {color:#006a80;}
+.zzjj .alist {font-size: 16px;font-weight: normal;height: 30px;}
+.zzjj ul li {height: auto!important;font-size: 16px;font-weight: normal;color: #000;background: none;padding-left: 0;}
+.zzjj ul li a {color:#000}
+.f-main-leftMain_icon {
+    height: 36px;
+    overflow: hidden;
+}
+.f-main-leftMain_programa {
+    margin-top: 15px;
+    clear: both;
+}
+</style>
+
+<div class="f-main-leftMain_programa zzjj">
+          	<a class="alist" style="font-weight:bold; font-family: 微软雅黑;">作者简介</a>
+                <p><span>姓名：</span>吕炜 王伟同 <span>工作单位：</span></p>
+                <p> </p>
+</div>
+
+
+
+
+
+
+			<p><!-- 文档附件start -->	
+<script>
+var msg='';
+if(msg.length!=0)
+{
+document.write("<br><strong>附件：</ strong><br/>");
+}
+</script>
+
+<!-- 文档附件end --></p>
+
+
+
+
+            <p style="border-bottom:1px #999 dashed; margin-bottom:10px; height:15px;"></p>
+
+            <div class="bshare-custom f-main-leftMain_icon">
+<div class="fx">
+	<div id="ops_share"></div>
+	<script src="/images/share_cssn.min.js" charset="utf-8"></script>
+</div>
+<div style="float:right;text-align: right;padding-top: 10px;">
+<span style="font-size:14px; font-family:'宋体'; font-weight:bold">转载请注明来源：</span><span style="font-size:14px; font-family:'宋体'; font-weight:bold; cursor:pointer; color:#FF0000" onclick="window.open('http://www.cssn.cn/')">中国社会科学网</span>
+                <span  class="icon12" style="margin-left: 20px;">（责编：孙龙）</span>
+</div>
+            </div>
+          <div class="f-main-leftMain_programa mobileNone">
+          		<a class="alist">相关文章</a>
+            	<ul>
+				
+				
+                    
+                </ul>
+          </div>
+      </div>
+    </div>
+   <div class="advertisement1 clear mobileNone">
+	<a href="http://www.cssn.cn/lsx/lishixuezhuanti/bwcxljsm/" target="_blank"><img src="http://www.cssn.cn/index/lsggw_nrydb/201801/W020180405754733609442.jpg" alt="W020180116412817190956.jpg" width="696" height="64"/></a>
+</div>
+<br/>
+<div class="rapidPublishedWidth clear mobileNone" style="height:220px;">
+	<div class="f-main-leftMain_programa">
+		<a class="alist">今日热点</a>
+		<ul>
+			
+				<li><a href="http://www.cssn.cn/gggl/gggl_ggsygl/202008/t20200828_5176160.html">巩固提升脱贫攻坚成效的治理机制</a></li>
+			
+				<li><a href="http://www.cssn.cn/gggl/gggl_ggsygl/202008/t20200828_5176160.html">【中国攻坚进行时】城乡融合发展：巩固提升脱贫攻坚成效的治理机制</a></li>
+			
+				<li><a href="http://www.cssn.cn/jjx_yyjjx/yyjjx_cyjjx/202008/t20200828_5176153.html">罗奂劼：全球制造业东西分化明显 中国复苏态势强劲</a></li>
+			
+				<li><a href="http://www.cssn.cn/mkszy/mkszyfzs/202008/t20200828_5176150.shtml">经典何以从未过时、启迪常新</a></li>
+			
+				<li><a href="http://www.cssn.cn/mkszy/mkszy_mkszyjbyl/202008/t20200828_5176145.shtml">民法典的中国特色实践特色时代特色</a></li>
+			
+				<li><a href="http://www.cssn.cn/kgx/kgsb/202008/t20200828_5176138.shtml">南岛语族考古研究基地大变样：遇见史前 一眼千年</a></li>
+			
+		</ul>
+	</div>
+</div>
+<div class="rapidPublishedWidth clear" style="height:68px;border:0px;">
+	<script>
+		function goChannelPage(){
+
+			var thisUrl= window.document.location.pathname;
+			thisUrl = thisUrl.substring(1);
+			var pos = thisUrl.indexOf("/");
+			thisUrl = thisUrl.substring(0,pos);
+			goUrl = "/"+thisUrl;
+
+
+			if(goUrl!="/index"){
+				window.document.location.href = goUrl;
+			}else{
+				window.document.location.href = "/";
+			}
+		}
+	</script>
+	<div style="float: left; width: 100%;"><a href="javascript:goChannelPage();" class="oAprograma" target="_self">回到频道首页</a></div>
+</div>
+ </div>
+
+</div>
+<!-- 头部.logo结束 -->
+
+<script type="text/javascript">
+    function doZoom(size) {
+    var zoom = document.getElementById("Zoom");
+	zoom.className="class"+size;
+    }
+	function doHeight() {
+	var the_height = document.getElementById("con_left").offsetHeight;
+	if(the_height < 2003){
+		document.getElementById("con_left").style.height = "2003px";
+		}
+	}
+	doHeight();
+</script>	
+
+<span style="display:none">
+<img src="./W020210426521672019301.jpg" alt="中国的包容性财政体制——基于非规范性收入的考察.jpg"/>
+</span>
+<!-- 页面底部开始 -->
+<div class="q-foot mobileNone" style="text-align:center;margin-top:5px">
+	<div class="flinkss">
+		<a href="/qt/zgskygk/">中国社会科学院概况</a>|<a href="/qt/zgskyjj/">中国社会科学杂志社简介</a>|<a href="/qt/gyskw/">关于我们</a>|<a href="/qt/flgw/">法律顾问</a>|<a href="/qt/ggfw/">广告服务</a>|<a href="/qt/wzsm/">网站声明</a>|<a href="/qt/lxwm/">联系我们</a>
+	</div>
+	<div class="footer_bottom">
+		<p>值班电话：010-65393398 &nbsp;&nbsp;&nbsp;E-mail：zgshkxw_cssn@163.com&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank" style="color:#3A3A3A;">京ICP备11013869号</a></p>
+		<div class="bottom_mark">
+			<div style="width:32px;height:42px;float:left;"> <a href="http://www.csstoday.net/Index.html"> <div class="aaaa"></div></a></div>
+			<div style="width:440px;height:42px;margin-left:40px;"> <p class="mark_special">中国社会科学网版权所有，未经书面授权禁止使用</p>
+				<p >Copyright © 2011-2019 by <span style="font-family:'SimSun'; font-size:18px">www.cssn.cn.</span> all rights reserved</p>
+				<p><script src="http://s22.cnzz.com/stat.php?id=5545901&web_id=5545901&show=pic" language="JavaScript"></script></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="q-foot pcNone">
+	<div class="flinkss">
+		<a href="/qt/zgskygk/">中国社会科学院概况</a>|<a href="/qt/zgskyjj/">中国社会科学杂志社简介</a>|<a href="/qt/gyskw/">关于我们</a>|<a href="/qt/flgw/">法律顾问</a>|<a href="/qt/ggfw/">广告服务</a>|<a href="/qt/wzsm/">网站声明</a>|<a href="/qt/lxwm/">联系我们</a>
+	</div>
+	<div class="footer_bottom">
+		<p>值班电话：010-65393398</p>
+		<p>E-mail：zgshkxw_cssn@163.com</p>
+		<p>京ICP备11013869号</p>
+		<div class="bottom_mark">
+			<div class="ft1"> <a href="http://www.csstoday.net/Index.html"> <div class="aaaa"></div></a></div>
+			<div class="ft2"> <p class="mark_special">中国社会科学网版权所有，未经书面授权禁止使用</p>
+				<p >Copyright © 2011-2021 by <span>www.cssn.cn.</span></p>
+				<p >all rights reserved</p>
+				<p><script src="http://s22.cnzz.com/stat.php?id=5545901&web_id=5545901&show=pic" language="JavaScript"></script></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div style="height:24px"></div>
+<div style="display:none">
+	<script type="text/javascript">document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=28' type='text/javascript'%3E%3C/script%3E"));</script>
+	<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+<script type="text/javascript">
+             $(function(){
+		    $(".f-main-leftMain-content").find("p").removeAttr("style"); 
+		    $(".f-main-leftMain-content").find("font").removeAttr("style");
+		    $(".f-main-leftMain-content2").find("div").removeAttr("class");
+		})
+</script>
+<!-- 页面底部结束 -->
+
+<script type="text/javascript" src="../../../images/10flexs.js"></script>
+
+<!-- 百度自动推送工具代码 -->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>

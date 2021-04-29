@@ -1,0 +1,846 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<meta http-equiv="content-language" content="utf-8" />
+<meta name="robots" content="all" />
+<meta name="author" content="" />
+<meta name="copyright" content="" />
+<meta name="description" content="社会主义的资本与市场" />
+<meta name="keywords" content="光明日报" />
+<!-- TianRun tongji start-->
+<meta name="webterren_speical" content="gmrbanalytics"/>
+<META name="filetype" content="0">
+<META name="publishedtype" content="1">
+<META name="pagetype" content="1">
+<META name="catalogs" content="11">
+<!-- TianRun tongji end-->
+<link href="../../../tplimg/mulu_4.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<title>社会主义的资本与市场-光明日报-光明网</title>
+
+<SCRIPT language=Javascript src="../../../tplimg/prototype.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/mp.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/calendar-98.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/new.js"></SCRIPT>
+<SCRIPT language=Javascript src="../../../tplimg/range.js"></SCRIPT>
+<style>
+a.ared:link {font-size: 12px;color: #FF0000;text-decoration: none;}
+a.ared:visited {font-size: 12px;color: #FF0000;text-decoration: none;}
+a.ared:hover {font-size: 12px;color: #006699;text-decoration: none;}
+</style>
+<!-- 导航 -->
+<style type="text/css"> 
+#content_nav{ width:950px; margin:0 auto; background:#fff;}
+.content_nav_logobox{ float:left; width:200px; overflow:hidden;}
+.content_nav_logobox img{ float:left; margin:7px 2px 0 5px;}
+.content_nav_logobox p{float:left; width:90px;color:#7789a9;font-size:12px;line-height:18px;text-align:center; overflow:hidden;}
+.content_nav_row01{}
+.content_nav_row01 span{ margin:0 5px;}
+.content_nav_row02{ height:26px; background:url(//img.gmw.cn/pic/nav_bg_corner.gif) 0 -2px no-repeat #747273; margin:0; padding:4px 0 0 20px;}
+.content_nav_row02 span{ margin:0 5px 0 15px; font-weight:bold;}
+.content_nav_row03{ background:#eaeaea; border-top:2px solid #747273; margin:0; padding:0; clear:both; text-align:center; height:30px; line-height:30px;}
+.content_nav_row03 span{ margin:0 12px; font-weight:bold;}
+#content_nav_search{width:240px;float:left;margin:0 0px 0 0;}
+</style> 
+<script type="text/javascript">
+function nTabs(tabObj,obj){
+	var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+	for(i=0; i <tabList.length; i++)
+	{
+		if (tabList[i].id == obj.id)
+		{
+			document.getElementById(tabObj+"_Title"+i).className = "active";
+    		document.getElementById(tabObj+"_Content"+i).style.display = "block";
+		}else{
+			document.getElementById(tabObj+"_Title"+i).className = "normal";
+			document.getElementById(tabObj+"_Content"+i).style.display = "none";
+		}
+	}
+}
+function CopyAll()
+{
+	var obj = document.getElementById("articleContent");
+	if(obj!=null){
+		var content = obj.innerHTML;
+		//content=content.replace("<!--enpcontent-->","");
+		//content=content.replace("<!--/enpcontent-->","");
+		window.clipboardData.setData("Text",content);		
+		alert("复制成功");
+	}		
+}
+function zoomIn() {
+ newZoom= parseInt(ozoom.style.zoom)+10+'%'
+ ozoom.style.zoom =newZoom;
+ } 
+function zoomOut() {
+ newZoom= parseInt(ozoom.style.zoom)-10+'%'
+ ozoom.style.zoom =newZoom;
+ } 
+</script>
+<script type="text/javascript">
+ var focus_width=260;
+ var focus_height=180;
+ var text_height=20;
+ var swf_height = focus_height+text_height;
+ var pics ="";
+ var links ="";
+ var texts ="";
+ var resCount=0;
+ function showArtPics()
+ {
+ if(resCount>0)
+ {
+ pics = pics.substring(0, pics.length-1);
+ links = links.substring(0, links.length-1);
+ texts = texts.substring(0, texts.length-1);
+ var content = "";
+ content += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">';
+ content += '<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="../../../tplimg/picflash.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">';
+ content += '<param name="menu" value="false"/><param name="wmode" value="opaque"/>';
+ content += '<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'">';
+ content += '<embed src="../../../tplimg/picflash.swf" wmode="opaque" FlashVars="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'" menu="false" bgcolor="#ffffff" quality="high" width="'+ focus_width +'" height="'+ focus_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />';
+ content += '<\/object>';
+ document.getElementById("showArtPicsDiv").innerHTML = content;
+ }
+}
+</script>
+
+</head>
+<SPAN id=leveldiv title=点击查看内容
+style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; Z-INDEX: 100; LEFT: 233px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 210px; CURSOR: hand; POSITION: absolute; TOP: 123px; HEIGHT: 34px; BORDER-RIGHT-WIDTH: 0px"></SPAN>
+<body onLoad="initialize();initMPPage();">
+<LINK rel=stylesheet type=text/css href="//img.gmw.cn/css/public_gmw.css">
+<style type="text/css">
+html,body{ width:100%; min-width:1200px; font-family:\5B8B\4F53;}
+
+#channelHead {
+    width: 100%;
+    background: #f1f1f1;
+    border-bottom: 1px #999 solid;
+}
+
+.headtopNav {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 4px 0;
+    height: 24px;
+    line-height: 24px;
+    _padding-bottom: 0;
+}
+
+.headtopNav span {
+    margin: 0 5px;
+    color: #bb2737;
+}
+
+.channeLogin {
+    width: 450px;
+    float: left;
+    height: 24px;
+    line-height: 24px;
+}
+
+.headLogin {
+    width: 80px;
+    height: 18px;
+    border: 1px #ccc solid;
+}
+
+.headSubLog {
+    width: 50px;
+    height: 24px;
+    margin-right: 4px;
+}
+
+.whereGo li {
+    width: 100px;
+    height: 24px;
+    background: #fff;
+    border: 1px #999 solid;
+    float: right;
+    text-align: center;
+    list-style: none;
+    cursor: pointer;
+}
+
+.whereGo {
+    margin-right: 9px;
+}
+
+.whereGo li a {
+    font-size: 12px;
+    color: #000;
+    line-height: 24px;
+}
+
+.whereGo li ul {
+    display: none;
+}
+
+.whereGo li ul li {
+    border-top: none;
+    position: relative;
+    z-index: 2;
+    left: 1px;
+    top: 1px;
+    background: #f2f2f2;
+}
+
+.whereGo li ul a:hover li {
+    background: #bb2737;
+    color: #fff;
+}
+
+.whereGo li:hover ul {
+    display: block;
+}
+
+.channelNav {
+    width: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    clear: both;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    z-index: 1;
+    padding-top: 6px;
+}
+
+.channelNav li {
+    padding: 0 11px;
+    list-style: none;
+    float: left;
+    border-right: 1px #ccc solid;
+    font-size: 12px;
+    color: #000;
+    line-height: 14px;
+}
+
+.channelNav li a {
+    color: #000;
+}
+
+.channelNav li a:hover {
+    color: #bb2737;
+}
+
+.lightgrey12 {
+    font-size: 12px;
+    color: #ccc;
+}
+
+.footLine {
+    clear: both;
+	width: 1000px;
+    margin: 0 auto;
+    height: 0;
+    font-size: 0;
+    border-bottom: 1px #999 solid;
+}
+</style>
+<!-- 微信分享logo -->
+<div id="shareImg" style="width:0px; height: 0px;">
+    <img style="width: 0px;height:0px;" src='//img.gmw.cn/pic/gmrb_logo_white_180x180.png' />
+</div>
+<div id="channelHead">
+    <div class="grey12_3 headtopNav">
+        <div style="width:400px; float:left;"><img src="//img.gmw.cn/pic/Logo.png" style="float:left; padding-top:2px;" /><span><a class="red12" style="color:#bb2737;" href="//www.gmw.cn/">首页</a></span><span><a style="color:#bb2737;" href="//en.gmw.cn/">English</a></span></div>
+        <!--<div class="channeLogin" id="loginbar_new">
+    载入中...
+    </div>-->
+        <ul class="whereGo">
+            <li>您想去哪里？
+                <ul class="wgse">
+                    <a href="//pic.gmw.cn/">
+                        <li>光明图片</li>
+                    </a>
+                    <a href="mailto:net@gmw.cn">
+                        <li>我要投稿</li>
+                    </a>
+                </ul>
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="channelNav">
+    <li><a href="//politics.gmw.cn/">时政</a></li>
+    <li><a href="//world.gmw.cn/">国际</a></li>
+    <li><a href="//guancha.gmw.cn/">时评</a></li>
+    <li><a href="//theory.gmw.cn/">理论</a></li>
+    <li><a href="//culture.gmw.cn/">文化</a></li>
+    <li><a href="//tech.gmw.cn/">科技</a></li>
+    <li><a href="//edu.gmw.cn/">教育</a></li>
+    <li><a href="//economy.gmw.cn/">经济</a></li>
+    <li><a href="//life.gmw.cn/">生活</a></li>
+    <li><a href="//legal.gmw.cn/">法治</a></li>
+    <li><a href="//mil.gmw.cn/">军事</a></li>
+    <li><a href="//health.gmw.cn/">卫生</a></li>
+    <li><a href="//yangsheng.gmw.cn/">养生</a></li>
+    <li><a href="//lady.gmw.cn/">女人</a></li>
+    <li><a href="//e.gmw.cn/">文娱</a></li>
+    <li><a href="//v.gmw.cn/">电视</a></li>
+    <li><a href="//photo.gmw.cn">图片</a></li>
+    <li><a href="http://www.guangminggame.com/">游戏</a></li>
+    <li><a href="//epaper.gmw.cn/">光明报系</a></li>
+    <li style="border:none;"><a href="//www.gmw.cn/map.htm">更多>></a></li>
+</div>
+<script type="text/javascript">
+function getCookie(c_name) //获得指定名称的cookie值
+{
+    if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=")
+        if (c_start != -1) {
+            c_start = c_start + c_name.length + 1
+            c_end = document.cookie.indexOf(";", c_start)
+            if (c_end == -1) c_end = document.cookie.length
+            return unescape(document.cookie.substring(c_start, c_end))
+        }
+    }
+    return ""
+}
+
+var cookie_name = decodeURIComponent(getCookie('Example_auth_username'));
+var cookie_name_epaper = decodeURIComponent(getCookie('Example_auth_username_epaper'));
+
+if (document.getElementById('loginbar_new') != null) {
+    var if_loginbar_new = 1;
+}
+
+if (if_loginbar_new == 1) {
+    if (cookie_name.length > 0 && cookie_name_epaper.length > 0) {
+        document.getElementById('loginbar_new').innerHTML = "<div id='login'>" + cookie_name_epaper + "&nbsp;&nbsp;您好!&nbsp;&nbsp;<a style='color:#FF6600;' href='//home.gmw.cn/' target='_blank'>光明网用户统一登录平台</a>&nbsp;&nbsp;<a href=\"//www.gmw.cn/gm\" target=\"_blank\" style='color:#FF6600;'>光明日报社员工门户</a>&nbsp;&nbsp;<a href='//epaper.gmw.cn/app/web/logout.html' target='_self'>安全退出</a></div>";
+    } else if (cookie_name.length > 0 && cookie_name_epaper.length <= 0) {
+        document.getElementById('loginbar_new').innerHTML = "<div id='login'>" + cookie_name + "&nbsp;&nbsp;您好!&nbsp;&nbsp;<a style='color:#FF6600;' href='//home.gmw.cn/' target='_blank'>光明网用户统一登录平台</a>&nbsp;&nbsp;<a href='//epaper.gmw.cn/app/web/logout.html' target='_self'>安全退出</a></div>";
+
+    } else if (cookie_name.length <= 0 && cookie_name_epaper.length > 0) {
+        document.getElementById('loginbar_new').innerHTML = "<div id='login'>" + cookie_name_epaper + "&nbsp;&nbsp;您好!&nbsp;&nbsp;<a href=\"//www.gmw.cn/gm\" target=\"_blank\" style='color:#FF6600;'>光明日报社员工门户</a>&nbsp;&nbsp;<a href='//epaper.gmw.cn/app/web/logout.html' target='_self'>安全退出</a></div>";
+    } else {
+        document.getElementById('loginbar_new').style.display = "none";
+    }
+
+}
+</script>
+<script type="text/javascript" src="//img.gmw.cn/js/jquery.js"></script>
+<script>
+$(document).ready(function() {
+    $("#articleContent p[mce_keep=true]").each(function() {
+        if ($(this).html() == "&nbsp;") { //如果没有文字，仅为一个空格
+            $(this).remove(); //删除空行  
+        }
+    });
+
+
+    for (var i = 0; i < $("#articleContent p").length; i++) {
+        var str = $("#articleContent p").eq(i).html();
+        var strNew = str.replace('&nbsp;&nbsp;&nbsp;&nbsp;', '　　'); //替换为全角空格
+        $("#articleContent p").eq(i).html(strNew);
+    }
+	
+	for (var i = 0; i < $(".imgDesc p").length; i++) {
+		var str1 = $(".imgDesc p").eq(i).html();
+		var strNew1 = str1.replace('&nbsp;&nbsp;&nbsp;&nbsp;', ''); //删除图片说明空格
+		$(".imgDesc p").eq(i).html(strNew1);
+	}
+});
+</script>
+<!--微信分享-->
+<script src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript">
+var url = location.href.split('#')[0];
+$.ajax({
+    url: "//jshare.gmw.cn/app/gmwshare/wx/7/9/",
+    //url:"//jshare.gmw.cn/now/sourectoken/sdk.js",
+    data: {
+        url: url
+    },
+    method: "GET",
+    dataType: "jsonp",
+    jsonp: "callback",
+    jsonpCallback: "jsonpCallback",
+    success: function(data) {
+        wx.config({
+            // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+            debug: false,
+            // 必填，公众号的唯一标识
+            appId: data[0].wx_appid,
+            // 必填，生成签名的时间戳
+            timestamp: data[1].wx_timestamp,
+            // 必填，生成签名的随机串
+            nonceStr: data[2].wx_nonceStr,
+            // 必填，签名
+            signature: data[3].wx_signature,
+            // 必填，需要使用的JS接口列表
+            jsApiList: [
+                'onMenuShareTimeline',
+                'onMenuShareAppMessage'
+            ]
+        });
+        wx.ready(function() {
+            var shareTitle = document.title;
+            var shareImg = $("#shareImg").attr('src') || window.location.protocol + '//img.gmw.cn/pic/gmrb_logo_white_180x180.png';
+            var shareDes = document.querySelector('meta[name="description"]') ? document.querySelector('meta[name="description"]').getAttribute('content') : '光明数字报';
+            //var link_o =  decodeURIComponent( GetQueryString( "location" ) );
+            //console.log("link_o:" + link_o);
+            wx.onMenuShareTimeline({
+                title: document.title,
+                desc: shareDes,
+                imgUrl: shareImg,
+                link: window.location.href,
+                trigger: function(res) {
+                    // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击发送给朋友');
+                },
+                success: function(res) {
+                    //alert('已分享');
+                },
+                cancel: function(res) {
+                    //alert('已取消');
+                },
+                fail: function(res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+            wx.onMenuShareAppMessage({
+                title: document.title,
+                desc: shareDes,
+                imgUrl: shareImg,
+                link: window.location.href,
+                trigger: function(res) {
+                    // 不要尝试在trigger中使用ajax异步请求修改本次分享的内容，因为客户端分享操作是一个同步操作，这时候使用ajax的回包会还没有返回
+                    //alert('用户点击发送给朋友');
+                },
+                success: function(res) {
+                    //alert('已分享');
+                },
+                cancel: function(res) {
+                    //alert('已取消');
+                },
+                fail: function(res) {
+                    //alert(JSON.stringify(res));
+                }
+            });
+        });
+    },
+    error: function(error) {
+        //alert("error")
+    }
+})
+</script>
+
+<!--头部-->
+<div class="head"> </div>
+<!--菜单-->
+<div class="menu"> </div>
+<!--内容部分-->
+<div class="content">
+  <!--左侧版面图部分-->
+  <div class="left_c">
+    <div class="ban">
+       <div>
+        <map name=PagePicMap><Area coords="4,43,325,43,325,60,234,60,234,564,4,564" shape="polygon" href="nw.D110000gmrb_20210426_1-15.htm"><Area coords="244,69,396,69,396,564,244,564" shape="polygon" href="./nw.D110000gmrb_20210426_2-15.htm"></map><img  width=400 height=575 src=../../../images/2021-04/26/15/2021042615_big.jpg border=0 USEMAP=#PagePicMap></div>
+    </div>
+    <div class="ban_t">
+      <div>
+        <ul>
+          <li>
+            15版:文史哲周刊·理论·哲学
+&nbsp;&nbsp;
+            <a class=preart href="nbs.D110000gmrb_14.htm"><img src='../../../tplimg/left_ico.gif' border=0 /> 上一版</a>&nbsp;&nbsp;<a class=preart href="nbs.D110000gmrb_16.htm">下一版 <img src='../../../tplimg/right_ico.gif' border=0 /></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<style>
+.gmrb_copyright{ font-size:14px; line-height:1.5em; color:#900; padding:5px;}
+</style>
+<div class="gmrb_copyright">
+<p>版权声明：凡《光明日报》上刊载作品（含标题），未经本报或本网授权不得转载、摘编、改编、篡改或以其它改变或违背作者原意的方式使用，授权转载的请注明来源“《光明日报》”。</p></div>
+
+
+
+	<iframe src="https://news.gmw.cn/node_45500.htm" width="100%" height="890" scrolling="no" frameborder="0" border="0"></iframe>
+
+  </div>
+  <!--右侧目录部分-->
+  <div class="right_c">
+    <div class="head_c"> <span onMouseOver="document.getElementById('rmrbbx').style.display = 'block';" onMouseOut="document.getElementById('rmrbbx').style.display = 'none';">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>报&nbsp;纸</td>
+          <td><img style="margin-left:50px; " src="../../../tplimg/ico10.gif" border="0" alt="" /></td>
+        </tr>
+      </table>
+      </span> <span onMouseOver="document.getElementById('rmrbbx1').style.display = 'block';" onMouseOut="document.getElementById('rmrbbx1').style.display = 'none';">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>杂&nbsp;志</td>
+          <td><img style="margin-left:50px; " src="../../../tplimg/ico10.gif" border="0" alt="" /></td>
+        </tr>
+      </table>
+    </span>
+	<span style=" width:210px; background:none; border:none;">
+      光明日报
+      <b>
+      2021年04月26日 星期一
+    </b> </span>
+	
+	</div>
+    
+    <div class="menu_c"><span id="upqi">&nbsp;<a href="#" onClick="goPrePeriod()">&lt;&nbsp;上一期</a>&nbsp;<a href="#" onClick="goNextPeriod()">下一期&nbsp;&gt;</a></span> 往期回顾 <a onClick="autoShowDate();" style="cursor:hand;" title="鼠标点击，显示日历牌"><img src="../../../tplimg/ico1.gif" border="0" alt="" /></a>&nbsp; &nbsp;<a href="//search.gmw.cn/" target="_blank">数字报检索</a>&nbsp; &nbsp;<a href=nbs.D110000gmrb_15.htm>返回目录</a></div>
+    <!--目录与标题-->
+    <div class="list_t">
+      <div class="text_c">
+        
+<h3></h3>
+<h1>社会主义的资本与市场</h1>
+<h2></h2>
+
+        <div class="lai">
+          <span>作者：何 萍</span>
+          <b>《光明日报》（ 2021年04月26日&nbsp;15版）</b></div>
+        <div class="c_c">
+          
+          <DIV id=ozoom style="zoom:100%;" align="left">
+            <div id="showArtPicsDiv" align="center"></div>
+            <div id="articleContent">
+            <!--enpcontent--><P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>编者按：着力构建中国特色哲学社会科学，需要学界深化对当前重大理论和实践问题的研究。回应现实问题既是经济哲学研究的灵魂，又是经济哲学研究的使命所在。为此，我们特别约请国内长期从事马克思主义经济哲学研究的学者围绕马克思对资本范畴本质的揭示、社会主义的资本与市场主题展开研讨，以飨读者。</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;如何正确认识资本范畴，正成为哲学、经济学、政治学等学科探讨的理论课题。在这些探讨中，中国学界面临的一大理论难题，就是如何说明资本与社会主义的关系问题：资本能不能为社会主义所用？社会主义能不能克服资本的负面效应而发挥资本的正面效应？事实上，关于这些问题，马克思、恩格斯和列宁都进行过探讨，只是人们很少从社会主义经济形式及其产生的内在必然性角度加以理解。因此，联系中国自改革开放以来40多年的社会主义市场经济建设探索史，重温马克思、恩格斯和列宁对这个问题的思考，对于我们厘清资本与社会主义关系的一些重要理论问题，建立坚持社会主义基本经济制度的理性自觉具有重大意义。</P>
+<P align=center>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>货币与资本</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;资本与社会主义究竟是一种什么样的关系？按照目前流行的观点，资本是资本主义生产的本质，社会主义可以利用资本，但必须加以批判，要在批判的立场上借鉴资本的积极因素。这一观点的基本点是，资本是资本主义的专利品，它只为资本主义所有，社会主义是不能拥有资本的，更不能将资本引入社会主义的经济运行机制，因此，社会主义只能利用资本，并且是批判地利用。这一观点表面上看似正确，但在理论上却与马克思对资本的说明有一定的差距，这个差距直接影响到我们对资本的科学认识，以及对当下中国的社会主义市场经济建设中的诸多理论问题的准确把握，因此，我们有必要重温马克思对资本的说明。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;在马克思那里，资本是一个历史性的概念。首先，资本有自然形成的资本与现代资本之分：自然形成的资本是前资本主义社会的资本形式，这种资本的特点是以实物为计算单位，并且同它的占有者的劳动是联系在一起的，因而它总是维持着简单再生产，马克思将其称之为“等级资本”；现代资本是伴随着资本主义的发展而出现的，它是一种扩大再生产的生产形式，亦是现代的交换经济形式。这种经济形式的形成需要具备三个条件：第一，“以货币计算”资本。马克思认为，以货币计算，“资本体现为哪一种物品都一样”，这是资本与劳动分离的前提，因而也是现代资本的逻辑起点。第二，市场，尤其是世界市场，是现代资本产生的历史前提。马克思强调：“商品流通是资本的起点。商品生产和发达的商品流通，即贸易，是资本产生的历史前提。世界贸易和世界市场在16世纪揭示了资本的现代生活史。”第三，资本的占有权与劳动相分离，这是现代资本的显著特征。在马克思看来，这三个条件，从内在的发展看，是价值形式从最初的、偶然的物物交换转变为经常性的、必然的一般价值的交换，并将用于一般价值交换的等价物固定在货币这种等价物的逻辑进程；从外在的发展看，是商品交换的不断发达、世界市场形成的历史产物。于是，货币和世界市场就成为现代资本运动的两个必要的条件，也是现代资本的标志。马克思考察现代资本产生的这三个条件是以资本主义社会的形成为蓝本的，他也以这三个条件来剖析资本主义的生产方式及其特点。但是，在马克思那里，共产主义社会，是比资本主义更高形态的现代社会，是扬弃了资本主义生产方式缺陷的社会。在马克思看来，资本主义生产方式的内在缺陷，就是它的私有制允许它放任市场，从而造成了每隔十年或二十年一次的周期性危机，也造成了社会的不公正和人的异化；社会主义经济是消灭私有制，把现代资本置于社会主义的国家权力之下，进行有计划的调节生产。在《资本论》中，他在考察资本主义积累的历史趋势时指出，对资本主义的否定“不是重新建立私有制，而是在资本主义成就的基础上，也就是说，在协作和对土地及靠劳动本身生产的生产资料的共同占有的基础上，重新建立个人所有制”。马克思这里所说的“重新建立个人所有制”，就是建立以社会的生产经营为基础的社会所有制，具体地说，就是“无产阶级将利用自己的政治统治，一步一步地夺取资产阶级的全部资本，把一切生产工具集中在国家即组织成为统治阶级的无产阶级手里，并且尽可能快地增加生产力的总量”“通过拥有国家资本和独享垄断权的国家银行，把信贷集中在国家手里”。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;从马克思对资本的历史性考察中，不难看出，资本这个概念，在马克思那里，有狭义和广义之分：狭义的资本，特指资本主义的扩大再生产形式，而且主要是用于说明资本主义的资本积累的本质，在这里，剩余价值的实现、世界市场、危机等，构成了资本运动的核心内容；广义的资本，是指人类再生产所需要的资金，这是无论哪一种社会形态中，只要进行再生产，都必须具备的前提条件。在广义资本的概念中，马克思将资本区分为前现代的和现代的两种形式，进而在现代资本中，把共产主义的资本作为扬弃了资本主义的资本缺陷的生产形式。这一思想无疑为后来的马克思主义者创造社会主义的经济形式、认识社会主义的经济规律，提供了重要的方法论启示。这个方法论的启示最重要的有两点：其一，社会主义的经济形式只能以现代资本的发展为基础，在现代资本的框架下构造自己的经济形式；其二，货币、市场应该成为探索社会主义经济形式的两个必要的要素。自20世纪初开始，世界各国的马克思主义者对社会主义经济形式的探讨主要围绕着这两点展开，其中，市场与社会主义的关系问题成了焦点。</P>
+<P align=center>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>市场与社会主义</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;十月革命的胜利、苏维埃政权的建立，为创造社会主义的经济形式奠定了实践基础。从这时开始，苏俄曾经创造过两种社会主义的经济形式：一种是列宁率先提出，并在苏维埃政权建立初期实施的新经济政策；一种是苏联在20世纪20年代末建立起来的计划经济体制。这两种社会主义经济形式都强调无产阶级国家在组织社会主义经济活动中的主导作用，也都采用了货币计算的资本，可以说，在这两点上，这两种经济形式都践行了马克思有关建立共产主义资本的原则，但在如何看待市场、是否将市场作为社会主义经济的调节机制上，却持不同的态度：新经济政策是列宁根据俄国十月革命后的历史状况制定的一种特殊的过渡形式的经济形式。列宁将新经济政策的实质概括为：“第一，无产阶级国家准许小生产者有贸易自由；第二，对于大资本的生产资料，无产阶级国家采用资本主义经济学中叫作‘国家资本主义’的一系列原则。”这两点表明，列宁对市场是持肯定态度的，并力图借助市场来激活社会主义经济，提高社会主义国家的生产力发展水平。不仅如此，列宁认为，建立自由贸易，拓宽流通渠道，对于在宗法式经济基础上建设社会主义的俄国来说，还能有效地克服官僚主义，战胜小资产阶级的意识形态，培育现代民主意识。新经济政策的实施的确给新生的苏维埃国家带来了经济、政治和文化的繁荣，只是这项政策被当作过渡形式的经济形式未能持续下去，因此，它的最终效果也无法确定。代之而起的苏联的计划经济体制却对市场采取了完全否定的做法，把生产资料的分配、产品价格的定价、生产的投资、消费品的分配等各个环节都纳入了中央政府的计划之中，变成了中央相关部门指令。这样一种经济体制使苏联成功地规避了20世纪30年代因世界市场动荡所造成的资本主义世界的严重的经济危机，带来了苏联经济的高速增长，从而向世界展示了计划在配置经济资源中的积极意义。但是，从现代资本运动的规律看，一个长期缺乏市场调节的经济体制，很难维持经济的持续高速增长。正是这样，苏联的计划经济体制在经过长时间的运作后，就产生了供需关系的不协调，出现了短缺经济现象，苏联的经济发展速度也随之变缓。这种现象不仅出现在苏联，也出现在追随苏联建立了计划经济体制的社会主义国家。于是，从20世纪80年代开始，各国的马克思主义者提出了市场与社会主义关系问题，力图将计划与市场相结合，建立一种新的社会主义经济体制。这一过程表明，社会主义经济作为现代资本的一种运行方式，有着自身的规律，人们对社会主义与市场关系的认识，就是对社会主义经济规律的认识。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;与世界上各社会主义国家一样，中国也经历了一个探索社会主义经济规律，创造具有中国特色的社会主义经济形式的过程。早在20世纪50年代，中国在模仿苏联建立社会主义计划经济体制时，就开始思考市场对于社会主义资本运行的积极意义。毛泽东同志在《论十大关系》中，分析了重工业、轻工业和农业三者之间的辩证关系，强调农业和轻工业是重工业生产的资金来源和消费市场，中国要保持重工业的高速发展，就必须要在重工业、轻工业和农业三者之间保持恰当的比例关系。只不过，在社会主义等于计划经济这个观念下，中国把这个市场的规模以及它的发展速度一并纳入了国家统一计划之中，使其丧失了市场进行经济资源配置的功能。这就使中国的经济发展逐渐失去了活力，从而在20世纪70年代遇到了与其他社会主义国家一样的经济发展瓶颈问题。于是，自20世纪80年代开始，中国学术界就在社会主义初级阶段理论的指导下重温列宁的新经济政策理论，探讨市场与社会主义的关系问题。与此同时，国家也率先在农村进行经济体制改革，在宏观计划的框架下，引入市场机制，发挥市场在资源配置中的积极作用，使之服务于社会主义经济的发展。到20世纪90年代中期，这样一种经济体制改革的思路在事业单位和大型国有企业得以推广，社会主义市场经济建设开始驶入快车道。也就是从这时开始，人们越来越感受到了资本的存在。其实，没有市场，资本也实实在在地存在着，资本是一种不依人的意志为转移的客观存在，没有这种客观存在，我们是不可能进行生产和生活的。因此，我们今天讨论资本的问题，不应该是要不要资本的问题，不应该是否定资本存在的问题，而应该是需要什么样的资本的问题。解答这一问题，就需要研究市场与资本的关系，研究在今天的中国，如何坚持和完善社会主义基本经济制度，以充分发挥市场在资源配置中的决定性作用，更好发挥政府作用，推动有效市场和有为政府更好结合，建立公平正义的经济机制，进而保证政治上的公平正义，展示中国特色社会主义制度的优越性。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>（作者：何&nbsp;萍，系武汉大学哲学学院教授）</STRONG></P><!--/enpcontent-->
+<INPUT type=checkbox value=0 name=titlecheckbox sourceid="<Source>SourcePh</Source>" style="display:none">
+          </div>
+          </DIV>
+        </div>
+      </div>
+    </div>
+    <!--工具条-->
+    <div class="tool_t"> <a href=nbs.D110000gmrb_15.htm>返回目录</a> &nbsp;&nbsp;&nbsp;<a href="#" onClick="zoomIn();">放大</a><a href="#" onClick="zoomOut();"><img src="../../../tplimg/ico6.gif" border="0" alt="" />缩小</a><a href="#" onClick="CopyAll();"><img src="../../../tplimg/ico7.gif" border="0" alt="" />全文复制</a>&nbsp;&nbsp;&nbsp;
+      
+		
+		<a class=preart href="nw.D110000gmrb_20210426_1-15.htm"><img src='../../../tplimg/ico8.gif' border=0 /> 上一篇</a>
+		
+    </div>
+    <!--结束工具条-->
+  </div>
+<!-- 选择报纸杂志及日期 -->
+<!--epaper_selection.htm-->
+<!--报刊开始-->
+<style>
+	.content {
+		position: relative;
+	}
+
+	/* .selection{ width: 1200px; position: absolute; left:50%; margin-left: -600px;} */
+	#rmrbbx {
+		display: none;
+		position: absolute;
+		width: 120px;
+		top: 45px;
+		left: 50%;
+		margin-left: -43px;
+	}
+
+	#rmrbbx1 {
+		display: none;
+		position: absolute;
+		width: 120px;
+		top: 45px;
+		left: 50%;
+		margin-left: 54px;
+	}
+
+	#daydh {
+		position: absolute;
+		width: 300px;
+		top: 115px;
+		left: 50%;
+		margin-left: -45px;
+		filter: alpha(opacity=90);
+	}
+</style>
+<div class="selection">
+	<div id="rmrbbx" onMouseOver="document.getElementById('rmrbbx').style.display = 'block';" onMouseOut="document.getElementById('rmrbbx').style.display = 'none';">
+		<table width="100" border="0" cellpadding="0" cellspacing="1" bordercolor="#007CD2" bgcolor="#007CD2">
+			<tr>
+				<td bgcolor="#D8EFFF" style="padding: 3px;">
+					<table width="100" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td bgcolor="#FFFFFF" style="padding: 1px;" valign="top">
+								<table width="100" border="0" cellpadding="0" cellspacing="0" height="23">
+									<tr>
+										<td width="99" bgcolor="#ffffff" align="center" valign="top">
+											<table width="85" border="0" cellpadding="0" cellspacing="0" style="margin: 5px 0;">
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//epaper.gmw.cn/gmrb/paperindex.htm" target="_blank">光明日报</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://www.gmw.cn/03rili/jbcx_gb.htm" target="_blank">光明日报(1985.01
+															- 2009.12)</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//epaper.gmw.cn/zhdsb/paperindex.htm" target="_blank">中华读书报</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://www.gmw.cn/03rili/jbcx_gb.htm" target="_blank">中华读书报(1998.01
+															- 2010.08)</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//epaper.gmw.cn/wzb/paperindex.htm" target="_blank">文摘报</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://www.gmw.cn/03rili/jbcx_gb.htm" target="_blank">文摘报(1998.01
+															- 2010.08)</a></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--报刊结束-->
+	<!--杂志开始-->
+	<div id="rmrbbx1" onMouseOver="document.getElementById('rmrbbx1').style.display = 'block';" onMouseOut="document.getElementById('rmrbbx1').style.display = 'none';">
+		<table width="100" border="0" cellpadding="0" cellspacing="1" bordercolor="#007CD2" bgcolor="#007CD2">
+			<tr>
+				<td bgcolor="#D8EFFF" style="padding: 3px;">
+					<table width="100" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td bgcolor="#FFFFFF" style="padding: 1px;" valign="top">
+								<table width="100" border="0" cellpadding="0" cellspacing="0" height="23">
+									<tr>
+										<td width="99" bgcolor="#ffffff" align="center" valign="top">
+											<table width="85" border="0" cellpadding="0" cellspacing="0" style="margin: 5px 0;">
+												<!-- 因域名被抢注，暂注释 2019.5.31 from yn-->
+												<!-- <tr>
+                          <td height="20" align="left" class="fontstyle"><a href="//www.laobm.com/" target="_blank">新天地</a></td>
+                        </tr> -->
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//book.gmw.cn/" target="_blank">出版社</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://kaoshi.gmw.cn/" target="_blank">考试</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//epaper.gmw.cn/blqs/paperindex.htm" target="_blank">博览群书</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://www.gmw.cn/02blqs/default.htm" target="_blank">博览群书(1998.01-2009.08)</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="//epaper.gmw.cn/sz/paperindex.htm" target="_blank">书摘</a></td>
+												</tr>
+												<tr>
+													<td height="20" align="left" class="fontstyle"><a href="http://www.gmw.cn/03rili/szcx.htm" target="_blank">书摘(1998.01-2009.08)</a></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!--杂志结束-->
+	<script language=JavaScript>
+		<!--
+		document.write("<div id=detail style=position:absolute;width:300px;></div>");
+		//-->
+	</script>
+	<!--选择日期-->
+	<div id="daydh" style="display:none;" onmouseover="document.getElementById('daydh').style.display='block';">
+		<form name=CLD style="padding:0px;margin:0px;">
+			<table width="210" border="0" cellpadding="0" cellspacing="1" bordercolor="#007CD2" bgcolor="#007CD2">
+				<tr>
+					<td bgcolor="#D8EFFF" style="padding: 3px;">
+						<table cellspacing=0 cellpadding=0 width="100%" align=center border=0 bgcolor="#D8EFFF">
+							<tr>
+								<td>
+									<table width="100%" align=center border="0" cellpadding="1" cellspacing="1">
+										<tr class="default" align=center>
+											<td height=15 colspan=7 bgcolor="#FFFFFF">
+												<table width="100%" border="0" cellpadding="2" cellspacing="0">
+													<tr align="center">
+														<td align="left" nowrap><img src="//epaper.gmw.cn/gmrb/tplimg/d1.gif" width="7" height="11" style="cursor:hand;"
+															 onClick="turnpage(SY,0)" /></td>
+														<td><select class=jumpmenu onChange=changeMPCld() name=SY>
+																<script language=JavaScript>
+																	for (i = 1985; i < 2051; i++)
+																		document.write('<option>' + i + '</option>')
+																</script>
+															</select>
+														</td>
+														<td><img src="//epaper.gmw.cn/gmrb/tplimg/d.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SY,1)" /></td>
+														<td align="center" nowrap><img src="//epaper.gmw.cn/gmrb/tplimg/d1.gif" width="7" height="11" style="cursor:hand;"
+															 onClick="turnpage(SM,0)" /></td>
+														<td><select class=jumpmenu onChange=changeMPCld() name=SM>
+																<script language=JavaScript>
+																	<!--
+																	for (i = 1; i < 13; i++) document.write('<option>' + i + '</option>')
+																	//-->
+																</script>
+															</select>
+														</td>
+														<td><img src="//epaper.gmw.cn/gmrb/tplimg/d.gif" width="7" height="11" style="cursor:hand;" onClick="turnpage(SM,1)" /></td>
+														<td align="right" nowrap><strong>
+																<font id=GZ fface="Arial, Helvetica, sans-serif"></font>
+															</strong></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr align=middle bgcolor="#FFFFFF" class="default">
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">日</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">一</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">二</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">三</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">四</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">五</font>
+												</b></td>
+											<td bgcolor="#027CD1" align="center" class="fontstyle01"><b>
+													<font face="Arial, Helvetica, sans-serif">六</font>
+												</b> </td>
+										</tr>
+										<script language=JavaScript>
+											<!--
+											var gNum;
+											for (i = 0; i < 6; i++) {
+												document.write('<tr align=center>');
+												for (j = 0; j < 7; j++) {
+													gNum = i * 7 + j;
+													document.write('<td  bgcolor="#FFFFFF" class="default" align=center id="GD' + gNum +
+														'" style="cursor: default;" width="14%"><a href="" id="CD' + gNum +
+														'"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onMouseOver="mOvr(' +
+														gNum + ')" onMouseOut="mOut()" id="SD' + gNum + '"');
+													document.write('></font></span></a><br><font id="LD' + gNum +
+														'" size=2 class=pt9 style=display:none></font></td>');
+												}
+
+												document.write('</tr>');
+											}
+											//-->
+										</script>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" height="22"><a href="#" onClick="autoShowDate();">关闭</a></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+</div>
+
+</div>
+<!--结束内容部分-->
+<!-- 页尾 -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<div class="footLine"></div>
+<div class="black12" style=" margin:0 auto; padding:0; text-align:center; clear:both;">
+<p><a href="//about.gmw.cn/node_21441.htm">光明日报社概况</a> | <a href="//about.gmw.cn/aboutus.htm">关于光明网</a> | <a href="//about.gmw.cn/node_8926.htm">报网动态</a> | <a href="//about.gmw.cn/node_46280.htm">联系我们</a> | <a href="//about.gmw.cn/node_46279.htm">法律声明</a> | <a href="//mail.gmw.cn/">光明网邮箱</a> | <a href="//www.gmw.cn/map.htm">网站地图</a></p>
+<p>光明网版权所有</p>
+</div>
+<SCRIPT language=Javascript src="/time_rui.js"></SCRIPT>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20947729-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- GMW Statistics -------------------BEGIN-------- -->
+<script>document.write(unescape("%3Cscript type='text/javascript' src='//channel-analysis-js.gmw.cn/md.js?" + Math.random() + "'%3E%3C/script%3E"));</script>
+<!-- GMW Statistics -------------------END -------- -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://img.gmw.cn/js/gmw-ar.js"></script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=4+gli1aUCm00OA" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+</body>
+</html>
+
+<!--mpproperty <founder-date>
+2021-04-26
+</founder-date>
+<founder-author>
+何 萍
+</founder-author>
+<founder-title>社会主义的资本与市场
+</founder-title>
+<founder-nodename></founder-nodename>
+<founder-keyword>
+
+</founder-keyword><founder-ChannelID>
+1
+</founder-ChannelID><founder-imp>0</founder-imp>
+<founder-subtitle></founder-subtitle>
+<founder-type>1</founder-type>
+<founder-description>    编者按：着力构建中国特色哲学社会科学，需要学界深化对当前重大理论和实践问题的研究。回应现实问题既是经济哲学研究的灵魂，又是经济哲学研究的使命所在。为此，我们特别约请国内长期从事马克思主义经济哲...</founder-description>
+<founder-introtitle></founder-introtitle>
+<founder-pagepicurl>http://site1/gmrb/images/2021-04/26/15/2021042615_brief.jpg</founder-pagepicurl>
+<founder-pagenum>15</founder-pagenum>
+<founder-papername>光明日报</founder-papername>
+<founder-nodeid>21</founder-nodeid> /mpproperty-->
+
+
+
+<!--mpproperty <founder-date>
+2021-04-26
+</founder-date>
+<founder-author>
+何 萍
+</founder-author>
+<founder-title>社会主义的资本与市场
+</founder-title>
+<founder-nodename></founder-nodename>
+<founder-keyword>
+
+</founder-keyword><founder-ChannelID>
+1
+</founder-ChannelID><founder-imp>0</founder-imp>
+<founder-subtitle></founder-subtitle>
+<founder-type>1</founder-type>
+<founder-introtitle></founder-introtitle>
+<founder-pagepicurl>http://site1/gmrb/images/2021-04/26/15/2021042615_brief.jpg</founder-pagepicurl>
+<founder-pagenum>15</founder-pagenum>
+<founder-papername>光明日报</founder-papername>
+<founder-nodeid>21</founder-nodeid> /mpproperty-->
+
+
